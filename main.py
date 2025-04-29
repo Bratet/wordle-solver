@@ -1,54 +1,60 @@
+#!/usr/bin/env python3
+"""
+Interactive Wordle Solver
+------------------------
+This script allows users to input a target word and see how the entropy-based solver
+attempts to solve it, showing the thought process and guesses along the way.
+"""
+
 from wordle import Wordle
-from utils import print_colored_feedback
+from strategies import EntropyBasedStrategy, MinimaxBasedStrategy, FrequencyBasedStrategy
 
 
-def play_wordle_cli():
-    """Play Wordle in the command line"""
-    # Create a game instance
-    game = Wordle()
-    
-    print(f"Welcome to Wordle! Guess the {game.word_length}-letter word in {game.max_attempts} attempts.")
-    print("After each guess, you'll get feedback:")
-    print("  🟩 = correct letter in correct position")
-    print("  🟨 = correct letter in wrong position")
-    print("  ⬛ = letter not in word")
-    print(f"Target word (for testing): {game.target_word}")  # Remove this line in the final version
-    
+def get_valid_word(prompt: str, word_list: list) -> str:
+    """Get a valid word from user input."""
     while True:
-        state = game.get_game_state()
-        
-        # Print previous guesses and feedback
-        for i, (guess, feedback) in enumerate(zip(state["guesses"], state["feedbacks"])):
-            print(f"Guess {i+1}: {print_colored_feedback(guess, feedback)}")
-        
-        # Check if game is over
-        if state["game_over"]:
-            if state["won"]:
-                print(f"Congratulations! You guessed the word: {game.target_word.upper()}")
-            else:
-                print(f"Game over! The word was: {game.target_word.upper()}")
-            
-            play_again = input("Play again? (y/n): ").lower()
-            if play_again != 'y':
-                break
-            game.reset_game()
-            print("\nNew game started!")
-            print(f"Target word (for testing): {game.target_word}")  # Remove this line in the final version
-            continue
-        
-        # Get next guess
-        guess = input(f"\nEnter guess {state['attempts']+1}/{game.max_attempts}: ").lower()
-        
-        # Process guess
-        is_correct, feedback, error = game.make_guess(guess)
-        
-        # If there's an error, show the message and let the user try again
-        if error:
-            print(f"Error: {error}")
-            continue
-            
-        # Immediately show feedback after a valid guess
-        print(f"Feedback: {print_colored_feedback(guess, feedback)}")
+        word = input(prompt).strip().lower()
+        if word in word_list:
+            return word
+        print(f"Invalid word. Please enter a valid 5-letter word from the allowed list.")
+
+
+def main():
+    # Initialize the game and strategy
+    game = Wordle(allowed_words="data/allowed_words.txt", possible_words="data/possible_words.txt")
+    strategy = FrequencyBasedStrategy()
+    
+    # Load word lists
+    with open("data/allowed_words.txt", "r") as f:
+        allowed_words = [line.strip() for line in f]
+    with open("data/possible_words.txt", "r") as f:
+        possible_words = [line.strip() for line in f]
+    
+    print("Welcome to the Wordle Solver!")
+    print("Enter a 5-letter word and watch the solver try to guess it.")
+    print("The solver will show its thought process and guesses.\n")
+    
+    # Get target word from user
+    target_word = get_valid_word(
+        "Enter the target word (must be in the possible words list): ",
+        possible_words
+    )
+    
+    print(f"\nTarget word set to: {target_word.upper()}")
+    print("Starting solver...\n")
+    
+    # Reset game with target word
+    game.reset_game(target_word)
+    
+    # Run solver and show detailed output
+    strategy.solve(game)
+    
+    # Display results
+    print("\nSolver Results:")
+    print(f"Target word: {target_word.upper()}")
+    print(f"Number of attempts: {game.attempts}")
+    print(f"Success: {'Yes' if game.attempts <= 6 else 'No'}")
+
 
 if __name__ == "__main__":
-    play_wordle_cli()
+    main()

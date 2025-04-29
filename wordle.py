@@ -2,7 +2,7 @@ import random
 from typing import List, Tuple
 
 class Wordle:
-    def __init__(self, word_length=5, max_attempts=6):
+    def __init__(self, word_length=5, max_attempts=6, target_word=None, allowed_words=None, possible_words=None):
         """Initialize the Wordle game with a list of words"""
         self.word_length = word_length
         self.max_attempts = max_attempts
@@ -11,15 +11,24 @@ class Wordle:
         self.feedbacks = []
         
         # Use a small built-in list of words
-        with open("wordle_dictionary.txt", "r") as file:
+        with open(allowed_words, "r") as file:
             self.word_list = [line.strip() for line in file]
+            
+        with open(possible_words, "r") as file:
+            self.target_word_list = [line.strip() for line in file]
         
-        # Select a random target word
-        self.target_word = random.choice(self.word_list)
-        
-    def reset_game(self):
+        if target_word is None:
+            # Select a random target word
+            self.target_word = random.choice(self.target_word_list)
+        else:
+            self.target_word = target_word
+            
+    def reset_game(self, target_word=None):
         """Reset the game with a new word"""
-        self.target_word = random.choice(self.word_list)
+        if target_word is None:
+            self.target_word = random.choice(self.target_word_list)
+        else:
+            self.target_word = target_word
         self.attempts = 0
         self.guesses = []
         self.feedbacks = []
@@ -46,9 +55,6 @@ class Wordle:
             
         if not self.is_valid_word(guess):
             return False, [], "Word not in dictionary"
-            
-        if self.attempts >= self.max_attempts:
-            return False, [], "No more attempts allowed"
             
         # Record the guess
         self.attempts += 1
@@ -105,7 +111,3 @@ class Wordle:
                          (self.guesses and self.guesses[-1] == self.target_word),
             "won": self.guesses and self.guesses[-1] == self.target_word
         }
-    
-    def get_target_word(self):
-        """Get the target word (for debugging or when game is over)"""
-        return self.target_word
