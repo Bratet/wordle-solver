@@ -1,18 +1,19 @@
 from .abstract_strategy import AbstractStrategy
+import numpy as np
 
 
-class MinimaxBasedStrategy(AbstractStrategy):
+class EntropyBasedStrategy(AbstractStrategy):
     
     def choose_best_guess(self, possible_words, attempts):
         
         if attempts == 0:
-            return 'serai'  # Standard optimal first guess
+            return 'tares'  # pre-computed optimal first guess
         
         # If there's only one possibility, return it immediately
         if len(possible_words) == 1:
             return possible_words[0]
             
-        best_worst_case = float('inf')
+        best_expected_entropy = -1
         best_guess = None
         
         # Consider ALL vocabulary words as potential guesses
@@ -30,16 +31,19 @@ class MinimaxBasedStrategy(AbstractStrategy):
                 pattern = self._generate_feedback(candidate_word, target_word)
                 
                 if pattern not in feedback_patterns:
-                    feedback_patterns[pattern] = []
-                feedback_patterns[pattern].append(target_word)
+                    feedback_patterns[pattern] = 0
+                feedback_patterns[pattern] += 1
             
-            # Find the worst-case scenario for this candidate
-            worst_case = max(len(words) for words in feedback_patterns.values())
-            
-            # If this candidate's worst case is better than our best so far
-            if worst_case < best_worst_case:
-                best_worst_case = worst_case
-                best_guess = candidate_word
+            # Calculate expected entropy
+            expected_entropy = 0
                 
-        print(f"Best guess: {best_guess}")
+            for pattern, num_remaining_words in feedback_patterns.items():
+                probability = num_remaining_words / len(possible_words)
+                # Add a small epsilon to avoid log(0)
+                expected_entropy -= probability * np.log2(probability + 1e-10)
+            
+            if expected_entropy > best_expected_entropy:
+                best_guess = candidate_word
+                best_expected_entropy = expected_entropy
+                
         return best_guess

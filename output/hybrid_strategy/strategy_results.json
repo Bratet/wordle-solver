@@ -1,0 +1,11563 @@
+{
+  "attempts": [
+    4,
+    5,
+    3,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    3,
+    4,
+    4,
+    4,
+    4,
+    2,
+    3,
+    3,
+    4,
+    4,
+    4,
+    6,
+    4,
+    4,
+    3,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    5,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    3,
+    6,
+    5,
+    3,
+    4,
+    4,
+    6,
+    4,
+    3,
+    3,
+    4,
+    5,
+    4,
+    3,
+    5,
+    3,
+    3,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    6,
+    5,
+    4,
+    5,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    3,
+    3,
+    3,
+    4,
+    3,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    5,
+    5,
+    5,
+    3,
+    4,
+    5,
+    5,
+    6,
+    4,
+    4,
+    5,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    3,
+    3,
+    5,
+    3,
+    5,
+    4,
+    4,
+    3,
+    3,
+    6,
+    2,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    2,
+    3,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    3,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    5,
+    5,
+    3,
+    4,
+    4,
+    4,
+    6,
+    3,
+    4,
+    4,
+    5,
+    4,
+    4,
+    3,
+    3,
+    5,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    5,
+    3,
+    3,
+    4,
+    4,
+    6,
+    5,
+    4,
+    5,
+    6,
+    3,
+    5,
+    4,
+    6,
+    6,
+    4,
+    3,
+    5,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    6,
+    4,
+    4,
+    3,
+    4,
+    5,
+    3,
+    6,
+    5,
+    4,
+    4,
+    6,
+    3,
+    3,
+    5,
+    4,
+    5,
+    3,
+    3,
+    3,
+    4,
+    3,
+    4,
+    3,
+    3,
+    3,
+    5,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    3,
+    4,
+    3,
+    6,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    5,
+    4,
+    6,
+    4,
+    3,
+    3,
+    3,
+    4,
+    3,
+    5,
+    4,
+    6,
+    4,
+    5,
+    5,
+    4,
+    4,
+    5,
+    5,
+    4,
+    4,
+    3,
+    4,
+    4,
+    5,
+    5,
+    4,
+    3,
+    4,
+    4,
+    5,
+    3,
+    4,
+    3,
+    4,
+    5,
+    5,
+    4,
+    3,
+    6,
+    3,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    5,
+    3,
+    3,
+    3,
+    4,
+    4,
+    6,
+    3,
+    5,
+    4,
+    4,
+    3,
+    3,
+    4,
+    4,
+    5,
+    6,
+    6,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    3,
+    6,
+    4,
+    3,
+    5,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    3,
+    6,
+    4,
+    5,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    3,
+    6,
+    3,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    3,
+    5,
+    5,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    5,
+    4,
+    4,
+    3,
+    5,
+    5,
+    3,
+    6,
+    6,
+    6,
+    6,
+    4,
+    5,
+    5,
+    4,
+    4,
+    6,
+    3,
+    6,
+    3,
+    6,
+    5,
+    4,
+    5,
+    3,
+    6,
+    4,
+    4,
+    5,
+    4,
+    3,
+    6,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    5,
+    2,
+    4,
+    6,
+    5,
+    5,
+    3,
+    3,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    2,
+    5,
+    3,
+    4,
+    4,
+    4,
+    5,
+    6,
+    3,
+    6,
+    4,
+    3,
+    4,
+    3,
+    3,
+    6,
+    5,
+    3,
+    3,
+    4,
+    3,
+    4,
+    3,
+    4,
+    3,
+    5,
+    4,
+    4,
+    5,
+    5,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    5,
+    3,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    2,
+    4,
+    3,
+    5,
+    3,
+    3,
+    4,
+    3,
+    4,
+    3,
+    6,
+    6,
+    6,
+    4,
+    4,
+    4,
+    6,
+    4,
+    4,
+    3,
+    5,
+    4,
+    6,
+    4,
+    5,
+    4,
+    6,
+    5,
+    4,
+    3,
+    6,
+    4,
+    4,
+    5,
+    4,
+    5,
+    3,
+    5,
+    3,
+    3,
+    3,
+    5,
+    4,
+    4,
+    3,
+    5,
+    6,
+    3,
+    6,
+    4,
+    6,
+    5,
+    5,
+    4,
+    4,
+    5,
+    4,
+    5,
+    5,
+    5,
+    4,
+    5,
+    5,
+    4,
+    3,
+    4,
+    4,
+    4,
+    3,
+    6,
+    6,
+    3,
+    2,
+    4,
+    5,
+    6,
+    3,
+    4,
+    4,
+    4,
+    6,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    6,
+    4,
+    4,
+    3,
+    5,
+    5,
+    6,
+    5,
+    4,
+    6,
+    6,
+    5,
+    4,
+    3,
+    5,
+    4,
+    4,
+    4,
+    3,
+    5,
+    5,
+    4,
+    5,
+    4,
+    5,
+    5,
+    5,
+    5,
+    4,
+    5,
+    4,
+    5,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    4,
+    4,
+    5,
+    5,
+    6,
+    4,
+    5,
+    4,
+    4,
+    3,
+    6,
+    5,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    5,
+    6,
+    5,
+    5,
+    5,
+    4,
+    4,
+    5,
+    5,
+    4,
+    5,
+    5,
+    4,
+    3,
+    6,
+    3,
+    4,
+    3,
+    4,
+    5,
+    6,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    6,
+    5,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    4,
+    4,
+    3,
+    5,
+    5,
+    5,
+    5,
+    4,
+    4,
+    3,
+    5,
+    5,
+    5,
+    5,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    5,
+    4,
+    6,
+    4,
+    5,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    5,
+    5,
+    3,
+    5,
+    5,
+    5,
+    4,
+    3,
+    4,
+    3,
+    3,
+    2,
+    4,
+    5,
+    6,
+    4,
+    4,
+    5,
+    5,
+    5,
+    6,
+    6,
+    4,
+    5,
+    4,
+    6,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    5,
+    4,
+    4,
+    5,
+    6,
+    4,
+    4,
+    5,
+    5,
+    4,
+    5,
+    6,
+    5,
+    4,
+    4,
+    5,
+    3,
+    5,
+    4,
+    6,
+    4,
+    5,
+    3,
+    5,
+    4,
+    5,
+    4,
+    4,
+    4,
+    6,
+    4,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    4,
+    5,
+    5,
+    5,
+    5,
+    6,
+    6,
+    3,
+    4,
+    4,
+    5,
+    6,
+    3,
+    5,
+    4,
+    6,
+    4,
+    3,
+    4,
+    4,
+    4,
+    5,
+    4,
+    6,
+    4,
+    4,
+    6,
+    5,
+    6,
+    5,
+    5,
+    5,
+    5,
+    4,
+    4,
+    6,
+    2,
+    3,
+    5,
+    4,
+    4,
+    4,
+    3,
+    6,
+    5,
+    5,
+    4,
+    6,
+    3,
+    5,
+    4,
+    5,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    5,
+    3,
+    6,
+    5,
+    3,
+    5,
+    5,
+    6,
+    5,
+    4,
+    3,
+    4,
+    6,
+    6,
+    5,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    5,
+    4,
+    5,
+    5,
+    3,
+    3,
+    4,
+    3,
+    5,
+    4,
+    6,
+    5,
+    5,
+    5,
+    5,
+    6,
+    4,
+    4,
+    4,
+    3,
+    5,
+    3,
+    3,
+    5,
+    5,
+    5,
+    4,
+    3,
+    4,
+    6,
+    4,
+    4,
+    5,
+    3,
+    6,
+    5,
+    4,
+    5,
+    3,
+    6,
+    5,
+    4,
+    5,
+    6,
+    4,
+    6,
+    4,
+    6,
+    6,
+    3,
+    5,
+    4,
+    5,
+    4,
+    5,
+    3,
+    3,
+    6,
+    3,
+    6,
+    4,
+    4,
+    4,
+    3,
+    4,
+    5,
+    6,
+    5,
+    6,
+    4,
+    5,
+    6,
+    3,
+    3,
+    4,
+    4,
+    5,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    5,
+    4,
+    5,
+    3,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    3,
+    3,
+    3,
+    5,
+    4,
+    4,
+    3,
+    3,
+    4,
+    4,
+    4,
+    6,
+    4,
+    3,
+    5,
+    3,
+    5,
+    5,
+    5,
+    6,
+    4,
+    5,
+    5,
+    6,
+    4,
+    5,
+    6,
+    5,
+    3,
+    4,
+    5,
+    3,
+    5,
+    6,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    5,
+    6,
+    6,
+    4,
+    5,
+    4,
+    3,
+    4,
+    5,
+    5,
+    4,
+    5,
+    3,
+    4,
+    4,
+    5,
+    6,
+    3,
+    3,
+    3,
+    5,
+    2,
+    4,
+    3,
+    4,
+    3,
+    4,
+    5,
+    3,
+    3,
+    3,
+    2,
+    4,
+    5,
+    6,
+    4,
+    5,
+    6,
+    4,
+    3,
+    4,
+    4,
+    3,
+    3,
+    4,
+    5,
+    4,
+    3,
+    3,
+    5,
+    5,
+    4,
+    4,
+    4,
+    6,
+    5,
+    4,
+    5,
+    6,
+    5,
+    4,
+    6,
+    6,
+    6,
+    4,
+    6,
+    4,
+    3,
+    3,
+    4,
+    5,
+    4,
+    3,
+    5,
+    5,
+    6,
+    6,
+    6,
+    5,
+    4,
+    3,
+    5,
+    4,
+    3,
+    3,
+    3,
+    4,
+    5,
+    5,
+    6,
+    4,
+    5,
+    5,
+    6,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    6,
+    5,
+    4,
+    3,
+    5,
+    4,
+    4,
+    6,
+    3,
+    5,
+    3,
+    4,
+    3,
+    5,
+    6,
+    5,
+    6,
+    5,
+    4,
+    4,
+    4,
+    3,
+    3,
+    4,
+    2,
+    3,
+    4,
+    4,
+    6,
+    3,
+    4,
+    6,
+    6,
+    4,
+    5,
+    5,
+    6,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    4,
+    3,
+    6,
+    4,
+    4,
+    3,
+    4,
+    4,
+    3,
+    6,
+    5,
+    5,
+    4,
+    5,
+    5,
+    3,
+    5,
+    6,
+    3,
+    4,
+    5,
+    3,
+    3,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    4,
+    6,
+    4,
+    2,
+    5,
+    4,
+    5,
+    3,
+    4,
+    3,
+    4,
+    4,
+    6,
+    3,
+    4,
+    3,
+    5,
+    5,
+    5,
+    4,
+    6,
+    4,
+    5,
+    3,
+    5,
+    6,
+    3,
+    5,
+    3,
+    4,
+    4,
+    6,
+    4,
+    3,
+    4,
+    6,
+    3,
+    4,
+    4,
+    5,
+    6,
+    3,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    5,
+    6,
+    5,
+    6,
+    5,
+    3,
+    3,
+    4,
+    3,
+    5,
+    6,
+    3,
+    6,
+    6,
+    4,
+    4,
+    4,
+    6,
+    4,
+    3,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    5,
+    6,
+    3,
+    3,
+    4,
+    5,
+    5,
+    4,
+    5,
+    5,
+    4,
+    3,
+    5,
+    3,
+    4,
+    6,
+    4,
+    3,
+    6,
+    4,
+    3,
+    4,
+    2,
+    5,
+    5,
+    5,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    6,
+    5,
+    5,
+    4,
+    3,
+    5,
+    4,
+    3,
+    5,
+    5,
+    6,
+    5,
+    5,
+    5,
+    3,
+    5,
+    5,
+    5,
+    6,
+    4,
+    3,
+    4,
+    5,
+    5,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    6,
+    5,
+    4,
+    5,
+    4,
+    3,
+    3,
+    6,
+    3,
+    4,
+    3,
+    3,
+    4,
+    3,
+    6,
+    4,
+    4,
+    5,
+    3,
+    4,
+    3,
+    4,
+    6,
+    5,
+    3,
+    2,
+    6,
+    3,
+    4,
+    5,
+    3,
+    4,
+    5,
+    4,
+    2,
+    4,
+    3,
+    2,
+    5,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    5,
+    5,
+    4,
+    5,
+    3,
+    3,
+    3,
+    4,
+    6,
+    5,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    3,
+    5,
+    4,
+    5,
+    6,
+    5,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    5,
+    3,
+    4,
+    4,
+    4,
+    4,
+    6,
+    4,
+    6,
+    3,
+    6,
+    3,
+    4,
+    6,
+    4,
+    5,
+    4,
+    4,
+    3,
+    3,
+    3,
+    5,
+    4,
+    3,
+    4,
+    3,
+    5,
+    4,
+    3,
+    4,
+    5,
+    6,
+    4,
+    5,
+    4,
+    4,
+    5,
+    5,
+    5,
+    4,
+    5,
+    3,
+    5,
+    6,
+    5,
+    5,
+    6,
+    5,
+    4,
+    5,
+    4,
+    6,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    6,
+    3,
+    5,
+    3,
+    3,
+    2,
+    4,
+    4,
+    3,
+    4,
+    4,
+    3,
+    4,
+    4,
+    6,
+    3,
+    3,
+    4,
+    4,
+    4,
+    6,
+    4,
+    4,
+    4,
+    3,
+    5,
+    4,
+    5,
+    5,
+    3,
+    4,
+    5,
+    3,
+    3,
+    5,
+    4,
+    5,
+    4,
+    3,
+    4,
+    5,
+    5,
+    5,
+    3,
+    3,
+    5,
+    3,
+    5,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    5,
+    5,
+    5,
+    4,
+    5,
+    6,
+    3,
+    3,
+    3,
+    5,
+    5,
+    4,
+    3,
+    6,
+    3,
+    4,
+    3,
+    3,
+    6,
+    3,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    6,
+    3,
+    6,
+    4,
+    4,
+    4,
+    4,
+    3,
+    3,
+    4,
+    6,
+    4,
+    6,
+    4,
+    5,
+    5,
+    3,
+    5,
+    4,
+    4,
+    5,
+    6,
+    3,
+    3,
+    4,
+    3,
+    4,
+    5,
+    2,
+    6,
+    2,
+    4,
+    3,
+    4,
+    5,
+    5,
+    5,
+    4,
+    2,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    6,
+    3,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    3,
+    4,
+    5,
+    3,
+    4,
+    4,
+    3,
+    4,
+    4,
+    5,
+    4,
+    4,
+    3,
+    4,
+    4,
+    3,
+    4,
+    4,
+    5,
+    5,
+    5,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    5,
+    5,
+    6,
+    4,
+    4,
+    4,
+    4,
+    5,
+    3,
+    4,
+    4,
+    4,
+    3,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    6,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    3,
+    4,
+    4,
+    4,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    2,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    3,
+    4,
+    5,
+    4,
+    4,
+    3,
+    3,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    5,
+    3,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    2,
+    3,
+    3,
+    4,
+    4,
+    2,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    3,
+    5,
+    3,
+    4,
+    3,
+    4,
+    3,
+    6,
+    4,
+    4,
+    3,
+    5,
+    3,
+    5,
+    5,
+    4,
+    3,
+    4,
+    5,
+    3,
+    5,
+    5,
+    4,
+    5,
+    4,
+    6,
+    6,
+    4,
+    5,
+    4,
+    5,
+    5,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    5,
+    5,
+    3,
+    5,
+    5,
+    4,
+    6,
+    5,
+    4,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    3,
+    3,
+    6,
+    4,
+    4,
+    3,
+    5,
+    4,
+    3,
+    5,
+    3,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    3,
+    2,
+    3,
+    4,
+    4,
+    4,
+    4,
+    5,
+    3,
+    6,
+    2,
+    2,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    6,
+    5,
+    5,
+    3,
+    3,
+    4,
+    2,
+    3,
+    4,
+    4,
+    3,
+    5,
+    3,
+    4,
+    5,
+    4,
+    6,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    3,
+    5,
+    3,
+    4,
+    3,
+    4,
+    6,
+    5,
+    5,
+    4,
+    3,
+    5,
+    4,
+    6,
+    5,
+    3,
+    5,
+    5,
+    6,
+    5,
+    6,
+    4,
+    5,
+    3,
+    4,
+    5,
+    4,
+    5,
+    2,
+    6,
+    6,
+    3,
+    3,
+    5,
+    5,
+    6,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    5,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    6,
+    5,
+    3,
+    5,
+    4,
+    3,
+    4,
+    5,
+    4,
+    5,
+    3,
+    4,
+    5,
+    4,
+    6,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    5,
+    4,
+    5,
+    5,
+    5,
+    4,
+    4,
+    4,
+    5,
+    3,
+    5,
+    5,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    5,
+    4,
+    2,
+    5,
+    3,
+    3,
+    4,
+    4,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    3,
+    5,
+    4,
+    4,
+    4,
+    5,
+    4,
+    3,
+    3,
+    3,
+    2,
+    4,
+    3,
+    3,
+    3,
+    3,
+    5,
+    4,
+    5,
+    5,
+    4,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    3,
+    2,
+    3,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    4,
+    4,
+    5,
+    4,
+    6,
+    4,
+    3,
+    4,
+    3,
+    5,
+    3,
+    4,
+    6,
+    4,
+    4,
+    4,
+    4,
+    4,
+    5,
+    4,
+    3,
+    3,
+    3,
+    5,
+    5,
+    3,
+    4,
+    3,
+    4,
+    5,
+    4,
+    4,
+    3,
+    4,
+    2,
+    4,
+    4,
+    4,
+    4,
+    2,
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    6,
+    6,
+    3,
+    3,
+    5,
+    6,
+    5,
+    4,
+    3,
+    5,
+    3,
+    4,
+    4,
+    4,
+    3,
+    5,
+    3,
+    5,
+    4,
+    3,
+    5,
+    3,
+    3,
+    3,
+    4,
+    3,
+    4,
+    3,
+    6,
+    4,
+    3,
+    4,
+    3,
+    4,
+    3,
+    5,
+    5,
+    4,
+    4,
+    4,
+    5,
+    3,
+    6,
+    4,
+    4,
+    5,
+    4,
+    3,
+    3,
+    3,
+    4,
+    6,
+    3,
+    4,
+    4,
+    5,
+    4,
+    5,
+    4,
+    4,
+    5,
+    4,
+    4,
+    4,
+    3,
+    3,
+    4,
+    4,
+    5,
+    4,
+    5,
+    4,
+    4,
+    5,
+    5,
+    6,
+    5,
+    6,
+    5,
+    4,
+    4,
+    5,
+    6,
+    3,
+    6,
+    4,
+    3,
+    5,
+    4,
+    4,
+    3,
+    4,
+    4,
+    5,
+    5,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    3,
+    5,
+    5,
+    4,
+    3,
+    5,
+    4,
+    6,
+    4,
+    6,
+    5,
+    6,
+    5,
+    5,
+    4,
+    5,
+    4,
+    4,
+    6,
+    6,
+    6,
+    6,
+    4,
+    4,
+    5,
+    6,
+    5,
+    4,
+    3,
+    5,
+    4,
+    5,
+    4,
+    5,
+    5,
+    6,
+    6,
+    4,
+    4,
+    5,
+    4,
+    5,
+    4,
+    3,
+    3,
+    5,
+    5,
+    4,
+    5,
+    4,
+    6,
+    5,
+    4,
+    5,
+    6,
+    6,
+    5,
+    4,
+    6,
+    5,
+    4,
+    4,
+    6,
+    6,
+    5,
+    5,
+    4,
+    5,
+    6,
+    6,
+    6,
+    4,
+    3,
+    6,
+    5,
+    3,
+    4,
+    4,
+    6,
+    6,
+    6,
+    4,
+    6,
+    4,
+    5,
+    4,
+    5,
+    5,
+    4,
+    4,
+    4,
+    5,
+    4,
+    4,
+    6,
+    4,
+    4,
+    3,
+    3,
+    4,
+    4
+  ],
+  "failures": 0,
+  "success_rate": 100.0,
+  "word_results": {
+    "aback": {
+      "attempts": 4,
+      "success": true
+    },
+    "abase": {
+      "attempts": 5,
+      "success": true
+    },
+    "abate": {
+      "attempts": 3,
+      "success": true
+    },
+    "abbey": {
+      "attempts": 4,
+      "success": true
+    },
+    "abbot": {
+      "attempts": 4,
+      "success": true
+    },
+    "abhor": {
+      "attempts": 4,
+      "success": true
+    },
+    "abide": {
+      "attempts": 4,
+      "success": true
+    },
+    "abled": {
+      "attempts": 3,
+      "success": true
+    },
+    "abode": {
+      "attempts": 4,
+      "success": true
+    },
+    "abort": {
+      "attempts": 3,
+      "success": true
+    },
+    "about": {
+      "attempts": 4,
+      "success": true
+    },
+    "above": {
+      "attempts": 4,
+      "success": true
+    },
+    "abuse": {
+      "attempts": 4,
+      "success": true
+    },
+    "abyss": {
+      "attempts": 4,
+      "success": true
+    },
+    "acorn": {
+      "attempts": 4,
+      "success": true
+    },
+    "acrid": {
+      "attempts": 4,
+      "success": true
+    },
+    "actor": {
+      "attempts": 3,
+      "success": true
+    },
+    "acute": {
+      "attempts": 4,
+      "success": true
+    },
+    "adage": {
+      "attempts": 5,
+      "success": true
+    },
+    "adapt": {
+      "attempts": 4,
+      "success": true
+    },
+    "adept": {
+      "attempts": 4,
+      "success": true
+    },
+    "admin": {
+      "attempts": 4,
+      "success": true
+    },
+    "admit": {
+      "attempts": 4,
+      "success": true
+    },
+    "adobe": {
+      "attempts": 4,
+      "success": true
+    },
+    "adopt": {
+      "attempts": 4,
+      "success": true
+    },
+    "adore": {
+      "attempts": 3,
+      "success": true
+    },
+    "adorn": {
+      "attempts": 5,
+      "success": true
+    },
+    "adult": {
+      "attempts": 3,
+      "success": true
+    },
+    "affix": {
+      "attempts": 4,
+      "success": true
+    },
+    "afire": {
+      "attempts": 4,
+      "success": true
+    },
+    "afoot": {
+      "attempts": 4,
+      "success": true
+    },
+    "afoul": {
+      "attempts": 4,
+      "success": true
+    },
+    "after": {
+      "attempts": 2,
+      "success": true
+    },
+    "again": {
+      "attempts": 3,
+      "success": true
+    },
+    "agape": {
+      "attempts": 3,
+      "success": true
+    },
+    "agate": {
+      "attempts": 4,
+      "success": true
+    },
+    "agent": {
+      "attempts": 4,
+      "success": true
+    },
+    "agile": {
+      "attempts": 4,
+      "success": true
+    },
+    "aging": {
+      "attempts": 6,
+      "success": true
+    },
+    "aglow": {
+      "attempts": 4,
+      "success": true
+    },
+    "agony": {
+      "attempts": 4,
+      "success": true
+    },
+    "agree": {
+      "attempts": 3,
+      "success": true
+    },
+    "ahead": {
+      "attempts": 4,
+      "success": true
+    },
+    "aider": {
+      "attempts": 4,
+      "success": true
+    },
+    "aisle": {
+      "attempts": 3,
+      "success": true
+    },
+    "alarm": {
+      "attempts": 4,
+      "success": true
+    },
+    "album": {
+      "attempts": 5,
+      "success": true
+    },
+    "alert": {
+      "attempts": 4,
+      "success": true
+    },
+    "algae": {
+      "attempts": 5,
+      "success": true
+    },
+    "alibi": {
+      "attempts": 4,
+      "success": true
+    },
+    "alien": {
+      "attempts": 3,
+      "success": true
+    },
+    "align": {
+      "attempts": 4,
+      "success": true
+    },
+    "alike": {
+      "attempts": 3,
+      "success": true
+    },
+    "alive": {
+      "attempts": 4,
+      "success": true
+    },
+    "allay": {
+      "attempts": 4,
+      "success": true
+    },
+    "alley": {
+      "attempts": 4,
+      "success": true
+    },
+    "allot": {
+      "attempts": 4,
+      "success": true
+    },
+    "allow": {
+      "attempts": 4,
+      "success": true
+    },
+    "alloy": {
+      "attempts": 5,
+      "success": true
+    },
+    "aloft": {
+      "attempts": 3,
+      "success": true
+    },
+    "alone": {
+      "attempts": 4,
+      "success": true
+    },
+    "along": {
+      "attempts": 4,
+      "success": true
+    },
+    "aloof": {
+      "attempts": 4,
+      "success": true
+    },
+    "aloud": {
+      "attempts": 4,
+      "success": true
+    },
+    "alpha": {
+      "attempts": 4,
+      "success": true
+    },
+    "altar": {
+      "attempts": 3,
+      "success": true
+    },
+    "alter": {
+      "attempts": 3,
+      "success": true
+    },
+    "amass": {
+      "attempts": 6,
+      "success": true
+    },
+    "amaze": {
+      "attempts": 5,
+      "success": true
+    },
+    "amber": {
+      "attempts": 3,
+      "success": true
+    },
+    "amble": {
+      "attempts": 4,
+      "success": true
+    },
+    "amend": {
+      "attempts": 4,
+      "success": true
+    },
+    "amiss": {
+      "attempts": 6,
+      "success": true
+    },
+    "amity": {
+      "attempts": 4,
+      "success": true
+    },
+    "among": {
+      "attempts": 3,
+      "success": true
+    },
+    "ample": {
+      "attempts": 3,
+      "success": true
+    },
+    "amply": {
+      "attempts": 4,
+      "success": true
+    },
+    "amuse": {
+      "attempts": 5,
+      "success": true
+    },
+    "angel": {
+      "attempts": 4,
+      "success": true
+    },
+    "anger": {
+      "attempts": 3,
+      "success": true
+    },
+    "angle": {
+      "attempts": 5,
+      "success": true
+    },
+    "angry": {
+      "attempts": 3,
+      "success": true
+    },
+    "angst": {
+      "attempts": 3,
+      "success": true
+    },
+    "anime": {
+      "attempts": 4,
+      "success": true
+    },
+    "ankle": {
+      "attempts": 4,
+      "success": true
+    },
+    "annex": {
+      "attempts": 4,
+      "success": true
+    },
+    "annoy": {
+      "attempts": 3,
+      "success": true
+    },
+    "annul": {
+      "attempts": 4,
+      "success": true
+    },
+    "anode": {
+      "attempts": 4,
+      "success": true
+    },
+    "antic": {
+      "attempts": 4,
+      "success": true
+    },
+    "anvil": {
+      "attempts": 4,
+      "success": true
+    },
+    "aorta": {
+      "attempts": 4,
+      "success": true
+    },
+    "apart": {
+      "attempts": 5,
+      "success": true
+    },
+    "aphid": {
+      "attempts": 4,
+      "success": true
+    },
+    "aping": {
+      "attempts": 6,
+      "success": true
+    },
+    "apnea": {
+      "attempts": 5,
+      "success": true
+    },
+    "apple": {
+      "attempts": 4,
+      "success": true
+    },
+    "apply": {
+      "attempts": 5,
+      "success": true
+    },
+    "apron": {
+      "attempts": 4,
+      "success": true
+    },
+    "aptly": {
+      "attempts": 3,
+      "success": true
+    },
+    "arbor": {
+      "attempts": 4,
+      "success": true
+    },
+    "ardor": {
+      "attempts": 4,
+      "success": true
+    },
+    "arena": {
+      "attempts": 5,
+      "success": true
+    },
+    "argue": {
+      "attempts": 4,
+      "success": true
+    },
+    "arise": {
+      "attempts": 4,
+      "success": true
+    },
+    "armor": {
+      "attempts": 4,
+      "success": true
+    },
+    "aroma": {
+      "attempts": 5,
+      "success": true
+    },
+    "arose": {
+      "attempts": 5,
+      "success": true
+    },
+    "array": {
+      "attempts": 5,
+      "success": true
+    },
+    "arrow": {
+      "attempts": 3,
+      "success": true
+    },
+    "arson": {
+      "attempts": 3,
+      "success": true
+    },
+    "artsy": {
+      "attempts": 3,
+      "success": true
+    },
+    "ascot": {
+      "attempts": 4,
+      "success": true
+    },
+    "ashen": {
+      "attempts": 3,
+      "success": true
+    },
+    "aside": {
+      "attempts": 4,
+      "success": true
+    },
+    "askew": {
+      "attempts": 4,
+      "success": true
+    },
+    "assay": {
+      "attempts": 4,
+      "success": true
+    },
+    "asset": {
+      "attempts": 3,
+      "success": true
+    },
+    "atoll": {
+      "attempts": 4,
+      "success": true
+    },
+    "atone": {
+      "attempts": 4,
+      "success": true
+    },
+    "attic": {
+      "attempts": 4,
+      "success": true
+    },
+    "audio": {
+      "attempts": 4,
+      "success": true
+    },
+    "audit": {
+      "attempts": 4,
+      "success": true
+    },
+    "augur": {
+      "attempts": 5,
+      "success": true
+    },
+    "aunty": {
+      "attempts": 4,
+      "success": true
+    },
+    "avail": {
+      "attempts": 5,
+      "success": true
+    },
+    "avert": {
+      "attempts": 5,
+      "success": true
+    },
+    "avian": {
+      "attempts": 5,
+      "success": true
+    },
+    "avoid": {
+      "attempts": 3,
+      "success": true
+    },
+    "await": {
+      "attempts": 4,
+      "success": true
+    },
+    "awake": {
+      "attempts": 5,
+      "success": true
+    },
+    "award": {
+      "attempts": 5,
+      "success": true
+    },
+    "aware": {
+      "attempts": 6,
+      "success": true
+    },
+    "awash": {
+      "attempts": 4,
+      "success": true
+    },
+    "awful": {
+      "attempts": 4,
+      "success": true
+    },
+    "awoke": {
+      "attempts": 5,
+      "success": true
+    },
+    "axial": {
+      "attempts": 5,
+      "success": true
+    },
+    "axiom": {
+      "attempts": 4,
+      "success": true
+    },
+    "axion": {
+      "attempts": 4,
+      "success": true
+    },
+    "azure": {
+      "attempts": 5,
+      "success": true
+    },
+    "bacon": {
+      "attempts": 4,
+      "success": true
+    },
+    "badge": {
+      "attempts": 4,
+      "success": true
+    },
+    "badly": {
+      "attempts": 4,
+      "success": true
+    },
+    "bagel": {
+      "attempts": 4,
+      "success": true
+    },
+    "baggy": {
+      "attempts": 4,
+      "success": true
+    },
+    "baker": {
+      "attempts": 5,
+      "success": true
+    },
+    "baler": {
+      "attempts": 4,
+      "success": true
+    },
+    "balmy": {
+      "attempts": 3,
+      "success": true
+    },
+    "banal": {
+      "attempts": 3,
+      "success": true
+    },
+    "banjo": {
+      "attempts": 5,
+      "success": true
+    },
+    "barge": {
+      "attempts": 3,
+      "success": true
+    },
+    "baron": {
+      "attempts": 5,
+      "success": true
+    },
+    "basal": {
+      "attempts": 4,
+      "success": true
+    },
+    "basic": {
+      "attempts": 4,
+      "success": true
+    },
+    "basil": {
+      "attempts": 3,
+      "success": true
+    },
+    "basin": {
+      "attempts": 3,
+      "success": true
+    },
+    "basis": {
+      "attempts": 6,
+      "success": true
+    },
+    "baste": {
+      "attempts": 2,
+      "success": true
+    },
+    "batch": {
+      "attempts": 4,
+      "success": true
+    },
+    "bathe": {
+      "attempts": 3,
+      "success": true
+    },
+    "baton": {
+      "attempts": 4,
+      "success": true
+    },
+    "batty": {
+      "attempts": 4,
+      "success": true
+    },
+    "bawdy": {
+      "attempts": 4,
+      "success": true
+    },
+    "bayou": {
+      "attempts": 4,
+      "success": true
+    },
+    "beach": {
+      "attempts": 4,
+      "success": true
+    },
+    "beady": {
+      "attempts": 3,
+      "success": true
+    },
+    "beard": {
+      "attempts": 2,
+      "success": true
+    },
+    "beast": {
+      "attempts": 3,
+      "success": true
+    },
+    "beech": {
+      "attempts": 4,
+      "success": true
+    },
+    "beefy": {
+      "attempts": 5,
+      "success": true
+    },
+    "befit": {
+      "attempts": 4,
+      "success": true
+    },
+    "began": {
+      "attempts": 4,
+      "success": true
+    },
+    "begat": {
+      "attempts": 4,
+      "success": true
+    },
+    "beget": {
+      "attempts": 4,
+      "success": true
+    },
+    "begin": {
+      "attempts": 3,
+      "success": true
+    },
+    "begun": {
+      "attempts": 3,
+      "success": true
+    },
+    "being": {
+      "attempts": 3,
+      "success": true
+    },
+    "belch": {
+      "attempts": 3,
+      "success": true
+    },
+    "belie": {
+      "attempts": 4,
+      "success": true
+    },
+    "belle": {
+      "attempts": 4,
+      "success": true
+    },
+    "belly": {
+      "attempts": 4,
+      "success": true
+    },
+    "below": {
+      "attempts": 4,
+      "success": true
+    },
+    "bench": {
+      "attempts": 4,
+      "success": true
+    },
+    "beret": {
+      "attempts": 3,
+      "success": true
+    },
+    "berry": {
+      "attempts": 5,
+      "success": true
+    },
+    "berth": {
+      "attempts": 3,
+      "success": true
+    },
+    "beset": {
+      "attempts": 5,
+      "success": true
+    },
+    "betel": {
+      "attempts": 4,
+      "success": true
+    },
+    "bevel": {
+      "attempts": 4,
+      "success": true
+    },
+    "bezel": {
+      "attempts": 5,
+      "success": true
+    },
+    "bible": {
+      "attempts": 4,
+      "success": true
+    },
+    "bicep": {
+      "attempts": 4,
+      "success": true
+    },
+    "biddy": {
+      "attempts": 4,
+      "success": true
+    },
+    "bigot": {
+      "attempts": 4,
+      "success": true
+    },
+    "bilge": {
+      "attempts": 3,
+      "success": true
+    },
+    "billy": {
+      "attempts": 5,
+      "success": true
+    },
+    "binge": {
+      "attempts": 3,
+      "success": true
+    },
+    "bingo": {
+      "attempts": 3,
+      "success": true
+    },
+    "biome": {
+      "attempts": 3,
+      "success": true
+    },
+    "birch": {
+      "attempts": 4,
+      "success": true
+    },
+    "birth": {
+      "attempts": 4,
+      "success": true
+    },
+    "bison": {
+      "attempts": 4,
+      "success": true
+    },
+    "bitty": {
+      "attempts": 4,
+      "success": true
+    },
+    "black": {
+      "attempts": 3,
+      "success": true
+    },
+    "blade": {
+      "attempts": 4,
+      "success": true
+    },
+    "blame": {
+      "attempts": 4,
+      "success": true
+    },
+    "bland": {
+      "attempts": 5,
+      "success": true
+    },
+    "blank": {
+      "attempts": 4,
+      "success": true
+    },
+    "blare": {
+      "attempts": 3,
+      "success": true
+    },
+    "blast": {
+      "attempts": 4,
+      "success": true
+    },
+    "blaze": {
+      "attempts": 5,
+      "success": true
+    },
+    "bleak": {
+      "attempts": 5,
+      "success": true
+    },
+    "bleat": {
+      "attempts": 3,
+      "success": true
+    },
+    "bleed": {
+      "attempts": 4,
+      "success": true
+    },
+    "bleep": {
+      "attempts": 4,
+      "success": true
+    },
+    "blend": {
+      "attempts": 4,
+      "success": true
+    },
+    "bless": {
+      "attempts": 6,
+      "success": true
+    },
+    "blimp": {
+      "attempts": 3,
+      "success": true
+    },
+    "blind": {
+      "attempts": 4,
+      "success": true
+    },
+    "blink": {
+      "attempts": 4,
+      "success": true
+    },
+    "bliss": {
+      "attempts": 5,
+      "success": true
+    },
+    "blitz": {
+      "attempts": 4,
+      "success": true
+    },
+    "bloat": {
+      "attempts": 4,
+      "success": true
+    },
+    "block": {
+      "attempts": 3,
+      "success": true
+    },
+    "bloke": {
+      "attempts": 3,
+      "success": true
+    },
+    "blond": {
+      "attempts": 5,
+      "success": true
+    },
+    "blood": {
+      "attempts": 4,
+      "success": true
+    },
+    "bloom": {
+      "attempts": 5,
+      "success": true
+    },
+    "blown": {
+      "attempts": 4,
+      "success": true
+    },
+    "bluer": {
+      "attempts": 4,
+      "success": true
+    },
+    "bluff": {
+      "attempts": 4,
+      "success": true
+    },
+    "blunt": {
+      "attempts": 4,
+      "success": true
+    },
+    "blurb": {
+      "attempts": 5,
+      "success": true
+    },
+    "blurt": {
+      "attempts": 3,
+      "success": true
+    },
+    "blush": {
+      "attempts": 3,
+      "success": true
+    },
+    "board": {
+      "attempts": 4,
+      "success": true
+    },
+    "boast": {
+      "attempts": 4,
+      "success": true
+    },
+    "bobby": {
+      "attempts": 6,
+      "success": true
+    },
+    "boney": {
+      "attempts": 5,
+      "success": true
+    },
+    "bongo": {
+      "attempts": 4,
+      "success": true
+    },
+    "bonus": {
+      "attempts": 5,
+      "success": true
+    },
+    "booby": {
+      "attempts": 6,
+      "success": true
+    },
+    "boost": {
+      "attempts": 3,
+      "success": true
+    },
+    "booth": {
+      "attempts": 5,
+      "success": true
+    },
+    "booty": {
+      "attempts": 4,
+      "success": true
+    },
+    "booze": {
+      "attempts": 6,
+      "success": true
+    },
+    "boozy": {
+      "attempts": 6,
+      "success": true
+    },
+    "borax": {
+      "attempts": 4,
+      "success": true
+    },
+    "borne": {
+      "attempts": 3,
+      "success": true
+    },
+    "bosom": {
+      "attempts": 5,
+      "success": true
+    },
+    "bossy": {
+      "attempts": 5,
+      "success": true
+    },
+    "botch": {
+      "attempts": 4,
+      "success": true
+    },
+    "bough": {
+      "attempts": 4,
+      "success": true
+    },
+    "boule": {
+      "attempts": 5,
+      "success": true
+    },
+    "bound": {
+      "attempts": 4,
+      "success": true
+    },
+    "bowel": {
+      "attempts": 4,
+      "success": true
+    },
+    "boxer": {
+      "attempts": 6,
+      "success": true
+    },
+    "brace": {
+      "attempts": 4,
+      "success": true
+    },
+    "braid": {
+      "attempts": 4,
+      "success": true
+    },
+    "brain": {
+      "attempts": 3,
+      "success": true
+    },
+    "brake": {
+      "attempts": 4,
+      "success": true
+    },
+    "brand": {
+      "attempts": 5,
+      "success": true
+    },
+    "brash": {
+      "attempts": 3,
+      "success": true
+    },
+    "brass": {
+      "attempts": 6,
+      "success": true
+    },
+    "brave": {
+      "attempts": 5,
+      "success": true
+    },
+    "bravo": {
+      "attempts": 4,
+      "success": true
+    },
+    "brawl": {
+      "attempts": 4,
+      "success": true
+    },
+    "brawn": {
+      "attempts": 6,
+      "success": true
+    },
+    "bread": {
+      "attempts": 3,
+      "success": true
+    },
+    "break": {
+      "attempts": 3,
+      "success": true
+    },
+    "breed": {
+      "attempts": 5,
+      "success": true
+    },
+    "briar": {
+      "attempts": 4,
+      "success": true
+    },
+    "bribe": {
+      "attempts": 5,
+      "success": true
+    },
+    "brick": {
+      "attempts": 3,
+      "success": true
+    },
+    "bride": {
+      "attempts": 3,
+      "success": true
+    },
+    "brief": {
+      "attempts": 3,
+      "success": true
+    },
+    "brine": {
+      "attempts": 4,
+      "success": true
+    },
+    "bring": {
+      "attempts": 3,
+      "success": true
+    },
+    "brink": {
+      "attempts": 4,
+      "success": true
+    },
+    "briny": {
+      "attempts": 3,
+      "success": true
+    },
+    "brisk": {
+      "attempts": 3,
+      "success": true
+    },
+    "broad": {
+      "attempts": 3,
+      "success": true
+    },
+    "broil": {
+      "attempts": 5,
+      "success": true
+    },
+    "broke": {
+      "attempts": 4,
+      "success": true
+    },
+    "brood": {
+      "attempts": 4,
+      "success": true
+    },
+    "brook": {
+      "attempts": 5,
+      "success": true
+    },
+    "broom": {
+      "attempts": 4,
+      "success": true
+    },
+    "broth": {
+      "attempts": 3,
+      "success": true
+    },
+    "brown": {
+      "attempts": 4,
+      "success": true
+    },
+    "brunt": {
+      "attempts": 3,
+      "success": true
+    },
+    "brush": {
+      "attempts": 4,
+      "success": true
+    },
+    "brute": {
+      "attempts": 3,
+      "success": true
+    },
+    "buddy": {
+      "attempts": 6,
+      "success": true
+    },
+    "budge": {
+      "attempts": 4,
+      "success": true
+    },
+    "buggy": {
+      "attempts": 4,
+      "success": true
+    },
+    "bugle": {
+      "attempts": 4,
+      "success": true
+    },
+    "build": {
+      "attempts": 3,
+      "success": true
+    },
+    "built": {
+      "attempts": 4,
+      "success": true
+    },
+    "bulge": {
+      "attempts": 3,
+      "success": true
+    },
+    "bulky": {
+      "attempts": 4,
+      "success": true
+    },
+    "bully": {
+      "attempts": 5,
+      "success": true
+    },
+    "bunch": {
+      "attempts": 4,
+      "success": true
+    },
+    "bunny": {
+      "attempts": 6,
+      "success": true
+    },
+    "burly": {
+      "attempts": 4,
+      "success": true
+    },
+    "burnt": {
+      "attempts": 3,
+      "success": true
+    },
+    "burst": {
+      "attempts": 3,
+      "success": true
+    },
+    "bused": {
+      "attempts": 3,
+      "success": true
+    },
+    "bushy": {
+      "attempts": 4,
+      "success": true
+    },
+    "butch": {
+      "attempts": 3,
+      "success": true
+    },
+    "butte": {
+      "attempts": 5,
+      "success": true
+    },
+    "buxom": {
+      "attempts": 4,
+      "success": true
+    },
+    "buyer": {
+      "attempts": 6,
+      "success": true
+    },
+    "bylaw": {
+      "attempts": 4,
+      "success": true
+    },
+    "cabal": {
+      "attempts": 5,
+      "success": true
+    },
+    "cabby": {
+      "attempts": 5,
+      "success": true
+    },
+    "cabin": {
+      "attempts": 4,
+      "success": true
+    },
+    "cable": {
+      "attempts": 4,
+      "success": true
+    },
+    "cacao": {
+      "attempts": 5,
+      "success": true
+    },
+    "cache": {
+      "attempts": 5,
+      "success": true
+    },
+    "cacti": {
+      "attempts": 4,
+      "success": true
+    },
+    "caddy": {
+      "attempts": 4,
+      "success": true
+    },
+    "cadet": {
+      "attempts": 3,
+      "success": true
+    },
+    "cagey": {
+      "attempts": 4,
+      "success": true
+    },
+    "cairn": {
+      "attempts": 4,
+      "success": true
+    },
+    "camel": {
+      "attempts": 5,
+      "success": true
+    },
+    "cameo": {
+      "attempts": 5,
+      "success": true
+    },
+    "canal": {
+      "attempts": 4,
+      "success": true
+    },
+    "candy": {
+      "attempts": 3,
+      "success": true
+    },
+    "canny": {
+      "attempts": 4,
+      "success": true
+    },
+    "canoe": {
+      "attempts": 4,
+      "success": true
+    },
+    "canon": {
+      "attempts": 5,
+      "success": true
+    },
+    "caper": {
+      "attempts": 3,
+      "success": true
+    },
+    "caput": {
+      "attempts": 4,
+      "success": true
+    },
+    "carat": {
+      "attempts": 3,
+      "success": true
+    },
+    "cargo": {
+      "attempts": 4,
+      "success": true
+    },
+    "carol": {
+      "attempts": 5,
+      "success": true
+    },
+    "carry": {
+      "attempts": 5,
+      "success": true
+    },
+    "carve": {
+      "attempts": 4,
+      "success": true
+    },
+    "caste": {
+      "attempts": 3,
+      "success": true
+    },
+    "catch": {
+      "attempts": 6,
+      "success": true
+    },
+    "cater": {
+      "attempts": 3,
+      "success": true
+    },
+    "catty": {
+      "attempts": 5,
+      "success": true
+    },
+    "caulk": {
+      "attempts": 4,
+      "success": true
+    },
+    "cause": {
+      "attempts": 4,
+      "success": true
+    },
+    "cavil": {
+      "attempts": 4,
+      "success": true
+    },
+    "cease": {
+      "attempts": 3,
+      "success": true
+    },
+    "cedar": {
+      "attempts": 4,
+      "success": true
+    },
+    "cello": {
+      "attempts": 5,
+      "success": true
+    },
+    "chafe": {
+      "attempts": 4,
+      "success": true
+    },
+    "chaff": {
+      "attempts": 5,
+      "success": true
+    },
+    "chain": {
+      "attempts": 3,
+      "success": true
+    },
+    "chair": {
+      "attempts": 3,
+      "success": true
+    },
+    "chalk": {
+      "attempts": 3,
+      "success": true
+    },
+    "champ": {
+      "attempts": 4,
+      "success": true
+    },
+    "chant": {
+      "attempts": 4,
+      "success": true
+    },
+    "chaos": {
+      "attempts": 6,
+      "success": true
+    },
+    "chard": {
+      "attempts": 3,
+      "success": true
+    },
+    "charm": {
+      "attempts": 5,
+      "success": true
+    },
+    "chart": {
+      "attempts": 4,
+      "success": true
+    },
+    "chase": {
+      "attempts": 4,
+      "success": true
+    },
+    "chasm": {
+      "attempts": 3,
+      "success": true
+    },
+    "cheap": {
+      "attempts": 3,
+      "success": true
+    },
+    "cheat": {
+      "attempts": 4,
+      "success": true
+    },
+    "check": {
+      "attempts": 4,
+      "success": true
+    },
+    "cheek": {
+      "attempts": 5,
+      "success": true
+    },
+    "cheer": {
+      "attempts": 6,
+      "success": true
+    },
+    "chess": {
+      "attempts": 6,
+      "success": true
+    },
+    "chest": {
+      "attempts": 5,
+      "success": true
+    },
+    "chick": {
+      "attempts": 4,
+      "success": true
+    },
+    "chide": {
+      "attempts": 4,
+      "success": true
+    },
+    "chief": {
+      "attempts": 4,
+      "success": true
+    },
+    "child": {
+      "attempts": 3,
+      "success": true
+    },
+    "chili": {
+      "attempts": 4,
+      "success": true
+    },
+    "chill": {
+      "attempts": 5,
+      "success": true
+    },
+    "chime": {
+      "attempts": 4,
+      "success": true
+    },
+    "china": {
+      "attempts": 3,
+      "success": true
+    },
+    "chirp": {
+      "attempts": 6,
+      "success": true
+    },
+    "chock": {
+      "attempts": 4,
+      "success": true
+    },
+    "choir": {
+      "attempts": 3,
+      "success": true
+    },
+    "choke": {
+      "attempts": 5,
+      "success": true
+    },
+    "chord": {
+      "attempts": 4,
+      "success": true
+    },
+    "chore": {
+      "attempts": 4,
+      "success": true
+    },
+    "chose": {
+      "attempts": 4,
+      "success": true
+    },
+    "chuck": {
+      "attempts": 4,
+      "success": true
+    },
+    "chump": {
+      "attempts": 3,
+      "success": true
+    },
+    "chunk": {
+      "attempts": 4,
+      "success": true
+    },
+    "churn": {
+      "attempts": 3,
+      "success": true
+    },
+    "chute": {
+      "attempts": 4,
+      "success": true
+    },
+    "cider": {
+      "attempts": 4,
+      "success": true
+    },
+    "cigar": {
+      "attempts": 3,
+      "success": true
+    },
+    "cinch": {
+      "attempts": 6,
+      "success": true
+    },
+    "circa": {
+      "attempts": 4,
+      "success": true
+    },
+    "civic": {
+      "attempts": 5,
+      "success": true
+    },
+    "civil": {
+      "attempts": 4,
+      "success": true
+    },
+    "clack": {
+      "attempts": 4,
+      "success": true
+    },
+    "claim": {
+      "attempts": 3,
+      "success": true
+    },
+    "clamp": {
+      "attempts": 4,
+      "success": true
+    },
+    "clang": {
+      "attempts": 4,
+      "success": true
+    },
+    "clank": {
+      "attempts": 4,
+      "success": true
+    },
+    "clash": {
+      "attempts": 4,
+      "success": true
+    },
+    "clasp": {
+      "attempts": 3,
+      "success": true
+    },
+    "class": {
+      "attempts": 6,
+      "success": true
+    },
+    "clean": {
+      "attempts": 3,
+      "success": true
+    },
+    "clear": {
+      "attempts": 4,
+      "success": true
+    },
+    "cleat": {
+      "attempts": 4,
+      "success": true
+    },
+    "cleft": {
+      "attempts": 4,
+      "success": true
+    },
+    "clerk": {
+      "attempts": 4,
+      "success": true
+    },
+    "click": {
+      "attempts": 5,
+      "success": true
+    },
+    "cliff": {
+      "attempts": 5,
+      "success": true
+    },
+    "climb": {
+      "attempts": 4,
+      "success": true
+    },
+    "cling": {
+      "attempts": 4,
+      "success": true
+    },
+    "clink": {
+      "attempts": 4,
+      "success": true
+    },
+    "cloak": {
+      "attempts": 4,
+      "success": true
+    },
+    "clock": {
+      "attempts": 5,
+      "success": true
+    },
+    "clone": {
+      "attempts": 4,
+      "success": true
+    },
+    "close": {
+      "attempts": 4,
+      "success": true
+    },
+    "cloth": {
+      "attempts": 4,
+      "success": true
+    },
+    "cloud": {
+      "attempts": 5,
+      "success": true
+    },
+    "clout": {
+      "attempts": 4,
+      "success": true
+    },
+    "clove": {
+      "attempts": 3,
+      "success": true
+    },
+    "clown": {
+      "attempts": 4,
+      "success": true
+    },
+    "cluck": {
+      "attempts": 4,
+      "success": true
+    },
+    "clued": {
+      "attempts": 5,
+      "success": true
+    },
+    "clump": {
+      "attempts": 4,
+      "success": true
+    },
+    "clung": {
+      "attempts": 3,
+      "success": true
+    },
+    "coach": {
+      "attempts": 5,
+      "success": true
+    },
+    "coast": {
+      "attempts": 5,
+      "success": true
+    },
+    "cobra": {
+      "attempts": 4,
+      "success": true
+    },
+    "cocoa": {
+      "attempts": 5,
+      "success": true
+    },
+    "colon": {
+      "attempts": 4,
+      "success": true
+    },
+    "color": {
+      "attempts": 4,
+      "success": true
+    },
+    "comet": {
+      "attempts": 4,
+      "success": true
+    },
+    "comfy": {
+      "attempts": 4,
+      "success": true
+    },
+    "comic": {
+      "attempts": 4,
+      "success": true
+    },
+    "comma": {
+      "attempts": 4,
+      "success": true
+    },
+    "conch": {
+      "attempts": 4,
+      "success": true
+    },
+    "condo": {
+      "attempts": 4,
+      "success": true
+    },
+    "conic": {
+      "attempts": 5,
+      "success": true
+    },
+    "copse": {
+      "attempts": 4,
+      "success": true
+    },
+    "coral": {
+      "attempts": 4,
+      "success": true
+    },
+    "corer": {
+      "attempts": 5,
+      "success": true
+    },
+    "corny": {
+      "attempts": 4,
+      "success": true
+    },
+    "couch": {
+      "attempts": 3,
+      "success": true
+    },
+    "cough": {
+      "attempts": 4,
+      "success": true
+    },
+    "could": {
+      "attempts": 5,
+      "success": true
+    },
+    "count": {
+      "attempts": 4,
+      "success": true
+    },
+    "coupe": {
+      "attempts": 4,
+      "success": true
+    },
+    "court": {
+      "attempts": 3,
+      "success": true
+    },
+    "coven": {
+      "attempts": 5,
+      "success": true
+    },
+    "cover": {
+      "attempts": 5,
+      "success": true
+    },
+    "covet": {
+      "attempts": 3,
+      "success": true
+    },
+    "covey": {
+      "attempts": 6,
+      "success": true
+    },
+    "cower": {
+      "attempts": 6,
+      "success": true
+    },
+    "coyly": {
+      "attempts": 6,
+      "success": true
+    },
+    "crack": {
+      "attempts": 6,
+      "success": true
+    },
+    "craft": {
+      "attempts": 4,
+      "success": true
+    },
+    "cramp": {
+      "attempts": 5,
+      "success": true
+    },
+    "crane": {
+      "attempts": 5,
+      "success": true
+    },
+    "crank": {
+      "attempts": 4,
+      "success": true
+    },
+    "crash": {
+      "attempts": 4,
+      "success": true
+    },
+    "crass": {
+      "attempts": 6,
+      "success": true
+    },
+    "crate": {
+      "attempts": 3,
+      "success": true
+    },
+    "crave": {
+      "attempts": 6,
+      "success": true
+    },
+    "crawl": {
+      "attempts": 3,
+      "success": true
+    },
+    "craze": {
+      "attempts": 6,
+      "success": true
+    },
+    "crazy": {
+      "attempts": 5,
+      "success": true
+    },
+    "creak": {
+      "attempts": 4,
+      "success": true
+    },
+    "cream": {
+      "attempts": 5,
+      "success": true
+    },
+    "credo": {
+      "attempts": 3,
+      "success": true
+    },
+    "creed": {
+      "attempts": 6,
+      "success": true
+    },
+    "creek": {
+      "attempts": 4,
+      "success": true
+    },
+    "creep": {
+      "attempts": 4,
+      "success": true
+    },
+    "creme": {
+      "attempts": 5,
+      "success": true
+    },
+    "crepe": {
+      "attempts": 4,
+      "success": true
+    },
+    "crept": {
+      "attempts": 3,
+      "success": true
+    },
+    "cress": {
+      "attempts": 6,
+      "success": true
+    },
+    "crest": {
+      "attempts": 4,
+      "success": true
+    },
+    "crick": {
+      "attempts": 4,
+      "success": true
+    },
+    "cried": {
+      "attempts": 4,
+      "success": true
+    },
+    "crier": {
+      "attempts": 4,
+      "success": true
+    },
+    "crime": {
+      "attempts": 4,
+      "success": true
+    },
+    "crimp": {
+      "attempts": 4,
+      "success": true
+    },
+    "crisp": {
+      "attempts": 3,
+      "success": true
+    },
+    "croak": {
+      "attempts": 4,
+      "success": true
+    },
+    "crock": {
+      "attempts": 4,
+      "success": true
+    },
+    "crone": {
+      "attempts": 5,
+      "success": true
+    },
+    "crony": {
+      "attempts": 2,
+      "success": true
+    },
+    "crook": {
+      "attempts": 4,
+      "success": true
+    },
+    "cross": {
+      "attempts": 6,
+      "success": true
+    },
+    "croup": {
+      "attempts": 5,
+      "success": true
+    },
+    "crowd": {
+      "attempts": 5,
+      "success": true
+    },
+    "crown": {
+      "attempts": 3,
+      "success": true
+    },
+    "crude": {
+      "attempts": 3,
+      "success": true
+    },
+    "cruel": {
+      "attempts": 4,
+      "success": true
+    },
+    "crumb": {
+      "attempts": 4,
+      "success": true
+    },
+    "crump": {
+      "attempts": 3,
+      "success": true
+    },
+    "crush": {
+      "attempts": 4,
+      "success": true
+    },
+    "crust": {
+      "attempts": 5,
+      "success": true
+    },
+    "crypt": {
+      "attempts": 4,
+      "success": true
+    },
+    "cubic": {
+      "attempts": 4,
+      "success": true
+    },
+    "cumin": {
+      "attempts": 4,
+      "success": true
+    },
+    "curio": {
+      "attempts": 3,
+      "success": true
+    },
+    "curly": {
+      "attempts": 2,
+      "success": true
+    },
+    "curry": {
+      "attempts": 5,
+      "success": true
+    },
+    "curse": {
+      "attempts": 3,
+      "success": true
+    },
+    "curve": {
+      "attempts": 4,
+      "success": true
+    },
+    "curvy": {
+      "attempts": 4,
+      "success": true
+    },
+    "cutie": {
+      "attempts": 4,
+      "success": true
+    },
+    "cyber": {
+      "attempts": 5,
+      "success": true
+    },
+    "cycle": {
+      "attempts": 6,
+      "success": true
+    },
+    "cynic": {
+      "attempts": 3,
+      "success": true
+    },
+    "daddy": {
+      "attempts": 6,
+      "success": true
+    },
+    "daily": {
+      "attempts": 4,
+      "success": true
+    },
+    "dairy": {
+      "attempts": 3,
+      "success": true
+    },
+    "daisy": {
+      "attempts": 4,
+      "success": true
+    },
+    "dally": {
+      "attempts": 3,
+      "success": true
+    },
+    "dance": {
+      "attempts": 3,
+      "success": true
+    },
+    "dandy": {
+      "attempts": 6,
+      "success": true
+    },
+    "datum": {
+      "attempts": 5,
+      "success": true
+    },
+    "daunt": {
+      "attempts": 3,
+      "success": true
+    },
+    "dealt": {
+      "attempts": 3,
+      "success": true
+    },
+    "death": {
+      "attempts": 4,
+      "success": true
+    },
+    "debar": {
+      "attempts": 3,
+      "success": true
+    },
+    "debit": {
+      "attempts": 4,
+      "success": true
+    },
+    "debug": {
+      "attempts": 3,
+      "success": true
+    },
+    "debut": {
+      "attempts": 4,
+      "success": true
+    },
+    "decal": {
+      "attempts": 3,
+      "success": true
+    },
+    "decay": {
+      "attempts": 5,
+      "success": true
+    },
+    "decor": {
+      "attempts": 4,
+      "success": true
+    },
+    "decoy": {
+      "attempts": 4,
+      "success": true
+    },
+    "decry": {
+      "attempts": 5,
+      "success": true
+    },
+    "defer": {
+      "attempts": 5,
+      "success": true
+    },
+    "deign": {
+      "attempts": 4,
+      "success": true
+    },
+    "deity": {
+      "attempts": 3,
+      "success": true
+    },
+    "delay": {
+      "attempts": 4,
+      "success": true
+    },
+    "delta": {
+      "attempts": 3,
+      "success": true
+    },
+    "delve": {
+      "attempts": 4,
+      "success": true
+    },
+    "demon": {
+      "attempts": 4,
+      "success": true
+    },
+    "demur": {
+      "attempts": 5,
+      "success": true
+    },
+    "denim": {
+      "attempts": 4,
+      "success": true
+    },
+    "dense": {
+      "attempts": 5,
+      "success": true
+    },
+    "depot": {
+      "attempts": 3,
+      "success": true
+    },
+    "depth": {
+      "attempts": 4,
+      "success": true
+    },
+    "derby": {
+      "attempts": 3,
+      "success": true
+    },
+    "deter": {
+      "attempts": 4,
+      "success": true
+    },
+    "detox": {
+      "attempts": 4,
+      "success": true
+    },
+    "deuce": {
+      "attempts": 5,
+      "success": true
+    },
+    "devil": {
+      "attempts": 4,
+      "success": true
+    },
+    "diary": {
+      "attempts": 4,
+      "success": true
+    },
+    "dicey": {
+      "attempts": 4,
+      "success": true
+    },
+    "digit": {
+      "attempts": 4,
+      "success": true
+    },
+    "dilly": {
+      "attempts": 5,
+      "success": true
+    },
+    "dimly": {
+      "attempts": 4,
+      "success": true
+    },
+    "diner": {
+      "attempts": 2,
+      "success": true
+    },
+    "dingo": {
+      "attempts": 4,
+      "success": true
+    },
+    "dingy": {
+      "attempts": 3,
+      "success": true
+    },
+    "diode": {
+      "attempts": 5,
+      "success": true
+    },
+    "dirge": {
+      "attempts": 3,
+      "success": true
+    },
+    "dirty": {
+      "attempts": 3,
+      "success": true
+    },
+    "disco": {
+      "attempts": 4,
+      "success": true
+    },
+    "ditch": {
+      "attempts": 3,
+      "success": true
+    },
+    "ditto": {
+      "attempts": 4,
+      "success": true
+    },
+    "ditty": {
+      "attempts": 3,
+      "success": true
+    },
+    "diver": {
+      "attempts": 6,
+      "success": true
+    },
+    "dizzy": {
+      "attempts": 6,
+      "success": true
+    },
+    "dodge": {
+      "attempts": 6,
+      "success": true
+    },
+    "dodgy": {
+      "attempts": 4,
+      "success": true
+    },
+    "dogma": {
+      "attempts": 4,
+      "success": true
+    },
+    "doing": {
+      "attempts": 4,
+      "success": true
+    },
+    "dolly": {
+      "attempts": 6,
+      "success": true
+    },
+    "donor": {
+      "attempts": 4,
+      "success": true
+    },
+    "donut": {
+      "attempts": 4,
+      "success": true
+    },
+    "dopey": {
+      "attempts": 3,
+      "success": true
+    },
+    "doubt": {
+      "attempts": 5,
+      "success": true
+    },
+    "dough": {
+      "attempts": 4,
+      "success": true
+    },
+    "dowdy": {
+      "attempts": 6,
+      "success": true
+    },
+    "dowel": {
+      "attempts": 4,
+      "success": true
+    },
+    "downy": {
+      "attempts": 5,
+      "success": true
+    },
+    "dowry": {
+      "attempts": 4,
+      "success": true
+    },
+    "dozen": {
+      "attempts": 6,
+      "success": true
+    },
+    "draft": {
+      "attempts": 5,
+      "success": true
+    },
+    "drain": {
+      "attempts": 4,
+      "success": true
+    },
+    "drake": {
+      "attempts": 3,
+      "success": true
+    },
+    "drama": {
+      "attempts": 6,
+      "success": true
+    },
+    "drank": {
+      "attempts": 4,
+      "success": true
+    },
+    "drape": {
+      "attempts": 4,
+      "success": true
+    },
+    "drawl": {
+      "attempts": 5,
+      "success": true
+    },
+    "drawn": {
+      "attempts": 4,
+      "success": true
+    },
+    "dread": {
+      "attempts": 5,
+      "success": true
+    },
+    "dream": {
+      "attempts": 3,
+      "success": true
+    },
+    "dress": {
+      "attempts": 5,
+      "success": true
+    },
+    "dried": {
+      "attempts": 3,
+      "success": true
+    },
+    "drier": {
+      "attempts": 3,
+      "success": true
+    },
+    "drift": {
+      "attempts": 3,
+      "success": true
+    },
+    "drill": {
+      "attempts": 5,
+      "success": true
+    },
+    "drink": {
+      "attempts": 4,
+      "success": true
+    },
+    "drive": {
+      "attempts": 4,
+      "success": true
+    },
+    "droit": {
+      "attempts": 3,
+      "success": true
+    },
+    "droll": {
+      "attempts": 5,
+      "success": true
+    },
+    "drone": {
+      "attempts": 6,
+      "success": true
+    },
+    "drool": {
+      "attempts": 3,
+      "success": true
+    },
+    "droop": {
+      "attempts": 6,
+      "success": true
+    },
+    "dross": {
+      "attempts": 4,
+      "success": true
+    },
+    "drove": {
+      "attempts": 6,
+      "success": true
+    },
+    "drown": {
+      "attempts": 5,
+      "success": true
+    },
+    "druid": {
+      "attempts": 5,
+      "success": true
+    },
+    "drunk": {
+      "attempts": 4,
+      "success": true
+    },
+    "dryer": {
+      "attempts": 4,
+      "success": true
+    },
+    "dryly": {
+      "attempts": 5,
+      "success": true
+    },
+    "duchy": {
+      "attempts": 4,
+      "success": true
+    },
+    "dully": {
+      "attempts": 5,
+      "success": true
+    },
+    "dummy": {
+      "attempts": 5,
+      "success": true
+    },
+    "dumpy": {
+      "attempts": 5,
+      "success": true
+    },
+    "dunce": {
+      "attempts": 4,
+      "success": true
+    },
+    "dusky": {
+      "attempts": 5,
+      "success": true
+    },
+    "dusty": {
+      "attempts": 5,
+      "success": true
+    },
+    "dutch": {
+      "attempts": 4,
+      "success": true
+    },
+    "duvet": {
+      "attempts": 3,
+      "success": true
+    },
+    "dwarf": {
+      "attempts": 4,
+      "success": true
+    },
+    "dwell": {
+      "attempts": 4,
+      "success": true
+    },
+    "dwelt": {
+      "attempts": 4,
+      "success": true
+    },
+    "dying": {
+      "attempts": 3,
+      "success": true
+    },
+    "eager": {
+      "attempts": 6,
+      "success": true
+    },
+    "eagle": {
+      "attempts": 6,
+      "success": true
+    },
+    "early": {
+      "attempts": 3,
+      "success": true
+    },
+    "earth": {
+      "attempts": 2,
+      "success": true
+    },
+    "easel": {
+      "attempts": 4,
+      "success": true
+    },
+    "eaten": {
+      "attempts": 5,
+      "success": true
+    },
+    "eater": {
+      "attempts": 6,
+      "success": true
+    },
+    "ebony": {
+      "attempts": 3,
+      "success": true
+    },
+    "eclat": {
+      "attempts": 4,
+      "success": true
+    },
+    "edict": {
+      "attempts": 4,
+      "success": true
+    },
+    "edify": {
+      "attempts": 4,
+      "success": true
+    },
+    "eerie": {
+      "attempts": 6,
+      "success": true
+    },
+    "egret": {
+      "attempts": 4,
+      "success": true
+    },
+    "eight": {
+      "attempts": 4,
+      "success": true
+    },
+    "eject": {
+      "attempts": 4,
+      "success": true
+    },
+    "eking": {
+      "attempts": 4,
+      "success": true
+    },
+    "elate": {
+      "attempts": 4,
+      "success": true
+    },
+    "elbow": {
+      "attempts": 4,
+      "success": true
+    },
+    "elder": {
+      "attempts": 6,
+      "success": true
+    },
+    "elect": {
+      "attempts": 4,
+      "success": true
+    },
+    "elegy": {
+      "attempts": 4,
+      "success": true
+    },
+    "elfin": {
+      "attempts": 3,
+      "success": true
+    },
+    "elide": {
+      "attempts": 5,
+      "success": true
+    },
+    "elite": {
+      "attempts": 5,
+      "success": true
+    },
+    "elope": {
+      "attempts": 6,
+      "success": true
+    },
+    "elude": {
+      "attempts": 5,
+      "success": true
+    },
+    "email": {
+      "attempts": 4,
+      "success": true
+    },
+    "embed": {
+      "attempts": 6,
+      "success": true
+    },
+    "ember": {
+      "attempts": 6,
+      "success": true
+    },
+    "emcee": {
+      "attempts": 5,
+      "success": true
+    },
+    "empty": {
+      "attempts": 4,
+      "success": true
+    },
+    "enact": {
+      "attempts": 3,
+      "success": true
+    },
+    "endow": {
+      "attempts": 5,
+      "success": true
+    },
+    "enema": {
+      "attempts": 4,
+      "success": true
+    },
+    "enemy": {
+      "attempts": 4,
+      "success": true
+    },
+    "enjoy": {
+      "attempts": 4,
+      "success": true
+    },
+    "ennui": {
+      "attempts": 3,
+      "success": true
+    },
+    "ensue": {
+      "attempts": 5,
+      "success": true
+    },
+    "enter": {
+      "attempts": 5,
+      "success": true
+    },
+    "entry": {
+      "attempts": 4,
+      "success": true
+    },
+    "envoy": {
+      "attempts": 5,
+      "success": true
+    },
+    "epoch": {
+      "attempts": 4,
+      "success": true
+    },
+    "epoxy": {
+      "attempts": 5,
+      "success": true
+    },
+    "equal": {
+      "attempts": 5,
+      "success": true
+    },
+    "equip": {
+      "attempts": 5,
+      "success": true
+    },
+    "erase": {
+      "attempts": 5,
+      "success": true
+    },
+    "erect": {
+      "attempts": 4,
+      "success": true
+    },
+    "erode": {
+      "attempts": 5,
+      "success": true
+    },
+    "error": {
+      "attempts": 4,
+      "success": true
+    },
+    "erupt": {
+      "attempts": 5,
+      "success": true
+    },
+    "essay": {
+      "attempts": 4,
+      "success": true
+    },
+    "ester": {
+      "attempts": 3,
+      "success": true
+    },
+    "ether": {
+      "attempts": 4,
+      "success": true
+    },
+    "ethic": {
+      "attempts": 4,
+      "success": true
+    },
+    "ethos": {
+      "attempts": 4,
+      "success": true
+    },
+    "etude": {
+      "attempts": 4,
+      "success": true
+    },
+    "evade": {
+      "attempts": 4,
+      "success": true
+    },
+    "event": {
+      "attempts": 4,
+      "success": true
+    },
+    "every": {
+      "attempts": 5,
+      "success": true
+    },
+    "evict": {
+      "attempts": 5,
+      "success": true
+    },
+    "evoke": {
+      "attempts": 5,
+      "success": true
+    },
+    "exact": {
+      "attempts": 4,
+      "success": true
+    },
+    "exalt": {
+      "attempts": 4,
+      "success": true
+    },
+    "excel": {
+      "attempts": 5,
+      "success": true
+    },
+    "exert": {
+      "attempts": 5,
+      "success": true
+    },
+    "exile": {
+      "attempts": 6,
+      "success": true
+    },
+    "exist": {
+      "attempts": 4,
+      "success": true
+    },
+    "expel": {
+      "attempts": 5,
+      "success": true
+    },
+    "extol": {
+      "attempts": 4,
+      "success": true
+    },
+    "extra": {
+      "attempts": 4,
+      "success": true
+    },
+    "exult": {
+      "attempts": 3,
+      "success": true
+    },
+    "eying": {
+      "attempts": 6,
+      "success": true
+    },
+    "fable": {
+      "attempts": 5,
+      "success": true
+    },
+    "facet": {
+      "attempts": 3,
+      "success": true
+    },
+    "faint": {
+      "attempts": 4,
+      "success": true
+    },
+    "fairy": {
+      "attempts": 4,
+      "success": true
+    },
+    "faith": {
+      "attempts": 4,
+      "success": true
+    },
+    "false": {
+      "attempts": 4,
+      "success": true
+    },
+    "fancy": {
+      "attempts": 4,
+      "success": true
+    },
+    "fanny": {
+      "attempts": 5,
+      "success": true
+    },
+    "farce": {
+      "attempts": 4,
+      "success": true
+    },
+    "fatal": {
+      "attempts": 5,
+      "success": true
+    },
+    "fatty": {
+      "attempts": 6,
+      "success": true
+    },
+    "fault": {
+      "attempts": 5,
+      "success": true
+    },
+    "fauna": {
+      "attempts": 5,
+      "success": true
+    },
+    "favor": {
+      "attempts": 5,
+      "success": true
+    },
+    "feast": {
+      "attempts": 4,
+      "success": true
+    },
+    "fecal": {
+      "attempts": 4,
+      "success": true
+    },
+    "feign": {
+      "attempts": 5,
+      "success": true
+    },
+    "fella": {
+      "attempts": 5,
+      "success": true
+    },
+    "felon": {
+      "attempts": 4,
+      "success": true
+    },
+    "femme": {
+      "attempts": 5,
+      "success": true
+    },
+    "femur": {
+      "attempts": 5,
+      "success": true
+    },
+    "fence": {
+      "attempts": 4,
+      "success": true
+    },
+    "feral": {
+      "attempts": 3,
+      "success": true
+    },
+    "ferry": {
+      "attempts": 6,
+      "success": true
+    },
+    "fetal": {
+      "attempts": 3,
+      "success": true
+    },
+    "fetch": {
+      "attempts": 4,
+      "success": true
+    },
+    "fetid": {
+      "attempts": 3,
+      "success": true
+    },
+    "fetus": {
+      "attempts": 4,
+      "success": true
+    },
+    "fever": {
+      "attempts": 5,
+      "success": true
+    },
+    "fewer": {
+      "attempts": 6,
+      "success": true
+    },
+    "fiber": {
+      "attempts": 4,
+      "success": true
+    },
+    "ficus": {
+      "attempts": 5,
+      "success": true
+    },
+    "field": {
+      "attempts": 4,
+      "success": true
+    },
+    "fiend": {
+      "attempts": 4,
+      "success": true
+    },
+    "fiery": {
+      "attempts": 4,
+      "success": true
+    },
+    "fifth": {
+      "attempts": 4,
+      "success": true
+    },
+    "fifty": {
+      "attempts": 6,
+      "success": true
+    },
+    "fight": {
+      "attempts": 5,
+      "success": true
+    },
+    "filer": {
+      "attempts": 4,
+      "success": true
+    },
+    "filet": {
+      "attempts": 4,
+      "success": true
+    },
+    "filly": {
+      "attempts": 5,
+      "success": true
+    },
+    "filmy": {
+      "attempts": 4,
+      "success": true
+    },
+    "filth": {
+      "attempts": 3,
+      "success": true
+    },
+    "final": {
+      "attempts": 4,
+      "success": true
+    },
+    "finch": {
+      "attempts": 4,
+      "success": true
+    },
+    "finer": {
+      "attempts": 4,
+      "success": true
+    },
+    "first": {
+      "attempts": 3,
+      "success": true
+    },
+    "fishy": {
+      "attempts": 5,
+      "success": true
+    },
+    "fixer": {
+      "attempts": 5,
+      "success": true
+    },
+    "fizzy": {
+      "attempts": 5,
+      "success": true
+    },
+    "fjord": {
+      "attempts": 5,
+      "success": true
+    },
+    "flack": {
+      "attempts": 4,
+      "success": true
+    },
+    "flail": {
+      "attempts": 4,
+      "success": true
+    },
+    "flair": {
+      "attempts": 3,
+      "success": true
+    },
+    "flake": {
+      "attempts": 5,
+      "success": true
+    },
+    "flaky": {
+      "attempts": 5,
+      "success": true
+    },
+    "flame": {
+      "attempts": 5,
+      "success": true
+    },
+    "flank": {
+      "attempts": 5,
+      "success": true
+    },
+    "flare": {
+      "attempts": 4,
+      "success": true
+    },
+    "flash": {
+      "attempts": 5,
+      "success": true
+    },
+    "flask": {
+      "attempts": 4,
+      "success": true
+    },
+    "fleck": {
+      "attempts": 4,
+      "success": true
+    },
+    "fleet": {
+      "attempts": 4,
+      "success": true
+    },
+    "flesh": {
+      "attempts": 3,
+      "success": true
+    },
+    "flick": {
+      "attempts": 4,
+      "success": true
+    },
+    "flier": {
+      "attempts": 3,
+      "success": true
+    },
+    "fling": {
+      "attempts": 5,
+      "success": true
+    },
+    "flint": {
+      "attempts": 4,
+      "success": true
+    },
+    "flirt": {
+      "attempts": 4,
+      "success": true
+    },
+    "float": {
+      "attempts": 5,
+      "success": true
+    },
+    "flock": {
+      "attempts": 4,
+      "success": true
+    },
+    "flood": {
+      "attempts": 4,
+      "success": true
+    },
+    "floor": {
+      "attempts": 5,
+      "success": true
+    },
+    "flora": {
+      "attempts": 4,
+      "success": true
+    },
+    "floss": {
+      "attempts": 6,
+      "success": true
+    },
+    "flour": {
+      "attempts": 4,
+      "success": true
+    },
+    "flout": {
+      "attempts": 5,
+      "success": true
+    },
+    "flown": {
+      "attempts": 5,
+      "success": true
+    },
+    "fluff": {
+      "attempts": 4,
+      "success": true
+    },
+    "fluid": {
+      "attempts": 4,
+      "success": true
+    },
+    "fluke": {
+      "attempts": 4,
+      "success": true
+    },
+    "flume": {
+      "attempts": 3,
+      "success": true
+    },
+    "flung": {
+      "attempts": 4,
+      "success": true
+    },
+    "flunk": {
+      "attempts": 5,
+      "success": true
+    },
+    "flush": {
+      "attempts": 4,
+      "success": true
+    },
+    "flute": {
+      "attempts": 4,
+      "success": true
+    },
+    "flyer": {
+      "attempts": 5,
+      "success": true
+    },
+    "foamy": {
+      "attempts": 4,
+      "success": true
+    },
+    "focal": {
+      "attempts": 4,
+      "success": true
+    },
+    "focus": {
+      "attempts": 5,
+      "success": true
+    },
+    "foggy": {
+      "attempts": 5,
+      "success": true
+    },
+    "foist": {
+      "attempts": 3,
+      "success": true
+    },
+    "folio": {
+      "attempts": 5,
+      "success": true
+    },
+    "folly": {
+      "attempts": 5,
+      "success": true
+    },
+    "foray": {
+      "attempts": 5,
+      "success": true
+    },
+    "force": {
+      "attempts": 4,
+      "success": true
+    },
+    "forge": {
+      "attempts": 3,
+      "success": true
+    },
+    "forgo": {
+      "attempts": 4,
+      "success": true
+    },
+    "forte": {
+      "attempts": 3,
+      "success": true
+    },
+    "forth": {
+      "attempts": 3,
+      "success": true
+    },
+    "forty": {
+      "attempts": 2,
+      "success": true
+    },
+    "forum": {
+      "attempts": 4,
+      "success": true
+    },
+    "found": {
+      "attempts": 5,
+      "success": true
+    },
+    "foyer": {
+      "attempts": 6,
+      "success": true
+    },
+    "frail": {
+      "attempts": 4,
+      "success": true
+    },
+    "frame": {
+      "attempts": 4,
+      "success": true
+    },
+    "frank": {
+      "attempts": 5,
+      "success": true
+    },
+    "fraud": {
+      "attempts": 5,
+      "success": true
+    },
+    "freak": {
+      "attempts": 5,
+      "success": true
+    },
+    "freed": {
+      "attempts": 6,
+      "success": true
+    },
+    "freer": {
+      "attempts": 6,
+      "success": true
+    },
+    "fresh": {
+      "attempts": 4,
+      "success": true
+    },
+    "friar": {
+      "attempts": 5,
+      "success": true
+    },
+    "fried": {
+      "attempts": 4,
+      "success": true
+    },
+    "frill": {
+      "attempts": 6,
+      "success": true
+    },
+    "frisk": {
+      "attempts": 4,
+      "success": true
+    },
+    "fritz": {
+      "attempts": 4,
+      "success": true
+    },
+    "frock": {
+      "attempts": 4,
+      "success": true
+    },
+    "frond": {
+      "attempts": 5,
+      "success": true
+    },
+    "front": {
+      "attempts": 4,
+      "success": true
+    },
+    "frost": {
+      "attempts": 4,
+      "success": true
+    },
+    "froth": {
+      "attempts": 4,
+      "success": true
+    },
+    "frown": {
+      "attempts": 3,
+      "success": true
+    },
+    "froze": {
+      "attempts": 5,
+      "success": true
+    },
+    "fruit": {
+      "attempts": 4,
+      "success": true
+    },
+    "fudge": {
+      "attempts": 4,
+      "success": true
+    },
+    "fugue": {
+      "attempts": 5,
+      "success": true
+    },
+    "fully": {
+      "attempts": 6,
+      "success": true
+    },
+    "fungi": {
+      "attempts": 4,
+      "success": true
+    },
+    "funky": {
+      "attempts": 4,
+      "success": true
+    },
+    "funny": {
+      "attempts": 5,
+      "success": true
+    },
+    "furor": {
+      "attempts": 5,
+      "success": true
+    },
+    "furry": {
+      "attempts": 4,
+      "success": true
+    },
+    "fussy": {
+      "attempts": 5,
+      "success": true
+    },
+    "fuzzy": {
+      "attempts": 6,
+      "success": true
+    },
+    "gaffe": {
+      "attempts": 5,
+      "success": true
+    },
+    "gaily": {
+      "attempts": 4,
+      "success": true
+    },
+    "gamer": {
+      "attempts": 4,
+      "success": true
+    },
+    "gamma": {
+      "attempts": 5,
+      "success": true
+    },
+    "gamut": {
+      "attempts": 3,
+      "success": true
+    },
+    "gassy": {
+      "attempts": 5,
+      "success": true
+    },
+    "gaudy": {
+      "attempts": 4,
+      "success": true
+    },
+    "gauge": {
+      "attempts": 6,
+      "success": true
+    },
+    "gaunt": {
+      "attempts": 4,
+      "success": true
+    },
+    "gauze": {
+      "attempts": 5,
+      "success": true
+    },
+    "gavel": {
+      "attempts": 3,
+      "success": true
+    },
+    "gawky": {
+      "attempts": 5,
+      "success": true
+    },
+    "gayer": {
+      "attempts": 4,
+      "success": true
+    },
+    "gayly": {
+      "attempts": 5,
+      "success": true
+    },
+    "gazer": {
+      "attempts": 4,
+      "success": true
+    },
+    "gecko": {
+      "attempts": 4,
+      "success": true
+    },
+    "geeky": {
+      "attempts": 4,
+      "success": true
+    },
+    "geese": {
+      "attempts": 6,
+      "success": true
+    },
+    "genie": {
+      "attempts": 4,
+      "success": true
+    },
+    "genre": {
+      "attempts": 3,
+      "success": true
+    },
+    "ghost": {
+      "attempts": 3,
+      "success": true
+    },
+    "ghoul": {
+      "attempts": 4,
+      "success": true
+    },
+    "giant": {
+      "attempts": 4,
+      "success": true
+    },
+    "giddy": {
+      "attempts": 4,
+      "success": true
+    },
+    "gipsy": {
+      "attempts": 4,
+      "success": true
+    },
+    "girly": {
+      "attempts": 3,
+      "success": true
+    },
+    "girth": {
+      "attempts": 5,
+      "success": true
+    },
+    "given": {
+      "attempts": 4,
+      "success": true
+    },
+    "giver": {
+      "attempts": 5,
+      "success": true
+    },
+    "glade": {
+      "attempts": 5,
+      "success": true
+    },
+    "gland": {
+      "attempts": 5,
+      "success": true
+    },
+    "glare": {
+      "attempts": 5,
+      "success": true
+    },
+    "glass": {
+      "attempts": 6,
+      "success": true
+    },
+    "glaze": {
+      "attempts": 6,
+      "success": true
+    },
+    "gleam": {
+      "attempts": 3,
+      "success": true
+    },
+    "glean": {
+      "attempts": 4,
+      "success": true
+    },
+    "glide": {
+      "attempts": 4,
+      "success": true
+    },
+    "glint": {
+      "attempts": 5,
+      "success": true
+    },
+    "gloat": {
+      "attempts": 6,
+      "success": true
+    },
+    "globe": {
+      "attempts": 3,
+      "success": true
+    },
+    "gloom": {
+      "attempts": 5,
+      "success": true
+    },
+    "glory": {
+      "attempts": 4,
+      "success": true
+    },
+    "gloss": {
+      "attempts": 6,
+      "success": true
+    },
+    "glove": {
+      "attempts": 4,
+      "success": true
+    },
+    "glyph": {
+      "attempts": 3,
+      "success": true
+    },
+    "gnash": {
+      "attempts": 4,
+      "success": true
+    },
+    "gnome": {
+      "attempts": 4,
+      "success": true
+    },
+    "godly": {
+      "attempts": 4,
+      "success": true
+    },
+    "going": {
+      "attempts": 5,
+      "success": true
+    },
+    "golem": {
+      "attempts": 4,
+      "success": true
+    },
+    "golly": {
+      "attempts": 6,
+      "success": true
+    },
+    "gonad": {
+      "attempts": 4,
+      "success": true
+    },
+    "goner": {
+      "attempts": 4,
+      "success": true
+    },
+    "goody": {
+      "attempts": 6,
+      "success": true
+    },
+    "gooey": {
+      "attempts": 5,
+      "success": true
+    },
+    "goofy": {
+      "attempts": 6,
+      "success": true
+    },
+    "goose": {
+      "attempts": 5,
+      "success": true
+    },
+    "gorge": {
+      "attempts": 5,
+      "success": true
+    },
+    "gouge": {
+      "attempts": 5,
+      "success": true
+    },
+    "gourd": {
+      "attempts": 5,
+      "success": true
+    },
+    "grace": {
+      "attempts": 4,
+      "success": true
+    },
+    "grade": {
+      "attempts": 4,
+      "success": true
+    },
+    "graft": {
+      "attempts": 6,
+      "success": true
+    },
+    "grail": {
+      "attempts": 2,
+      "success": true
+    },
+    "grain": {
+      "attempts": 3,
+      "success": true
+    },
+    "grand": {
+      "attempts": 5,
+      "success": true
+    },
+    "grant": {
+      "attempts": 4,
+      "success": true
+    },
+    "grape": {
+      "attempts": 4,
+      "success": true
+    },
+    "graph": {
+      "attempts": 4,
+      "success": true
+    },
+    "grasp": {
+      "attempts": 3,
+      "success": true
+    },
+    "grass": {
+      "attempts": 6,
+      "success": true
+    },
+    "grate": {
+      "attempts": 5,
+      "success": true
+    },
+    "grave": {
+      "attempts": 5,
+      "success": true
+    },
+    "gravy": {
+      "attempts": 4,
+      "success": true
+    },
+    "graze": {
+      "attempts": 6,
+      "success": true
+    },
+    "great": {
+      "attempts": 3,
+      "success": true
+    },
+    "greed": {
+      "attempts": 5,
+      "success": true
+    },
+    "green": {
+      "attempts": 4,
+      "success": true
+    },
+    "greet": {
+      "attempts": 5,
+      "success": true
+    },
+    "grief": {
+      "attempts": 4,
+      "success": true
+    },
+    "grill": {
+      "attempts": 5,
+      "success": true
+    },
+    "grime": {
+      "attempts": 4,
+      "success": true
+    },
+    "grimy": {
+      "attempts": 4,
+      "success": true
+    },
+    "grind": {
+      "attempts": 4,
+      "success": true
+    },
+    "gripe": {
+      "attempts": 4,
+      "success": true
+    },
+    "groan": {
+      "attempts": 3,
+      "success": true
+    },
+    "groin": {
+      "attempts": 4,
+      "success": true
+    },
+    "groom": {
+      "attempts": 5,
+      "success": true
+    },
+    "grope": {
+      "attempts": 3,
+      "success": true
+    },
+    "gross": {
+      "attempts": 6,
+      "success": true
+    },
+    "group": {
+      "attempts": 5,
+      "success": true
+    },
+    "grout": {
+      "attempts": 3,
+      "success": true
+    },
+    "grove": {
+      "attempts": 5,
+      "success": true
+    },
+    "growl": {
+      "attempts": 5,
+      "success": true
+    },
+    "grown": {
+      "attempts": 6,
+      "success": true
+    },
+    "gruel": {
+      "attempts": 5,
+      "success": true
+    },
+    "gruff": {
+      "attempts": 4,
+      "success": true
+    },
+    "grunt": {
+      "attempts": 3,
+      "success": true
+    },
+    "guard": {
+      "attempts": 4,
+      "success": true
+    },
+    "guava": {
+      "attempts": 6,
+      "success": true
+    },
+    "guess": {
+      "attempts": 6,
+      "success": true
+    },
+    "guest": {
+      "attempts": 5,
+      "success": true
+    },
+    "guide": {
+      "attempts": 4,
+      "success": true
+    },
+    "guild": {
+      "attempts": 4,
+      "success": true
+    },
+    "guile": {
+      "attempts": 4,
+      "success": true
+    },
+    "guilt": {
+      "attempts": 5,
+      "success": true
+    },
+    "guise": {
+      "attempts": 4,
+      "success": true
+    },
+    "gulch": {
+      "attempts": 4,
+      "success": true
+    },
+    "gully": {
+      "attempts": 5,
+      "success": true
+    },
+    "gumbo": {
+      "attempts": 4,
+      "success": true
+    },
+    "gummy": {
+      "attempts": 5,
+      "success": true
+    },
+    "guppy": {
+      "attempts": 5,
+      "success": true
+    },
+    "gusto": {
+      "attempts": 3,
+      "success": true
+    },
+    "gusty": {
+      "attempts": 3,
+      "success": true
+    },
+    "gypsy": {
+      "attempts": 4,
+      "success": true
+    },
+    "habit": {
+      "attempts": 3,
+      "success": true
+    },
+    "hairy": {
+      "attempts": 5,
+      "success": true
+    },
+    "halve": {
+      "attempts": 4,
+      "success": true
+    },
+    "handy": {
+      "attempts": 6,
+      "success": true
+    },
+    "happy": {
+      "attempts": 5,
+      "success": true
+    },
+    "hardy": {
+      "attempts": 5,
+      "success": true
+    },
+    "harem": {
+      "attempts": 5,
+      "success": true
+    },
+    "harpy": {
+      "attempts": 5,
+      "success": true
+    },
+    "harry": {
+      "attempts": 6,
+      "success": true
+    },
+    "harsh": {
+      "attempts": 4,
+      "success": true
+    },
+    "haste": {
+      "attempts": 4,
+      "success": true
+    },
+    "hasty": {
+      "attempts": 4,
+      "success": true
+    },
+    "hatch": {
+      "attempts": 3,
+      "success": true
+    },
+    "hater": {
+      "attempts": 5,
+      "success": true
+    },
+    "haunt": {
+      "attempts": 3,
+      "success": true
+    },
+    "haute": {
+      "attempts": 3,
+      "success": true
+    },
+    "haven": {
+      "attempts": 5,
+      "success": true
+    },
+    "havoc": {
+      "attempts": 5,
+      "success": true
+    },
+    "hazel": {
+      "attempts": 5,
+      "success": true
+    },
+    "heady": {
+      "attempts": 4,
+      "success": true
+    },
+    "heard": {
+      "attempts": 3,
+      "success": true
+    },
+    "heart": {
+      "attempts": 4,
+      "success": true
+    },
+    "heath": {
+      "attempts": 6,
+      "success": true
+    },
+    "heave": {
+      "attempts": 4,
+      "success": true
+    },
+    "heavy": {
+      "attempts": 4,
+      "success": true
+    },
+    "hedge": {
+      "attempts": 5,
+      "success": true
+    },
+    "hefty": {
+      "attempts": 3,
+      "success": true
+    },
+    "heist": {
+      "attempts": 6,
+      "success": true
+    },
+    "helix": {
+      "attempts": 5,
+      "success": true
+    },
+    "hello": {
+      "attempts": 4,
+      "success": true
+    },
+    "hence": {
+      "attempts": 5,
+      "success": true
+    },
+    "heron": {
+      "attempts": 3,
+      "success": true
+    },
+    "hilly": {
+      "attempts": 6,
+      "success": true
+    },
+    "hinge": {
+      "attempts": 5,
+      "success": true
+    },
+    "hippo": {
+      "attempts": 4,
+      "success": true
+    },
+    "hippy": {
+      "attempts": 5,
+      "success": true
+    },
+    "hitch": {
+      "attempts": 6,
+      "success": true
+    },
+    "hoard": {
+      "attempts": 4,
+      "success": true
+    },
+    "hobby": {
+      "attempts": 6,
+      "success": true
+    },
+    "hoist": {
+      "attempts": 4,
+      "success": true
+    },
+    "holly": {
+      "attempts": 6,
+      "success": true
+    },
+    "homer": {
+      "attempts": 6,
+      "success": true
+    },
+    "honey": {
+      "attempts": 3,
+      "success": true
+    },
+    "honor": {
+      "attempts": 5,
+      "success": true
+    },
+    "horde": {
+      "attempts": 4,
+      "success": true
+    },
+    "horny": {
+      "attempts": 5,
+      "success": true
+    },
+    "horse": {
+      "attempts": 4,
+      "success": true
+    },
+    "hotel": {
+      "attempts": 5,
+      "success": true
+    },
+    "hotly": {
+      "attempts": 3,
+      "success": true
+    },
+    "hound": {
+      "attempts": 3,
+      "success": true
+    },
+    "house": {
+      "attempts": 6,
+      "success": true
+    },
+    "hovel": {
+      "attempts": 3,
+      "success": true
+    },
+    "hover": {
+      "attempts": 6,
+      "success": true
+    },
+    "howdy": {
+      "attempts": 4,
+      "success": true
+    },
+    "human": {
+      "attempts": 4,
+      "success": true
+    },
+    "humid": {
+      "attempts": 4,
+      "success": true
+    },
+    "humor": {
+      "attempts": 3,
+      "success": true
+    },
+    "humph": {
+      "attempts": 4,
+      "success": true
+    },
+    "humus": {
+      "attempts": 5,
+      "success": true
+    },
+    "hunch": {
+      "attempts": 6,
+      "success": true
+    },
+    "hunky": {
+      "attempts": 5,
+      "success": true
+    },
+    "hurry": {
+      "attempts": 6,
+      "success": true
+    },
+    "husky": {
+      "attempts": 4,
+      "success": true
+    },
+    "hussy": {
+      "attempts": 5,
+      "success": true
+    },
+    "hutch": {
+      "attempts": 6,
+      "success": true
+    },
+    "hydro": {
+      "attempts": 3,
+      "success": true
+    },
+    "hyena": {
+      "attempts": 3,
+      "success": true
+    },
+    "hymen": {
+      "attempts": 4,
+      "success": true
+    },
+    "hyper": {
+      "attempts": 4,
+      "success": true
+    },
+    "icily": {
+      "attempts": 5,
+      "success": true
+    },
+    "icing": {
+      "attempts": 4,
+      "success": true
+    },
+    "ideal": {
+      "attempts": 4,
+      "success": true
+    },
+    "idiom": {
+      "attempts": 5,
+      "success": true
+    },
+    "idiot": {
+      "attempts": 4,
+      "success": true
+    },
+    "idler": {
+      "attempts": 3,
+      "success": true
+    },
+    "idyll": {
+      "attempts": 4,
+      "success": true
+    },
+    "igloo": {
+      "attempts": 5,
+      "success": true
+    },
+    "iliac": {
+      "attempts": 4,
+      "success": true
+    },
+    "image": {
+      "attempts": 5,
+      "success": true
+    },
+    "imbue": {
+      "attempts": 3,
+      "success": true
+    },
+    "impel": {
+      "attempts": 4,
+      "success": true
+    },
+    "imply": {
+      "attempts": 4,
+      "success": true
+    },
+    "inane": {
+      "attempts": 4,
+      "success": true
+    },
+    "inbox": {
+      "attempts": 5,
+      "success": true
+    },
+    "incur": {
+      "attempts": 4,
+      "success": true
+    },
+    "index": {
+      "attempts": 4,
+      "success": true
+    },
+    "inept": {
+      "attempts": 3,
+      "success": true
+    },
+    "inert": {
+      "attempts": 3,
+      "success": true
+    },
+    "infer": {
+      "attempts": 3,
+      "success": true
+    },
+    "ingot": {
+      "attempts": 5,
+      "success": true
+    },
+    "inlay": {
+      "attempts": 4,
+      "success": true
+    },
+    "inlet": {
+      "attempts": 4,
+      "success": true
+    },
+    "inner": {
+      "attempts": 3,
+      "success": true
+    },
+    "input": {
+      "attempts": 3,
+      "success": true
+    },
+    "inter": {
+      "attempts": 4,
+      "success": true
+    },
+    "intro": {
+      "attempts": 4,
+      "success": true
+    },
+    "ionic": {
+      "attempts": 4,
+      "success": true
+    },
+    "irate": {
+      "attempts": 6,
+      "success": true
+    },
+    "irony": {
+      "attempts": 4,
+      "success": true
+    },
+    "islet": {
+      "attempts": 3,
+      "success": true
+    },
+    "issue": {
+      "attempts": 5,
+      "success": true
+    },
+    "itchy": {
+      "attempts": 3,
+      "success": true
+    },
+    "ivory": {
+      "attempts": 5,
+      "success": true
+    },
+    "jaunt": {
+      "attempts": 5,
+      "success": true
+    },
+    "jazzy": {
+      "attempts": 5,
+      "success": true
+    },
+    "jelly": {
+      "attempts": 6,
+      "success": true
+    },
+    "jerky": {
+      "attempts": 4,
+      "success": true
+    },
+    "jetty": {
+      "attempts": 5,
+      "success": true
+    },
+    "jewel": {
+      "attempts": 5,
+      "success": true
+    },
+    "jiffy": {
+      "attempts": 6,
+      "success": true
+    },
+    "joint": {
+      "attempts": 4,
+      "success": true
+    },
+    "joist": {
+      "attempts": 5,
+      "success": true
+    },
+    "joker": {
+      "attempts": 6,
+      "success": true
+    },
+    "jolly": {
+      "attempts": 5,
+      "success": true
+    },
+    "joust": {
+      "attempts": 3,
+      "success": true
+    },
+    "judge": {
+      "attempts": 4,
+      "success": true
+    },
+    "juice": {
+      "attempts": 5,
+      "success": true
+    },
+    "juicy": {
+      "attempts": 3,
+      "success": true
+    },
+    "jumbo": {
+      "attempts": 5,
+      "success": true
+    },
+    "jumpy": {
+      "attempts": 6,
+      "success": true
+    },
+    "junta": {
+      "attempts": 4,
+      "success": true
+    },
+    "junto": {
+      "attempts": 4,
+      "success": true
+    },
+    "juror": {
+      "attempts": 5,
+      "success": true
+    },
+    "kappa": {
+      "attempts": 4,
+      "success": true
+    },
+    "karma": {
+      "attempts": 4,
+      "success": true
+    },
+    "kayak": {
+      "attempts": 4,
+      "success": true
+    },
+    "kebab": {
+      "attempts": 5,
+      "success": true
+    },
+    "khaki": {
+      "attempts": 6,
+      "success": true
+    },
+    "kinky": {
+      "attempts": 6,
+      "success": true
+    },
+    "kiosk": {
+      "attempts": 4,
+      "success": true
+    },
+    "kitty": {
+      "attempts": 5,
+      "success": true
+    },
+    "knack": {
+      "attempts": 4,
+      "success": true
+    },
+    "knave": {
+      "attempts": 3,
+      "success": true
+    },
+    "knead": {
+      "attempts": 4,
+      "success": true
+    },
+    "kneed": {
+      "attempts": 5,
+      "success": true
+    },
+    "kneel": {
+      "attempts": 5,
+      "success": true
+    },
+    "knelt": {
+      "attempts": 4,
+      "success": true
+    },
+    "knife": {
+      "attempts": 5,
+      "success": true
+    },
+    "knock": {
+      "attempts": 3,
+      "success": true
+    },
+    "knoll": {
+      "attempts": 4,
+      "success": true
+    },
+    "known": {
+      "attempts": 4,
+      "success": true
+    },
+    "koala": {
+      "attempts": 5,
+      "success": true
+    },
+    "krill": {
+      "attempts": 6,
+      "success": true
+    },
+    "label": {
+      "attempts": 3,
+      "success": true
+    },
+    "labor": {
+      "attempts": 3,
+      "success": true
+    },
+    "laden": {
+      "attempts": 3,
+      "success": true
+    },
+    "ladle": {
+      "attempts": 5,
+      "success": true
+    },
+    "lager": {
+      "attempts": 2,
+      "success": true
+    },
+    "lance": {
+      "attempts": 4,
+      "success": true
+    },
+    "lanky": {
+      "attempts": 3,
+      "success": true
+    },
+    "lapel": {
+      "attempts": 4,
+      "success": true
+    },
+    "lapse": {
+      "attempts": 3,
+      "success": true
+    },
+    "large": {
+      "attempts": 4,
+      "success": true
+    },
+    "larva": {
+      "attempts": 5,
+      "success": true
+    },
+    "lasso": {
+      "attempts": 3,
+      "success": true
+    },
+    "latch": {
+      "attempts": 3,
+      "success": true
+    },
+    "later": {
+      "attempts": 3,
+      "success": true
+    },
+    "lathe": {
+      "attempts": 2,
+      "success": true
+    },
+    "latte": {
+      "attempts": 4,
+      "success": true
+    },
+    "laugh": {
+      "attempts": 5,
+      "success": true
+    },
+    "layer": {
+      "attempts": 6,
+      "success": true
+    },
+    "leach": {
+      "attempts": 4,
+      "success": true
+    },
+    "leafy": {
+      "attempts": 5,
+      "success": true
+    },
+    "leaky": {
+      "attempts": 6,
+      "success": true
+    },
+    "leant": {
+      "attempts": 4,
+      "success": true
+    },
+    "leapt": {
+      "attempts": 3,
+      "success": true
+    },
+    "learn": {
+      "attempts": 4,
+      "success": true
+    },
+    "lease": {
+      "attempts": 4,
+      "success": true
+    },
+    "leash": {
+      "attempts": 3,
+      "success": true
+    },
+    "least": {
+      "attempts": 3,
+      "success": true
+    },
+    "leave": {
+      "attempts": 4,
+      "success": true
+    },
+    "ledge": {
+      "attempts": 5,
+      "success": true
+    },
+    "leech": {
+      "attempts": 4,
+      "success": true
+    },
+    "leery": {
+      "attempts": 3,
+      "success": true
+    },
+    "lefty": {
+      "attempts": 3,
+      "success": true
+    },
+    "legal": {
+      "attempts": 5,
+      "success": true
+    },
+    "leggy": {
+      "attempts": 5,
+      "success": true
+    },
+    "lemon": {
+      "attempts": 4,
+      "success": true
+    },
+    "lemur": {
+      "attempts": 4,
+      "success": true
+    },
+    "leper": {
+      "attempts": 4,
+      "success": true
+    },
+    "level": {
+      "attempts": 6,
+      "success": true
+    },
+    "lever": {
+      "attempts": 5,
+      "success": true
+    },
+    "libel": {
+      "attempts": 4,
+      "success": true
+    },
+    "liege": {
+      "attempts": 5,
+      "success": true
+    },
+    "light": {
+      "attempts": 6,
+      "success": true
+    },
+    "liken": {
+      "attempts": 5,
+      "success": true
+    },
+    "lilac": {
+      "attempts": 4,
+      "success": true
+    },
+    "limbo": {
+      "attempts": 6,
+      "success": true
+    },
+    "limit": {
+      "attempts": 6,
+      "success": true
+    },
+    "linen": {
+      "attempts": 6,
+      "success": true
+    },
+    "liner": {
+      "attempts": 4,
+      "success": true
+    },
+    "lingo": {
+      "attempts": 6,
+      "success": true
+    },
+    "lipid": {
+      "attempts": 4,
+      "success": true
+    },
+    "lithe": {
+      "attempts": 3,
+      "success": true
+    },
+    "liver": {
+      "attempts": 3,
+      "success": true
+    },
+    "livid": {
+      "attempts": 4,
+      "success": true
+    },
+    "llama": {
+      "attempts": 5,
+      "success": true
+    },
+    "loamy": {
+      "attempts": 4,
+      "success": true
+    },
+    "loath": {
+      "attempts": 3,
+      "success": true
+    },
+    "lobby": {
+      "attempts": 5,
+      "success": true
+    },
+    "local": {
+      "attempts": 5,
+      "success": true
+    },
+    "locus": {
+      "attempts": 6,
+      "success": true
+    },
+    "lodge": {
+      "attempts": 6,
+      "success": true
+    },
+    "lofty": {
+      "attempts": 6,
+      "success": true
+    },
+    "logic": {
+      "attempts": 5,
+      "success": true
+    },
+    "login": {
+      "attempts": 4,
+      "success": true
+    },
+    "loopy": {
+      "attempts": 3,
+      "success": true
+    },
+    "loose": {
+      "attempts": 5,
+      "success": true
+    },
+    "lorry": {
+      "attempts": 4,
+      "success": true
+    },
+    "loser": {
+      "attempts": 3,
+      "success": true
+    },
+    "louse": {
+      "attempts": 3,
+      "success": true
+    },
+    "lousy": {
+      "attempts": 3,
+      "success": true
+    },
+    "lover": {
+      "attempts": 4,
+      "success": true
+    },
+    "lower": {
+      "attempts": 5,
+      "success": true
+    },
+    "lowly": {
+      "attempts": 5,
+      "success": true
+    },
+    "loyal": {
+      "attempts": 6,
+      "success": true
+    },
+    "lucid": {
+      "attempts": 4,
+      "success": true
+    },
+    "lucky": {
+      "attempts": 5,
+      "success": true
+    },
+    "lumen": {
+      "attempts": 5,
+      "success": true
+    },
+    "lumpy": {
+      "attempts": 6,
+      "success": true
+    },
+    "lunar": {
+      "attempts": 4,
+      "success": true
+    },
+    "lunch": {
+      "attempts": 4,
+      "success": true
+    },
+    "lunge": {
+      "attempts": 4,
+      "success": true
+    },
+    "lupus": {
+      "attempts": 4,
+      "success": true
+    },
+    "lurch": {
+      "attempts": 3,
+      "success": true
+    },
+    "lurid": {
+      "attempts": 4,
+      "success": true
+    },
+    "lusty": {
+      "attempts": 6,
+      "success": true
+    },
+    "lying": {
+      "attempts": 5,
+      "success": true
+    },
+    "lymph": {
+      "attempts": 4,
+      "success": true
+    },
+    "lyric": {
+      "attempts": 3,
+      "success": true
+    },
+    "macaw": {
+      "attempts": 5,
+      "success": true
+    },
+    "macho": {
+      "attempts": 4,
+      "success": true
+    },
+    "macro": {
+      "attempts": 4,
+      "success": true
+    },
+    "madam": {
+      "attempts": 6,
+      "success": true
+    },
+    "madly": {
+      "attempts": 3,
+      "success": true
+    },
+    "mafia": {
+      "attempts": 5,
+      "success": true
+    },
+    "magic": {
+      "attempts": 3,
+      "success": true
+    },
+    "magma": {
+      "attempts": 4,
+      "success": true
+    },
+    "maize": {
+      "attempts": 3,
+      "success": true
+    },
+    "major": {
+      "attempts": 5,
+      "success": true
+    },
+    "maker": {
+      "attempts": 6,
+      "success": true
+    },
+    "mambo": {
+      "attempts": 5,
+      "success": true
+    },
+    "mamma": {
+      "attempts": 6,
+      "success": true
+    },
+    "mammy": {
+      "attempts": 5,
+      "success": true
+    },
+    "manga": {
+      "attempts": 4,
+      "success": true
+    },
+    "mange": {
+      "attempts": 4,
+      "success": true
+    },
+    "mango": {
+      "attempts": 4,
+      "success": true
+    },
+    "mangy": {
+      "attempts": 3,
+      "success": true
+    },
+    "mania": {
+      "attempts": 3,
+      "success": true
+    },
+    "manic": {
+      "attempts": 4,
+      "success": true
+    },
+    "manly": {
+      "attempts": 2,
+      "success": true
+    },
+    "manor": {
+      "attempts": 3,
+      "success": true
+    },
+    "maple": {
+      "attempts": 4,
+      "success": true
+    },
+    "march": {
+      "attempts": 4,
+      "success": true
+    },
+    "marry": {
+      "attempts": 6,
+      "success": true
+    },
+    "marsh": {
+      "attempts": 3,
+      "success": true
+    },
+    "mason": {
+      "attempts": 4,
+      "success": true
+    },
+    "masse": {
+      "attempts": 6,
+      "success": true
+    },
+    "match": {
+      "attempts": 6,
+      "success": true
+    },
+    "matey": {
+      "attempts": 4,
+      "success": true
+    },
+    "mauve": {
+      "attempts": 5,
+      "success": true
+    },
+    "maxim": {
+      "attempts": 5,
+      "success": true
+    },
+    "maybe": {
+      "attempts": 6,
+      "success": true
+    },
+    "mayor": {
+      "attempts": 4,
+      "success": true
+    },
+    "mealy": {
+      "attempts": 4,
+      "success": true
+    },
+    "meant": {
+      "attempts": 4,
+      "success": true
+    },
+    "meaty": {
+      "attempts": 4,
+      "success": true
+    },
+    "mecca": {
+      "attempts": 4,
+      "success": true
+    },
+    "medal": {
+      "attempts": 4,
+      "success": true
+    },
+    "media": {
+      "attempts": 4,
+      "success": true
+    },
+    "medic": {
+      "attempts": 4,
+      "success": true
+    },
+    "melee": {
+      "attempts": 4,
+      "success": true
+    },
+    "melon": {
+      "attempts": 5,
+      "success": true
+    },
+    "mercy": {
+      "attempts": 5,
+      "success": true
+    },
+    "merge": {
+      "attempts": 4,
+      "success": true
+    },
+    "merit": {
+      "attempts": 3,
+      "success": true
+    },
+    "merry": {
+      "attempts": 6,
+      "success": true
+    },
+    "metal": {
+      "attempts": 4,
+      "success": true
+    },
+    "meter": {
+      "attempts": 4,
+      "success": true
+    },
+    "metro": {
+      "attempts": 3,
+      "success": true
+    },
+    "micro": {
+      "attempts": 4,
+      "success": true
+    },
+    "midge": {
+      "attempts": 4,
+      "success": true
+    },
+    "midst": {
+      "attempts": 3,
+      "success": true
+    },
+    "might": {
+      "attempts": 6,
+      "success": true
+    },
+    "milky": {
+      "attempts": 5,
+      "success": true
+    },
+    "mimic": {
+      "attempts": 5,
+      "success": true
+    },
+    "mince": {
+      "attempts": 4,
+      "success": true
+    },
+    "miner": {
+      "attempts": 5,
+      "success": true
+    },
+    "minim": {
+      "attempts": 5,
+      "success": true
+    },
+    "minor": {
+      "attempts": 3,
+      "success": true
+    },
+    "minty": {
+      "attempts": 5,
+      "success": true
+    },
+    "minus": {
+      "attempts": 6,
+      "success": true
+    },
+    "mirth": {
+      "attempts": 3,
+      "success": true
+    },
+    "miser": {
+      "attempts": 4,
+      "success": true
+    },
+    "missy": {
+      "attempts": 5,
+      "success": true
+    },
+    "mocha": {
+      "attempts": 3,
+      "success": true
+    },
+    "modal": {
+      "attempts": 3,
+      "success": true
+    },
+    "model": {
+      "attempts": 4,
+      "success": true
+    },
+    "modem": {
+      "attempts": 4,
+      "success": true
+    },
+    "mogul": {
+      "attempts": 4,
+      "success": true
+    },
+    "moist": {
+      "attempts": 5,
+      "success": true
+    },
+    "molar": {
+      "attempts": 5,
+      "success": true
+    },
+    "moldy": {
+      "attempts": 5,
+      "success": true
+    },
+    "money": {
+      "attempts": 5,
+      "success": true
+    },
+    "month": {
+      "attempts": 4,
+      "success": true
+    },
+    "moody": {
+      "attempts": 6,
+      "success": true
+    },
+    "moose": {
+      "attempts": 4,
+      "success": true
+    },
+    "moral": {
+      "attempts": 2,
+      "success": true
+    },
+    "moron": {
+      "attempts": 5,
+      "success": true
+    },
+    "morph": {
+      "attempts": 4,
+      "success": true
+    },
+    "mossy": {
+      "attempts": 5,
+      "success": true
+    },
+    "motel": {
+      "attempts": 3,
+      "success": true
+    },
+    "motif": {
+      "attempts": 4,
+      "success": true
+    },
+    "motor": {
+      "attempts": 3,
+      "success": true
+    },
+    "motto": {
+      "attempts": 4,
+      "success": true
+    },
+    "moult": {
+      "attempts": 4,
+      "success": true
+    },
+    "mound": {
+      "attempts": 6,
+      "success": true
+    },
+    "mount": {
+      "attempts": 3,
+      "success": true
+    },
+    "mourn": {
+      "attempts": 4,
+      "success": true
+    },
+    "mouse": {
+      "attempts": 3,
+      "success": true
+    },
+    "mouth": {
+      "attempts": 5,
+      "success": true
+    },
+    "mover": {
+      "attempts": 5,
+      "success": true
+    },
+    "movie": {
+      "attempts": 5,
+      "success": true
+    },
+    "mower": {
+      "attempts": 4,
+      "success": true
+    },
+    "mucky": {
+      "attempts": 6,
+      "success": true
+    },
+    "mucus": {
+      "attempts": 4,
+      "success": true
+    },
+    "muddy": {
+      "attempts": 5,
+      "success": true
+    },
+    "mulch": {
+      "attempts": 3,
+      "success": true
+    },
+    "mummy": {
+      "attempts": 5,
+      "success": true
+    },
+    "munch": {
+      "attempts": 6,
+      "success": true
+    },
+    "mural": {
+      "attempts": 3,
+      "success": true
+    },
+    "murky": {
+      "attempts": 5,
+      "success": true
+    },
+    "mushy": {
+      "attempts": 3,
+      "success": true
+    },
+    "music": {
+      "attempts": 4,
+      "success": true
+    },
+    "musky": {
+      "attempts": 4,
+      "success": true
+    },
+    "musty": {
+      "attempts": 6,
+      "success": true
+    },
+    "myrrh": {
+      "attempts": 4,
+      "success": true
+    },
+    "nadir": {
+      "attempts": 3,
+      "success": true
+    },
+    "naive": {
+      "attempts": 4,
+      "success": true
+    },
+    "nanny": {
+      "attempts": 6,
+      "success": true
+    },
+    "nasal": {
+      "attempts": 3,
+      "success": true
+    },
+    "nasty": {
+      "attempts": 4,
+      "success": true
+    },
+    "natal": {
+      "attempts": 4,
+      "success": true
+    },
+    "naval": {
+      "attempts": 5,
+      "success": true
+    },
+    "navel": {
+      "attempts": 6,
+      "success": true
+    },
+    "needy": {
+      "attempts": 3,
+      "success": true
+    },
+    "neigh": {
+      "attempts": 4,
+      "success": true
+    },
+    "nerdy": {
+      "attempts": 3,
+      "success": true
+    },
+    "nerve": {
+      "attempts": 4,
+      "success": true
+    },
+    "never": {
+      "attempts": 4,
+      "success": true
+    },
+    "newer": {
+      "attempts": 5,
+      "success": true
+    },
+    "newly": {
+      "attempts": 4,
+      "success": true
+    },
+    "nicer": {
+      "attempts": 3,
+      "success": true
+    },
+    "niche": {
+      "attempts": 4,
+      "success": true
+    },
+    "niece": {
+      "attempts": 5,
+      "success": true
+    },
+    "night": {
+      "attempts": 6,
+      "success": true
+    },
+    "ninja": {
+      "attempts": 5,
+      "success": true
+    },
+    "ninny": {
+      "attempts": 6,
+      "success": true
+    },
+    "ninth": {
+      "attempts": 5,
+      "success": true
+    },
+    "noble": {
+      "attempts": 3,
+      "success": true
+    },
+    "nobly": {
+      "attempts": 3,
+      "success": true
+    },
+    "noise": {
+      "attempts": 4,
+      "success": true
+    },
+    "noisy": {
+      "attempts": 3,
+      "success": true
+    },
+    "nomad": {
+      "attempts": 5,
+      "success": true
+    },
+    "noose": {
+      "attempts": 6,
+      "success": true
+    },
+    "north": {
+      "attempts": 3,
+      "success": true
+    },
+    "nosey": {
+      "attempts": 6,
+      "success": true
+    },
+    "notch": {
+      "attempts": 6,
+      "success": true
+    },
+    "novel": {
+      "attempts": 4,
+      "success": true
+    },
+    "nudge": {
+      "attempts": 4,
+      "success": true
+    },
+    "nurse": {
+      "attempts": 4,
+      "success": true
+    },
+    "nutty": {
+      "attempts": 6,
+      "success": true
+    },
+    "nylon": {
+      "attempts": 4,
+      "success": true
+    },
+    "nymph": {
+      "attempts": 3,
+      "success": true
+    },
+    "oaken": {
+      "attempts": 5,
+      "success": true
+    },
+    "obese": {
+      "attempts": 5,
+      "success": true
+    },
+    "occur": {
+      "attempts": 4,
+      "success": true
+    },
+    "ocean": {
+      "attempts": 4,
+      "success": true
+    },
+    "octal": {
+      "attempts": 4,
+      "success": true
+    },
+    "octet": {
+      "attempts": 4,
+      "success": true
+    },
+    "odder": {
+      "attempts": 5,
+      "success": true
+    },
+    "oddly": {
+      "attempts": 4,
+      "success": true
+    },
+    "offal": {
+      "attempts": 5,
+      "success": true
+    },
+    "offer": {
+      "attempts": 6,
+      "success": true
+    },
+    "often": {
+      "attempts": 3,
+      "success": true
+    },
+    "olden": {
+      "attempts": 3,
+      "success": true
+    },
+    "older": {
+      "attempts": 4,
+      "success": true
+    },
+    "olive": {
+      "attempts": 5,
+      "success": true
+    },
+    "ombre": {
+      "attempts": 5,
+      "success": true
+    },
+    "omega": {
+      "attempts": 4,
+      "success": true
+    },
+    "onion": {
+      "attempts": 5,
+      "success": true
+    },
+    "onset": {
+      "attempts": 5,
+      "success": true
+    },
+    "opera": {
+      "attempts": 4,
+      "success": true
+    },
+    "opine": {
+      "attempts": 3,
+      "success": true
+    },
+    "opium": {
+      "attempts": 5,
+      "success": true
+    },
+    "optic": {
+      "attempts": 3,
+      "success": true
+    },
+    "orbit": {
+      "attempts": 4,
+      "success": true
+    },
+    "order": {
+      "attempts": 6,
+      "success": true
+    },
+    "organ": {
+      "attempts": 4,
+      "success": true
+    },
+    "other": {
+      "attempts": 3,
+      "success": true
+    },
+    "otter": {
+      "attempts": 6,
+      "success": true
+    },
+    "ought": {
+      "attempts": 4,
+      "success": true
+    },
+    "ounce": {
+      "attempts": 3,
+      "success": true
+    },
+    "outdo": {
+      "attempts": 4,
+      "success": true
+    },
+    "outer": {
+      "attempts": 2,
+      "success": true
+    },
+    "outgo": {
+      "attempts": 5,
+      "success": true
+    },
+    "ovary": {
+      "attempts": 5,
+      "success": true
+    },
+    "ovate": {
+      "attempts": 5,
+      "success": true
+    },
+    "overt": {
+      "attempts": 4,
+      "success": true
+    },
+    "ovine": {
+      "attempts": 4,
+      "success": true
+    },
+    "ovoid": {
+      "attempts": 4,
+      "success": true
+    },
+    "owing": {
+      "attempts": 5,
+      "success": true
+    },
+    "owner": {
+      "attempts": 4,
+      "success": true
+    },
+    "oxide": {
+      "attempts": 4,
+      "success": true
+    },
+    "ozone": {
+      "attempts": 4,
+      "success": true
+    },
+    "paddy": {
+      "attempts": 6,
+      "success": true
+    },
+    "pagan": {
+      "attempts": 5,
+      "success": true
+    },
+    "paint": {
+      "attempts": 5,
+      "success": true
+    },
+    "paler": {
+      "attempts": 4,
+      "success": true
+    },
+    "palsy": {
+      "attempts": 3,
+      "success": true
+    },
+    "panel": {
+      "attempts": 5,
+      "success": true
+    },
+    "panic": {
+      "attempts": 4,
+      "success": true
+    },
+    "pansy": {
+      "attempts": 3,
+      "success": true
+    },
+    "papal": {
+      "attempts": 5,
+      "success": true
+    },
+    "paper": {
+      "attempts": 5,
+      "success": true
+    },
+    "parer": {
+      "attempts": 6,
+      "success": true
+    },
+    "parka": {
+      "attempts": 5,
+      "success": true
+    },
+    "parry": {
+      "attempts": 5,
+      "success": true
+    },
+    "parse": {
+      "attempts": 5,
+      "success": true
+    },
+    "party": {
+      "attempts": 3,
+      "success": true
+    },
+    "pasta": {
+      "attempts": 5,
+      "success": true
+    },
+    "paste": {
+      "attempts": 5,
+      "success": true
+    },
+    "pasty": {
+      "attempts": 5,
+      "success": true
+    },
+    "patch": {
+      "attempts": 6,
+      "success": true
+    },
+    "patio": {
+      "attempts": 4,
+      "success": true
+    },
+    "patsy": {
+      "attempts": 3,
+      "success": true
+    },
+    "patty": {
+      "attempts": 4,
+      "success": true
+    },
+    "pause": {
+      "attempts": 5,
+      "success": true
+    },
+    "payee": {
+      "attempts": 5,
+      "success": true
+    },
+    "payer": {
+      "attempts": 5,
+      "success": true
+    },
+    "peace": {
+      "attempts": 4,
+      "success": true
+    },
+    "peach": {
+      "attempts": 4,
+      "success": true
+    },
+    "pearl": {
+      "attempts": 4,
+      "success": true
+    },
+    "pecan": {
+      "attempts": 3,
+      "success": true
+    },
+    "pedal": {
+      "attempts": 4,
+      "success": true
+    },
+    "penal": {
+      "attempts": 3,
+      "success": true
+    },
+    "pence": {
+      "attempts": 4,
+      "success": true
+    },
+    "penne": {
+      "attempts": 4,
+      "success": true
+    },
+    "penny": {
+      "attempts": 6,
+      "success": true
+    },
+    "perch": {
+      "attempts": 5,
+      "success": true
+    },
+    "peril": {
+      "attempts": 4,
+      "success": true
+    },
+    "perky": {
+      "attempts": 5,
+      "success": true
+    },
+    "pesky": {
+      "attempts": 4,
+      "success": true
+    },
+    "pesto": {
+      "attempts": 3,
+      "success": true
+    },
+    "petal": {
+      "attempts": 3,
+      "success": true
+    },
+    "petty": {
+      "attempts": 6,
+      "success": true
+    },
+    "phase": {
+      "attempts": 3,
+      "success": true
+    },
+    "phone": {
+      "attempts": 4,
+      "success": true
+    },
+    "phony": {
+      "attempts": 3,
+      "success": true
+    },
+    "photo": {
+      "attempts": 3,
+      "success": true
+    },
+    "piano": {
+      "attempts": 4,
+      "success": true
+    },
+    "picky": {
+      "attempts": 3,
+      "success": true
+    },
+    "piece": {
+      "attempts": 6,
+      "success": true
+    },
+    "piety": {
+      "attempts": 4,
+      "success": true
+    },
+    "piggy": {
+      "attempts": 4,
+      "success": true
+    },
+    "pilot": {
+      "attempts": 5,
+      "success": true
+    },
+    "pinch": {
+      "attempts": 3,
+      "success": true
+    },
+    "piney": {
+      "attempts": 4,
+      "success": true
+    },
+    "pinky": {
+      "attempts": 3,
+      "success": true
+    },
+    "pinto": {
+      "attempts": 4,
+      "success": true
+    },
+    "piper": {
+      "attempts": 6,
+      "success": true
+    },
+    "pique": {
+      "attempts": 5,
+      "success": true
+    },
+    "pitch": {
+      "attempts": 3,
+      "success": true
+    },
+    "pithy": {
+      "attempts": 2,
+      "success": true
+    },
+    "pivot": {
+      "attempts": 6,
+      "success": true
+    },
+    "pixel": {
+      "attempts": 3,
+      "success": true
+    },
+    "pixie": {
+      "attempts": 4,
+      "success": true
+    },
+    "pizza": {
+      "attempts": 5,
+      "success": true
+    },
+    "place": {
+      "attempts": 3,
+      "success": true
+    },
+    "plaid": {
+      "attempts": 4,
+      "success": true
+    },
+    "plain": {
+      "attempts": 5,
+      "success": true
+    },
+    "plait": {
+      "attempts": 4,
+      "success": true
+    },
+    "plane": {
+      "attempts": 2,
+      "success": true
+    },
+    "plank": {
+      "attempts": 4,
+      "success": true
+    },
+    "plant": {
+      "attempts": 3,
+      "success": true
+    },
+    "plate": {
+      "attempts": 2,
+      "success": true
+    },
+    "plaza": {
+      "attempts": 5,
+      "success": true
+    },
+    "plead": {
+      "attempts": 3,
+      "success": true
+    },
+    "pleat": {
+      "attempts": 3,
+      "success": true
+    },
+    "plied": {
+      "attempts": 3,
+      "success": true
+    },
+    "plier": {
+      "attempts": 4,
+      "success": true
+    },
+    "pluck": {
+      "attempts": 4,
+      "success": true
+    },
+    "plumb": {
+      "attempts": 4,
+      "success": true
+    },
+    "plume": {
+      "attempts": 5,
+      "success": true
+    },
+    "plump": {
+      "attempts": 5,
+      "success": true
+    },
+    "plunk": {
+      "attempts": 4,
+      "success": true
+    },
+    "plush": {
+      "attempts": 5,
+      "success": true
+    },
+    "poesy": {
+      "attempts": 3,
+      "success": true
+    },
+    "point": {
+      "attempts": 3,
+      "success": true
+    },
+    "poise": {
+      "attempts": 3,
+      "success": true
+    },
+    "poker": {
+      "attempts": 4,
+      "success": true
+    },
+    "polar": {
+      "attempts": 6,
+      "success": true
+    },
+    "polka": {
+      "attempts": 5,
+      "success": true
+    },
+    "polyp": {
+      "attempts": 4,
+      "success": true
+    },
+    "pooch": {
+      "attempts": 4,
+      "success": true
+    },
+    "poppy": {
+      "attempts": 4,
+      "success": true
+    },
+    "porch": {
+      "attempts": 4,
+      "success": true
+    },
+    "poser": {
+      "attempts": 5,
+      "success": true
+    },
+    "posit": {
+      "attempts": 4,
+      "success": true
+    },
+    "posse": {
+      "attempts": 4,
+      "success": true
+    },
+    "pouch": {
+      "attempts": 3,
+      "success": true
+    },
+    "pound": {
+      "attempts": 5,
+      "success": true
+    },
+    "pouty": {
+      "attempts": 4,
+      "success": true
+    },
+    "power": {
+      "attempts": 5,
+      "success": true
+    },
+    "prank": {
+      "attempts": 6,
+      "success": true
+    },
+    "prawn": {
+      "attempts": 5,
+      "success": true
+    },
+    "preen": {
+      "attempts": 5,
+      "success": true
+    },
+    "press": {
+      "attempts": 5,
+      "success": true
+    },
+    "price": {
+      "attempts": 4,
+      "success": true
+    },
+    "prick": {
+      "attempts": 4,
+      "success": true
+    },
+    "pride": {
+      "attempts": 4,
+      "success": true
+    },
+    "pried": {
+      "attempts": 4,
+      "success": true
+    },
+    "prime": {
+      "attempts": 5,
+      "success": true
+    },
+    "primo": {
+      "attempts": 3,
+      "success": true
+    },
+    "print": {
+      "attempts": 4,
+      "success": true
+    },
+    "prior": {
+      "attempts": 4,
+      "success": true
+    },
+    "prism": {
+      "attempts": 4,
+      "success": true
+    },
+    "privy": {
+      "attempts": 4,
+      "success": true
+    },
+    "prize": {
+      "attempts": 6,
+      "success": true
+    },
+    "probe": {
+      "attempts": 4,
+      "success": true
+    },
+    "prone": {
+      "attempts": 6,
+      "success": true
+    },
+    "prong": {
+      "attempts": 3,
+      "success": true
+    },
+    "proof": {
+      "attempts": 6,
+      "success": true
+    },
+    "prose": {
+      "attempts": 3,
+      "success": true
+    },
+    "proud": {
+      "attempts": 4,
+      "success": true
+    },
+    "prove": {
+      "attempts": 6,
+      "success": true
+    },
+    "prowl": {
+      "attempts": 4,
+      "success": true
+    },
+    "proxy": {
+      "attempts": 5,
+      "success": true
+    },
+    "prude": {
+      "attempts": 4,
+      "success": true
+    },
+    "prune": {
+      "attempts": 4,
+      "success": true
+    },
+    "psalm": {
+      "attempts": 3,
+      "success": true
+    },
+    "pubic": {
+      "attempts": 3,
+      "success": true
+    },
+    "pudgy": {
+      "attempts": 3,
+      "success": true
+    },
+    "puffy": {
+      "attempts": 5,
+      "success": true
+    },
+    "pulpy": {
+      "attempts": 4,
+      "success": true
+    },
+    "pulse": {
+      "attempts": 3,
+      "success": true
+    },
+    "punch": {
+      "attempts": 4,
+      "success": true
+    },
+    "pupil": {
+      "attempts": 3,
+      "success": true
+    },
+    "puppy": {
+      "attempts": 5,
+      "success": true
+    },
+    "puree": {
+      "attempts": 4,
+      "success": true
+    },
+    "purer": {
+      "attempts": 3,
+      "success": true
+    },
+    "purge": {
+      "attempts": 4,
+      "success": true
+    },
+    "purse": {
+      "attempts": 5,
+      "success": true
+    },
+    "pushy": {
+      "attempts": 6,
+      "success": true
+    },
+    "putty": {
+      "attempts": 4,
+      "success": true
+    },
+    "pygmy": {
+      "attempts": 5,
+      "success": true
+    },
+    "quack": {
+      "attempts": 4,
+      "success": true
+    },
+    "quail": {
+      "attempts": 4,
+      "success": true
+    },
+    "quake": {
+      "attempts": 5,
+      "success": true
+    },
+    "qualm": {
+      "attempts": 5,
+      "success": true
+    },
+    "quark": {
+      "attempts": 5,
+      "success": true
+    },
+    "quart": {
+      "attempts": 4,
+      "success": true
+    },
+    "quash": {
+      "attempts": 5,
+      "success": true
+    },
+    "quasi": {
+      "attempts": 3,
+      "success": true
+    },
+    "queen": {
+      "attempts": 5,
+      "success": true
+    },
+    "queer": {
+      "attempts": 6,
+      "success": true
+    },
+    "quell": {
+      "attempts": 5,
+      "success": true
+    },
+    "query": {
+      "attempts": 5,
+      "success": true
+    },
+    "quest": {
+      "attempts": 6,
+      "success": true
+    },
+    "queue": {
+      "attempts": 5,
+      "success": true
+    },
+    "quick": {
+      "attempts": 4,
+      "success": true
+    },
+    "quiet": {
+      "attempts": 5,
+      "success": true
+    },
+    "quill": {
+      "attempts": 4,
+      "success": true
+    },
+    "quilt": {
+      "attempts": 6,
+      "success": true
+    },
+    "quirk": {
+      "attempts": 4,
+      "success": true
+    },
+    "quite": {
+      "attempts": 4,
+      "success": true
+    },
+    "quota": {
+      "attempts": 5,
+      "success": true
+    },
+    "quote": {
+      "attempts": 4,
+      "success": true
+    },
+    "quoth": {
+      "attempts": 4,
+      "success": true
+    },
+    "rabbi": {
+      "attempts": 4,
+      "success": true
+    },
+    "rabid": {
+      "attempts": 3,
+      "success": true
+    },
+    "racer": {
+      "attempts": 6,
+      "success": true
+    },
+    "radar": {
+      "attempts": 3,
+      "success": true
+    },
+    "radii": {
+      "attempts": 5,
+      "success": true
+    },
+    "radio": {
+      "attempts": 3,
+      "success": true
+    },
+    "rainy": {
+      "attempts": 3,
+      "success": true
+    },
+    "raise": {
+      "attempts": 2,
+      "success": true
+    },
+    "rajah": {
+      "attempts": 4,
+      "success": true
+    },
+    "rally": {
+      "attempts": 4,
+      "success": true
+    },
+    "ralph": {
+      "attempts": 3,
+      "success": true
+    },
+    "ramen": {
+      "attempts": 4,
+      "success": true
+    },
+    "ranch": {
+      "attempts": 4,
+      "success": true
+    },
+    "randy": {
+      "attempts": 3,
+      "success": true
+    },
+    "range": {
+      "attempts": 4,
+      "success": true
+    },
+    "rapid": {
+      "attempts": 4,
+      "success": true
+    },
+    "rarer": {
+      "attempts": 6,
+      "success": true
+    },
+    "raspy": {
+      "attempts": 3,
+      "success": true
+    },
+    "ratio": {
+      "attempts": 3,
+      "success": true
+    },
+    "ratty": {
+      "attempts": 4,
+      "success": true
+    },
+    "raven": {
+      "attempts": 4,
+      "success": true
+    },
+    "rayon": {
+      "attempts": 4,
+      "success": true
+    },
+    "razor": {
+      "attempts": 6,
+      "success": true
+    },
+    "reach": {
+      "attempts": 4,
+      "success": true
+    },
+    "react": {
+      "attempts": 4,
+      "success": true
+    },
+    "ready": {
+      "attempts": 4,
+      "success": true
+    },
+    "realm": {
+      "attempts": 3,
+      "success": true
+    },
+    "rearm": {
+      "attempts": 5,
+      "success": true
+    },
+    "rebar": {
+      "attempts": 4,
+      "success": true
+    },
+    "rebel": {
+      "attempts": 5,
+      "success": true
+    },
+    "rebus": {
+      "attempts": 5,
+      "success": true
+    },
+    "rebut": {
+      "attempts": 3,
+      "success": true
+    },
+    "recap": {
+      "attempts": 4,
+      "success": true
+    },
+    "recur": {
+      "attempts": 5,
+      "success": true
+    },
+    "recut": {
+      "attempts": 3,
+      "success": true
+    },
+    "reedy": {
+      "attempts": 3,
+      "success": true
+    },
+    "refer": {
+      "attempts": 5,
+      "success": true
+    },
+    "refit": {
+      "attempts": 4,
+      "success": true
+    },
+    "regal": {
+      "attempts": 5,
+      "success": true
+    },
+    "rehab": {
+      "attempts": 4,
+      "success": true
+    },
+    "reign": {
+      "attempts": 3,
+      "success": true
+    },
+    "relax": {
+      "attempts": 4,
+      "success": true
+    },
+    "relay": {
+      "attempts": 5,
+      "success": true
+    },
+    "relic": {
+      "attempts": 5,
+      "success": true
+    },
+    "remit": {
+      "attempts": 5,
+      "success": true
+    },
+    "renal": {
+      "attempts": 3,
+      "success": true
+    },
+    "renew": {
+      "attempts": 3,
+      "success": true
+    },
+    "repay": {
+      "attempts": 5,
+      "success": true
+    },
+    "repel": {
+      "attempts": 3,
+      "success": true
+    },
+    "reply": {
+      "attempts": 5,
+      "success": true
+    },
+    "rerun": {
+      "attempts": 4,
+      "success": true
+    },
+    "reset": {
+      "attempts": 3,
+      "success": true
+    },
+    "resin": {
+      "attempts": 4,
+      "success": true
+    },
+    "retch": {
+      "attempts": 3,
+      "success": true
+    },
+    "retro": {
+      "attempts": 4,
+      "success": true
+    },
+    "retry": {
+      "attempts": 4,
+      "success": true
+    },
+    "reuse": {
+      "attempts": 5,
+      "success": true
+    },
+    "revel": {
+      "attempts": 5,
+      "success": true
+    },
+    "revue": {
+      "attempts": 5,
+      "success": true
+    },
+    "rhino": {
+      "attempts": 4,
+      "success": true
+    },
+    "rhyme": {
+      "attempts": 5,
+      "success": true
+    },
+    "rider": {
+      "attempts": 6,
+      "success": true
+    },
+    "ridge": {
+      "attempts": 3,
+      "success": true
+    },
+    "rifle": {
+      "attempts": 3,
+      "success": true
+    },
+    "right": {
+      "attempts": 3,
+      "success": true
+    },
+    "rigid": {
+      "attempts": 5,
+      "success": true
+    },
+    "rigor": {
+      "attempts": 5,
+      "success": true
+    },
+    "rinse": {
+      "attempts": 4,
+      "success": true
+    },
+    "ripen": {
+      "attempts": 3,
+      "success": true
+    },
+    "riper": {
+      "attempts": 6,
+      "success": true
+    },
+    "risen": {
+      "attempts": 3,
+      "success": true
+    },
+    "riser": {
+      "attempts": 4,
+      "success": true
+    },
+    "risky": {
+      "attempts": 3,
+      "success": true
+    },
+    "rival": {
+      "attempts": 3,
+      "success": true
+    },
+    "river": {
+      "attempts": 6,
+      "success": true
+    },
+    "rivet": {
+      "attempts": 3,
+      "success": true
+    },
+    "roach": {
+      "attempts": 4,
+      "success": true
+    },
+    "roast": {
+      "attempts": 4,
+      "success": true
+    },
+    "robin": {
+      "attempts": 4,
+      "success": true
+    },
+    "robot": {
+      "attempts": 3,
+      "success": true
+    },
+    "rocky": {
+      "attempts": 4,
+      "success": true
+    },
+    "rodeo": {
+      "attempts": 4,
+      "success": true
+    },
+    "roger": {
+      "attempts": 6,
+      "success": true
+    },
+    "rogue": {
+      "attempts": 3,
+      "success": true
+    },
+    "roomy": {
+      "attempts": 6,
+      "success": true
+    },
+    "roost": {
+      "attempts": 4,
+      "success": true
+    },
+    "rotor": {
+      "attempts": 4,
+      "success": true
+    },
+    "rouge": {
+      "attempts": 4,
+      "success": true
+    },
+    "rough": {
+      "attempts": 4,
+      "success": true
+    },
+    "round": {
+      "attempts": 3,
+      "success": true
+    },
+    "rouse": {
+      "attempts": 3,
+      "success": true
+    },
+    "route": {
+      "attempts": 4,
+      "success": true
+    },
+    "rover": {
+      "attempts": 6,
+      "success": true
+    },
+    "rowdy": {
+      "attempts": 4,
+      "success": true
+    },
+    "rower": {
+      "attempts": 6,
+      "success": true
+    },
+    "royal": {
+      "attempts": 4,
+      "success": true
+    },
+    "ruddy": {
+      "attempts": 5,
+      "success": true
+    },
+    "ruder": {
+      "attempts": 5,
+      "success": true
+    },
+    "rugby": {
+      "attempts": 3,
+      "success": true
+    },
+    "ruler": {
+      "attempts": 5,
+      "success": true
+    },
+    "rumba": {
+      "attempts": 4,
+      "success": true
+    },
+    "rumor": {
+      "attempts": 4,
+      "success": true
+    },
+    "rupee": {
+      "attempts": 5,
+      "success": true
+    },
+    "rural": {
+      "attempts": 6,
+      "success": true
+    },
+    "rusty": {
+      "attempts": 3,
+      "success": true
+    },
+    "sadly": {
+      "attempts": 3,
+      "success": true
+    },
+    "safer": {
+      "attempts": 4,
+      "success": true
+    },
+    "saint": {
+      "attempts": 3,
+      "success": true
+    },
+    "salad": {
+      "attempts": 4,
+      "success": true
+    },
+    "sally": {
+      "attempts": 5,
+      "success": true
+    },
+    "salon": {
+      "attempts": 2,
+      "success": true
+    },
+    "salsa": {
+      "attempts": 6,
+      "success": true
+    },
+    "salty": {
+      "attempts": 2,
+      "success": true
+    },
+    "salve": {
+      "attempts": 4,
+      "success": true
+    },
+    "salvo": {
+      "attempts": 3,
+      "success": true
+    },
+    "sandy": {
+      "attempts": 4,
+      "success": true
+    },
+    "saner": {
+      "attempts": 5,
+      "success": true
+    },
+    "sappy": {
+      "attempts": 5,
+      "success": true
+    },
+    "sassy": {
+      "attempts": 5,
+      "success": true
+    },
+    "satin": {
+      "attempts": 4,
+      "success": true
+    },
+    "satyr": {
+      "attempts": 2,
+      "success": true
+    },
+    "sauce": {
+      "attempts": 4,
+      "success": true
+    },
+    "saucy": {
+      "attempts": 3,
+      "success": true
+    },
+    "sauna": {
+      "attempts": 4,
+      "success": true
+    },
+    "saute": {
+      "attempts": 3,
+      "success": true
+    },
+    "savor": {
+      "attempts": 4,
+      "success": true
+    },
+    "savoy": {
+      "attempts": 4,
+      "success": true
+    },
+    "savvy": {
+      "attempts": 6,
+      "success": true
+    },
+    "scald": {
+      "attempts": 3,
+      "success": true
+    },
+    "scale": {
+      "attempts": 4,
+      "success": true
+    },
+    "scalp": {
+      "attempts": 4,
+      "success": true
+    },
+    "scaly": {
+      "attempts": 5,
+      "success": true
+    },
+    "scamp": {
+      "attempts": 4,
+      "success": true
+    },
+    "scant": {
+      "attempts": 3,
+      "success": true
+    },
+    "scare": {
+      "attempts": 4,
+      "success": true
+    },
+    "scarf": {
+      "attempts": 4,
+      "success": true
+    },
+    "scary": {
+      "attempts": 5,
+      "success": true
+    },
+    "scene": {
+      "attempts": 4,
+      "success": true
+    },
+    "scent": {
+      "attempts": 5,
+      "success": true
+    },
+    "scion": {
+      "attempts": 4,
+      "success": true
+    },
+    "scoff": {
+      "attempts": 5,
+      "success": true
+    },
+    "scold": {
+      "attempts": 3,
+      "success": true
+    },
+    "scone": {
+      "attempts": 4,
+      "success": true
+    },
+    "scoop": {
+      "attempts": 5,
+      "success": true
+    },
+    "scope": {
+      "attempts": 3,
+      "success": true
+    },
+    "score": {
+      "attempts": 4,
+      "success": true
+    },
+    "scorn": {
+      "attempts": 4,
+      "success": true
+    },
+    "scour": {
+      "attempts": 3,
+      "success": true
+    },
+    "scout": {
+      "attempts": 4,
+      "success": true
+    },
+    "scowl": {
+      "attempts": 4,
+      "success": true
+    },
+    "scram": {
+      "attempts": 5,
+      "success": true
+    },
+    "scrap": {
+      "attempts": 4,
+      "success": true
+    },
+    "scree": {
+      "attempts": 4,
+      "success": true
+    },
+    "screw": {
+      "attempts": 3,
+      "success": true
+    },
+    "scrub": {
+      "attempts": 4,
+      "success": true
+    },
+    "scrum": {
+      "attempts": 4,
+      "success": true
+    },
+    "scuba": {
+      "attempts": 3,
+      "success": true
+    },
+    "sedan": {
+      "attempts": 4,
+      "success": true
+    },
+    "seedy": {
+      "attempts": 4,
+      "success": true
+    },
+    "segue": {
+      "attempts": 5,
+      "success": true
+    },
+    "seize": {
+      "attempts": 5,
+      "success": true
+    },
+    "semen": {
+      "attempts": 5,
+      "success": true
+    },
+    "sense": {
+      "attempts": 4,
+      "success": true
+    },
+    "sepia": {
+      "attempts": 4,
+      "success": true
+    },
+    "serif": {
+      "attempts": 3,
+      "success": true
+    },
+    "serum": {
+      "attempts": 4,
+      "success": true
+    },
+    "serve": {
+      "attempts": 4,
+      "success": true
+    },
+    "setup": {
+      "attempts": 4,
+      "success": true
+    },
+    "seven": {
+      "attempts": 5,
+      "success": true
+    },
+    "sever": {
+      "attempts": 5,
+      "success": true
+    },
+    "sewer": {
+      "attempts": 6,
+      "success": true
+    },
+    "shack": {
+      "attempts": 4,
+      "success": true
+    },
+    "shade": {
+      "attempts": 4,
+      "success": true
+    },
+    "shady": {
+      "attempts": 4,
+      "success": true
+    },
+    "shaft": {
+      "attempts": 4,
+      "success": true
+    },
+    "shake": {
+      "attempts": 5,
+      "success": true
+    },
+    "shaky": {
+      "attempts": 3,
+      "success": true
+    },
+    "shale": {
+      "attempts": 4,
+      "success": true
+    },
+    "shall": {
+      "attempts": 4,
+      "success": true
+    },
+    "shalt": {
+      "attempts": 4,
+      "success": true
+    },
+    "shame": {
+      "attempts": 3,
+      "success": true
+    },
+    "shank": {
+      "attempts": 5,
+      "success": true
+    },
+    "shape": {
+      "attempts": 4,
+      "success": true
+    },
+    "shard": {
+      "attempts": 4,
+      "success": true
+    },
+    "share": {
+      "attempts": 4,
+      "success": true
+    },
+    "shark": {
+      "attempts": 4,
+      "success": true
+    },
+    "sharp": {
+      "attempts": 4,
+      "success": true
+    },
+    "shave": {
+      "attempts": 6,
+      "success": true
+    },
+    "shawl": {
+      "attempts": 4,
+      "success": true
+    },
+    "shear": {
+      "attempts": 4,
+      "success": true
+    },
+    "sheen": {
+      "attempts": 4,
+      "success": true
+    },
+    "sheep": {
+      "attempts": 4,
+      "success": true
+    },
+    "sheer": {
+      "attempts": 5,
+      "success": true
+    },
+    "sheet": {
+      "attempts": 4,
+      "success": true
+    },
+    "sheik": {
+      "attempts": 3,
+      "success": true
+    },
+    "shelf": {
+      "attempts": 4,
+      "success": true
+    },
+    "shell": {
+      "attempts": 4,
+      "success": true
+    },
+    "shied": {
+      "attempts": 4,
+      "success": true
+    },
+    "shift": {
+      "attempts": 3,
+      "success": true
+    },
+    "shine": {
+      "attempts": 3,
+      "success": true
+    },
+    "shiny": {
+      "attempts": 4,
+      "success": true
+    },
+    "shire": {
+      "attempts": 3,
+      "success": true
+    },
+    "shirk": {
+      "attempts": 3,
+      "success": true
+    },
+    "shirt": {
+      "attempts": 3,
+      "success": true
+    },
+    "shoal": {
+      "attempts": 3,
+      "success": true
+    },
+    "shock": {
+      "attempts": 4,
+      "success": true
+    },
+    "shone": {
+      "attempts": 4,
+      "success": true
+    },
+    "shook": {
+      "attempts": 4,
+      "success": true
+    },
+    "shoot": {
+      "attempts": 3,
+      "success": true
+    },
+    "shore": {
+      "attempts": 4,
+      "success": true
+    },
+    "shorn": {
+      "attempts": 3,
+      "success": true
+    },
+    "short": {
+      "attempts": 4,
+      "success": true
+    },
+    "shout": {
+      "attempts": 2,
+      "success": true
+    },
+    "shove": {
+      "attempts": 5,
+      "success": true
+    },
+    "shown": {
+      "attempts": 5,
+      "success": true
+    },
+    "showy": {
+      "attempts": 4,
+      "success": true
+    },
+    "shrew": {
+      "attempts": 4,
+      "success": true
+    },
+    "shrub": {
+      "attempts": 4,
+      "success": true
+    },
+    "shrug": {
+      "attempts": 4,
+      "success": true
+    },
+    "shuck": {
+      "attempts": 4,
+      "success": true
+    },
+    "shunt": {
+      "attempts": 3,
+      "success": true
+    },
+    "shush": {
+      "attempts": 5,
+      "success": true
+    },
+    "shyly": {
+      "attempts": 3,
+      "success": true
+    },
+    "siege": {
+      "attempts": 4,
+      "success": true
+    },
+    "sieve": {
+      "attempts": 5,
+      "success": true
+    },
+    "sight": {
+      "attempts": 4,
+      "success": true
+    },
+    "sigma": {
+      "attempts": 4,
+      "success": true
+    },
+    "silky": {
+      "attempts": 3,
+      "success": true
+    },
+    "silly": {
+      "attempts": 3,
+      "success": true
+    },
+    "since": {
+      "attempts": 4,
+      "success": true
+    },
+    "sinew": {
+      "attempts": 4,
+      "success": true
+    },
+    "singe": {
+      "attempts": 3,
+      "success": true
+    },
+    "siren": {
+      "attempts": 4,
+      "success": true
+    },
+    "sissy": {
+      "attempts": 5,
+      "success": true
+    },
+    "sixth": {
+      "attempts": 4,
+      "success": true
+    },
+    "sixty": {
+      "attempts": 5,
+      "success": true
+    },
+    "skate": {
+      "attempts": 3,
+      "success": true
+    },
+    "skier": {
+      "attempts": 4,
+      "success": true
+    },
+    "skiff": {
+      "attempts": 5,
+      "success": true
+    },
+    "skill": {
+      "attempts": 4,
+      "success": true
+    },
+    "skimp": {
+      "attempts": 4,
+      "success": true
+    },
+    "skirt": {
+      "attempts": 4,
+      "success": true
+    },
+    "skulk": {
+      "attempts": 4,
+      "success": true
+    },
+    "skull": {
+      "attempts": 4,
+      "success": true
+    },
+    "skunk": {
+      "attempts": 5,
+      "success": true
+    },
+    "slack": {
+      "attempts": 5,
+      "success": true
+    },
+    "slain": {
+      "attempts": 5,
+      "success": true
+    },
+    "slang": {
+      "attempts": 5,
+      "success": true
+    },
+    "slant": {
+      "attempts": 2,
+      "success": true
+    },
+    "slash": {
+      "attempts": 3,
+      "success": true
+    },
+    "slate": {
+      "attempts": 3,
+      "success": true
+    },
+    "sleek": {
+      "attempts": 4,
+      "success": true
+    },
+    "sleep": {
+      "attempts": 4,
+      "success": true
+    },
+    "sleet": {
+      "attempts": 2,
+      "success": true
+    },
+    "slept": {
+      "attempts": 4,
+      "success": true
+    },
+    "slice": {
+      "attempts": 4,
+      "success": true
+    },
+    "slick": {
+      "attempts": 4,
+      "success": true
+    },
+    "slide": {
+      "attempts": 4,
+      "success": true
+    },
+    "slime": {
+      "attempts": 4,
+      "success": true
+    },
+    "slimy": {
+      "attempts": 3,
+      "success": true
+    },
+    "sling": {
+      "attempts": 4,
+      "success": true
+    },
+    "slink": {
+      "attempts": 3,
+      "success": true
+    },
+    "sloop": {
+      "attempts": 4,
+      "success": true
+    },
+    "slope": {
+      "attempts": 3,
+      "success": true
+    },
+    "slosh": {
+      "attempts": 5,
+      "success": true
+    },
+    "sloth": {
+      "attempts": 3,
+      "success": true
+    },
+    "slump": {
+      "attempts": 4,
+      "success": true
+    },
+    "slung": {
+      "attempts": 3,
+      "success": true
+    },
+    "slunk": {
+      "attempts": 4,
+      "success": true
+    },
+    "slurp": {
+      "attempts": 3,
+      "success": true
+    },
+    "slush": {
+      "attempts": 6,
+      "success": true
+    },
+    "slyly": {
+      "attempts": 4,
+      "success": true
+    },
+    "smack": {
+      "attempts": 4,
+      "success": true
+    },
+    "small": {
+      "attempts": 3,
+      "success": true
+    },
+    "smart": {
+      "attempts": 5,
+      "success": true
+    },
+    "smash": {
+      "attempts": 3,
+      "success": true
+    },
+    "smear": {
+      "attempts": 5,
+      "success": true
+    },
+    "smell": {
+      "attempts": 5,
+      "success": true
+    },
+    "smelt": {
+      "attempts": 4,
+      "success": true
+    },
+    "smile": {
+      "attempts": 3,
+      "success": true
+    },
+    "smirk": {
+      "attempts": 4,
+      "success": true
+    },
+    "smite": {
+      "attempts": 5,
+      "success": true
+    },
+    "smith": {
+      "attempts": 3,
+      "success": true
+    },
+    "smock": {
+      "attempts": 5,
+      "success": true
+    },
+    "smoke": {
+      "attempts": 5,
+      "success": true
+    },
+    "smoky": {
+      "attempts": 4,
+      "success": true
+    },
+    "smote": {
+      "attempts": 5,
+      "success": true
+    },
+    "snack": {
+      "attempts": 4,
+      "success": true
+    },
+    "snail": {
+      "attempts": 6,
+      "success": true
+    },
+    "snake": {
+      "attempts": 6,
+      "success": true
+    },
+    "snaky": {
+      "attempts": 4,
+      "success": true
+    },
+    "snare": {
+      "attempts": 5,
+      "success": true
+    },
+    "snarl": {
+      "attempts": 4,
+      "success": true
+    },
+    "sneak": {
+      "attempts": 5,
+      "success": true
+    },
+    "sneer": {
+      "attempts": 5,
+      "success": true
+    },
+    "snide": {
+      "attempts": 4,
+      "success": true
+    },
+    "sniff": {
+      "attempts": 4,
+      "success": true
+    },
+    "snipe": {
+      "attempts": 3,
+      "success": true
+    },
+    "snoop": {
+      "attempts": 4,
+      "success": true
+    },
+    "snore": {
+      "attempts": 5,
+      "success": true
+    },
+    "snort": {
+      "attempts": 4,
+      "success": true
+    },
+    "snout": {
+      "attempts": 5,
+      "success": true
+    },
+    "snowy": {
+      "attempts": 5,
+      "success": true
+    },
+    "snuck": {
+      "attempts": 3,
+      "success": true
+    },
+    "snuff": {
+      "attempts": 5,
+      "success": true
+    },
+    "soapy": {
+      "attempts": 5,
+      "success": true
+    },
+    "sober": {
+      "attempts": 4,
+      "success": true
+    },
+    "soggy": {
+      "attempts": 6,
+      "success": true
+    },
+    "solar": {
+      "attempts": 5,
+      "success": true
+    },
+    "solid": {
+      "attempts": 4,
+      "success": true
+    },
+    "solve": {
+      "attempts": 3,
+      "success": true
+    },
+    "sonar": {
+      "attempts": 3,
+      "success": true
+    },
+    "sonic": {
+      "attempts": 4,
+      "success": true
+    },
+    "sooth": {
+      "attempts": 4,
+      "success": true
+    },
+    "sooty": {
+      "attempts": 4,
+      "success": true
+    },
+    "sorry": {
+      "attempts": 4,
+      "success": true
+    },
+    "sound": {
+      "attempts": 3,
+      "success": true
+    },
+    "south": {
+      "attempts": 3,
+      "success": true
+    },
+    "sower": {
+      "attempts": 6,
+      "success": true
+    },
+    "space": {
+      "attempts": 4,
+      "success": true
+    },
+    "spade": {
+      "attempts": 4,
+      "success": true
+    },
+    "spank": {
+      "attempts": 3,
+      "success": true
+    },
+    "spare": {
+      "attempts": 5,
+      "success": true
+    },
+    "spark": {
+      "attempts": 4,
+      "success": true
+    },
+    "spasm": {
+      "attempts": 3,
+      "success": true
+    },
+    "spawn": {
+      "attempts": 5,
+      "success": true
+    },
+    "speak": {
+      "attempts": 3,
+      "success": true
+    },
+    "spear": {
+      "attempts": 4,
+      "success": true
+    },
+    "speck": {
+      "attempts": 4,
+      "success": true
+    },
+    "speed": {
+      "attempts": 5,
+      "success": true
+    },
+    "spell": {
+      "attempts": 4,
+      "success": true
+    },
+    "spelt": {
+      "attempts": 4,
+      "success": true
+    },
+    "spend": {
+      "attempts": 4,
+      "success": true
+    },
+    "spent": {
+      "attempts": 4,
+      "success": true
+    },
+    "sperm": {
+      "attempts": 3,
+      "success": true
+    },
+    "spice": {
+      "attempts": 4,
+      "success": true
+    },
+    "spicy": {
+      "attempts": 4,
+      "success": true
+    },
+    "spied": {
+      "attempts": 4,
+      "success": true
+    },
+    "spiel": {
+      "attempts": 3,
+      "success": true
+    },
+    "spike": {
+      "attempts": 4,
+      "success": true
+    },
+    "spiky": {
+      "attempts": 5,
+      "success": true
+    },
+    "spill": {
+      "attempts": 4,
+      "success": true
+    },
+    "spilt": {
+      "attempts": 4,
+      "success": true
+    },
+    "spine": {
+      "attempts": 4,
+      "success": true
+    },
+    "spiny": {
+      "attempts": 3,
+      "success": true
+    },
+    "spire": {
+      "attempts": 3,
+      "success": true
+    },
+    "spite": {
+      "attempts": 2,
+      "success": true
+    },
+    "splat": {
+      "attempts": 3,
+      "success": true
+    },
+    "split": {
+      "attempts": 4,
+      "success": true
+    },
+    "spoil": {
+      "attempts": 4,
+      "success": true
+    },
+    "spoke": {
+      "attempts": 4,
+      "success": true
+    },
+    "spoof": {
+      "attempts": 4,
+      "success": true
+    },
+    "spook": {
+      "attempts": 5,
+      "success": true
+    },
+    "spool": {
+      "attempts": 3,
+      "success": true
+    },
+    "spoon": {
+      "attempts": 6,
+      "success": true
+    },
+    "spore": {
+      "attempts": 2,
+      "success": true
+    },
+    "sport": {
+      "attempts": 2,
+      "success": true
+    },
+    "spout": {
+      "attempts": 4,
+      "success": true
+    },
+    "spray": {
+      "attempts": 3,
+      "success": true
+    },
+    "spree": {
+      "attempts": 4,
+      "success": true
+    },
+    "sprig": {
+      "attempts": 4,
+      "success": true
+    },
+    "spunk": {
+      "attempts": 4,
+      "success": true
+    },
+    "spurn": {
+      "attempts": 4,
+      "success": true
+    },
+    "spurt": {
+      "attempts": 4,
+      "success": true
+    },
+    "squad": {
+      "attempts": 4,
+      "success": true
+    },
+    "squat": {
+      "attempts": 4,
+      "success": true
+    },
+    "squib": {
+      "attempts": 4,
+      "success": true
+    },
+    "stack": {
+      "attempts": 5,
+      "success": true
+    },
+    "staff": {
+      "attempts": 6,
+      "success": true
+    },
+    "stage": {
+      "attempts": 5,
+      "success": true
+    },
+    "staid": {
+      "attempts": 5,
+      "success": true
+    },
+    "stain": {
+      "attempts": 3,
+      "success": true
+    },
+    "stair": {
+      "attempts": 3,
+      "success": true
+    },
+    "stake": {
+      "attempts": 4,
+      "success": true
+    },
+    "stale": {
+      "attempts": 2,
+      "success": true
+    },
+    "stalk": {
+      "attempts": 3,
+      "success": true
+    },
+    "stall": {
+      "attempts": 4,
+      "success": true
+    },
+    "stamp": {
+      "attempts": 4,
+      "success": true
+    },
+    "stand": {
+      "attempts": 3,
+      "success": true
+    },
+    "stank": {
+      "attempts": 5,
+      "success": true
+    },
+    "stare": {
+      "attempts": 3,
+      "success": true
+    },
+    "stark": {
+      "attempts": 4,
+      "success": true
+    },
+    "start": {
+      "attempts": 5,
+      "success": true
+    },
+    "stash": {
+      "attempts": 4,
+      "success": true
+    },
+    "state": {
+      "attempts": 6,
+      "success": true
+    },
+    "stave": {
+      "attempts": 4,
+      "success": true
+    },
+    "stead": {
+      "attempts": 4,
+      "success": true
+    },
+    "steak": {
+      "attempts": 4,
+      "success": true
+    },
+    "steal": {
+      "attempts": 3,
+      "success": true
+    },
+    "steam": {
+      "attempts": 4,
+      "success": true
+    },
+    "steed": {
+      "attempts": 4,
+      "success": true
+    },
+    "steel": {
+      "attempts": 3,
+      "success": true
+    },
+    "steep": {
+      "attempts": 5,
+      "success": true
+    },
+    "steer": {
+      "attempts": 3,
+      "success": true
+    },
+    "stein": {
+      "attempts": 4,
+      "success": true
+    },
+    "stern": {
+      "attempts": 3,
+      "success": true
+    },
+    "stick": {
+      "attempts": 4,
+      "success": true
+    },
+    "stiff": {
+      "attempts": 6,
+      "success": true
+    },
+    "still": {
+      "attempts": 5,
+      "success": true
+    },
+    "stilt": {
+      "attempts": 5,
+      "success": true
+    },
+    "sting": {
+      "attempts": 4,
+      "success": true
+    },
+    "stink": {
+      "attempts": 3,
+      "success": true
+    },
+    "stint": {
+      "attempts": 5,
+      "success": true
+    },
+    "stock": {
+      "attempts": 4,
+      "success": true
+    },
+    "stoic": {
+      "attempts": 6,
+      "success": true
+    },
+    "stoke": {
+      "attempts": 5,
+      "success": true
+    },
+    "stole": {
+      "attempts": 3,
+      "success": true
+    },
+    "stomp": {
+      "attempts": 5,
+      "success": true
+    },
+    "stone": {
+      "attempts": 5,
+      "success": true
+    },
+    "stony": {
+      "attempts": 6,
+      "success": true
+    },
+    "stood": {
+      "attempts": 5,
+      "success": true
+    },
+    "stool": {
+      "attempts": 6,
+      "success": true
+    },
+    "stoop": {
+      "attempts": 4,
+      "success": true
+    },
+    "store": {
+      "attempts": 5,
+      "success": true
+    },
+    "stork": {
+      "attempts": 3,
+      "success": true
+    },
+    "storm": {
+      "attempts": 4,
+      "success": true
+    },
+    "story": {
+      "attempts": 5,
+      "success": true
+    },
+    "stout": {
+      "attempts": 4,
+      "success": true
+    },
+    "stove": {
+      "attempts": 5,
+      "success": true
+    },
+    "strap": {
+      "attempts": 2,
+      "success": true
+    },
+    "straw": {
+      "attempts": 6,
+      "success": true
+    },
+    "stray": {
+      "attempts": 6,
+      "success": true
+    },
+    "strip": {
+      "attempts": 3,
+      "success": true
+    },
+    "strut": {
+      "attempts": 3,
+      "success": true
+    },
+    "stuck": {
+      "attempts": 5,
+      "success": true
+    },
+    "study": {
+      "attempts": 5,
+      "success": true
+    },
+    "stuff": {
+      "attempts": 6,
+      "success": true
+    },
+    "stump": {
+      "attempts": 4,
+      "success": true
+    },
+    "stung": {
+      "attempts": 5,
+      "success": true
+    },
+    "stunk": {
+      "attempts": 4,
+      "success": true
+    },
+    "stunt": {
+      "attempts": 5,
+      "success": true
+    },
+    "style": {
+      "attempts": 4,
+      "success": true
+    },
+    "suave": {
+      "attempts": 5,
+      "success": true
+    },
+    "sugar": {
+      "attempts": 5,
+      "success": true
+    },
+    "suing": {
+      "attempts": 4,
+      "success": true
+    },
+    "suite": {
+      "attempts": 4,
+      "success": true
+    },
+    "sulky": {
+      "attempts": 3,
+      "success": true
+    },
+    "sully": {
+      "attempts": 4,
+      "success": true
+    },
+    "sumac": {
+      "attempts": 3,
+      "success": true
+    },
+    "sunny": {
+      "attempts": 4,
+      "success": true
+    },
+    "super": {
+      "attempts": 6,
+      "success": true
+    },
+    "surer": {
+      "attempts": 5,
+      "success": true
+    },
+    "surge": {
+      "attempts": 3,
+      "success": true
+    },
+    "surly": {
+      "attempts": 5,
+      "success": true
+    },
+    "sushi": {
+      "attempts": 4,
+      "success": true
+    },
+    "swami": {
+      "attempts": 3,
+      "success": true
+    },
+    "swamp": {
+      "attempts": 4,
+      "success": true
+    },
+    "swarm": {
+      "attempts": 5,
+      "success": true
+    },
+    "swash": {
+      "attempts": 4,
+      "success": true
+    },
+    "swath": {
+      "attempts": 5,
+      "success": true
+    },
+    "swear": {
+      "attempts": 3,
+      "success": true
+    },
+    "sweat": {
+      "attempts": 4,
+      "success": true
+    },
+    "sweep": {
+      "attempts": 5,
+      "success": true
+    },
+    "sweet": {
+      "attempts": 4,
+      "success": true
+    },
+    "swell": {
+      "attempts": 6,
+      "success": true
+    },
+    "swept": {
+      "attempts": 4,
+      "success": true
+    },
+    "swift": {
+      "attempts": 4,
+      "success": true
+    },
+    "swill": {
+      "attempts": 4,
+      "success": true
+    },
+    "swine": {
+      "attempts": 4,
+      "success": true
+    },
+    "swing": {
+      "attempts": 4,
+      "success": true
+    },
+    "swirl": {
+      "attempts": 3,
+      "success": true
+    },
+    "swish": {
+      "attempts": 5,
+      "success": true
+    },
+    "swoon": {
+      "attempts": 5,
+      "success": true
+    },
+    "swoop": {
+      "attempts": 4,
+      "success": true
+    },
+    "sword": {
+      "attempts": 5,
+      "success": true
+    },
+    "swore": {
+      "attempts": 5,
+      "success": true
+    },
+    "sworn": {
+      "attempts": 5,
+      "success": true
+    },
+    "swung": {
+      "attempts": 4,
+      "success": true
+    },
+    "synod": {
+      "attempts": 4,
+      "success": true
+    },
+    "syrup": {
+      "attempts": 4,
+      "success": true
+    },
+    "tabby": {
+      "attempts": 5,
+      "success": true
+    },
+    "table": {
+      "attempts": 3,
+      "success": true
+    },
+    "taboo": {
+      "attempts": 5,
+      "success": true
+    },
+    "tacit": {
+      "attempts": 5,
+      "success": true
+    },
+    "tacky": {
+      "attempts": 4,
+      "success": true
+    },
+    "taffy": {
+      "attempts": 4,
+      "success": true
+    },
+    "taint": {
+      "attempts": 4,
+      "success": true
+    },
+    "taken": {
+      "attempts": 3,
+      "success": true
+    },
+    "taker": {
+      "attempts": 4,
+      "success": true
+    },
+    "tally": {
+      "attempts": 4,
+      "success": true
+    },
+    "talon": {
+      "attempts": 4,
+      "success": true
+    },
+    "tamer": {
+      "attempts": 4,
+      "success": true
+    },
+    "tango": {
+      "attempts": 4,
+      "success": true
+    },
+    "tangy": {
+      "attempts": 3,
+      "success": true
+    },
+    "taper": {
+      "attempts": 5,
+      "success": true
+    },
+    "tapir": {
+      "attempts": 4,
+      "success": true
+    },
+    "tardy": {
+      "attempts": 2,
+      "success": true
+    },
+    "tarot": {
+      "attempts": 5,
+      "success": true
+    },
+    "taste": {
+      "attempts": 3,
+      "success": true
+    },
+    "tasty": {
+      "attempts": 3,
+      "success": true
+    },
+    "tatty": {
+      "attempts": 4,
+      "success": true
+    },
+    "taunt": {
+      "attempts": 4,
+      "success": true
+    },
+    "tawny": {
+      "attempts": 3,
+      "success": true
+    },
+    "teach": {
+      "attempts": 3,
+      "success": true
+    },
+    "teary": {
+      "attempts": 3,
+      "success": true
+    },
+    "tease": {
+      "attempts": 3,
+      "success": true
+    },
+    "teddy": {
+      "attempts": 4,
+      "success": true
+    },
+    "teeth": {
+      "attempts": 4,
+      "success": true
+    },
+    "tempo": {
+      "attempts": 3,
+      "success": true
+    },
+    "tenet": {
+      "attempts": 5,
+      "success": true
+    },
+    "tenor": {
+      "attempts": 4,
+      "success": true
+    },
+    "tense": {
+      "attempts": 4,
+      "success": true
+    },
+    "tenth": {
+      "attempts": 4,
+      "success": true
+    },
+    "tepee": {
+      "attempts": 5,
+      "success": true
+    },
+    "tepid": {
+      "attempts": 4,
+      "success": true
+    },
+    "terra": {
+      "attempts": 3,
+      "success": true
+    },
+    "terse": {
+      "attempts": 3,
+      "success": true
+    },
+    "testy": {
+      "attempts": 3,
+      "success": true
+    },
+    "thank": {
+      "attempts": 2,
+      "success": true
+    },
+    "theft": {
+      "attempts": 4,
+      "success": true
+    },
+    "their": {
+      "attempts": 3,
+      "success": true
+    },
+    "theme": {
+      "attempts": 3,
+      "success": true
+    },
+    "there": {
+      "attempts": 3,
+      "success": true
+    },
+    "these": {
+      "attempts": 3,
+      "success": true
+    },
+    "theta": {
+      "attempts": 5,
+      "success": true
+    },
+    "thick": {
+      "attempts": 4,
+      "success": true
+    },
+    "thief": {
+      "attempts": 5,
+      "success": true
+    },
+    "thigh": {
+      "attempts": 5,
+      "success": true
+    },
+    "thing": {
+      "attempts": 4,
+      "success": true
+    },
+    "think": {
+      "attempts": 3,
+      "success": true
+    },
+    "third": {
+      "attempts": 3,
+      "success": true
+    },
+    "thong": {
+      "attempts": 3,
+      "success": true
+    },
+    "thorn": {
+      "attempts": 3,
+      "success": true
+    },
+    "those": {
+      "attempts": 2,
+      "success": true
+    },
+    "three": {
+      "attempts": 2,
+      "success": true
+    },
+    "threw": {
+      "attempts": 3,
+      "success": true
+    },
+    "throb": {
+      "attempts": 2,
+      "success": true
+    },
+    "throw": {
+      "attempts": 3,
+      "success": true
+    },
+    "thrum": {
+      "attempts": 4,
+      "success": true
+    },
+    "thumb": {
+      "attempts": 4,
+      "success": true
+    },
+    "thump": {
+      "attempts": 4,
+      "success": true
+    },
+    "thyme": {
+      "attempts": 4,
+      "success": true
+    },
+    "tiara": {
+      "attempts": 3,
+      "success": true
+    },
+    "tibia": {
+      "attempts": 4,
+      "success": true
+    },
+    "tidal": {
+      "attempts": 4,
+      "success": true
+    },
+    "tiger": {
+      "attempts": 4,
+      "success": true
+    },
+    "tight": {
+      "attempts": 5,
+      "success": true
+    },
+    "tilde": {
+      "attempts": 4,
+      "success": true
+    },
+    "timer": {
+      "attempts": 6,
+      "success": true
+    },
+    "timid": {
+      "attempts": 4,
+      "success": true
+    },
+    "tipsy": {
+      "attempts": 3,
+      "success": true
+    },
+    "titan": {
+      "attempts": 4,
+      "success": true
+    },
+    "tithe": {
+      "attempts": 3,
+      "success": true
+    },
+    "title": {
+      "attempts": 5,
+      "success": true
+    },
+    "toast": {
+      "attempts": 3,
+      "success": true
+    },
+    "today": {
+      "attempts": 4,
+      "success": true
+    },
+    "toddy": {
+      "attempts": 6,
+      "success": true
+    },
+    "token": {
+      "attempts": 4,
+      "success": true
+    },
+    "tonal": {
+      "attempts": 4,
+      "success": true
+    },
+    "tonga": {
+      "attempts": 4,
+      "success": true
+    },
+    "tonic": {
+      "attempts": 4,
+      "success": true
+    },
+    "tooth": {
+      "attempts": 4,
+      "success": true
+    },
+    "topaz": {
+      "attempts": 5,
+      "success": true
+    },
+    "topic": {
+      "attempts": 4,
+      "success": true
+    },
+    "torch": {
+      "attempts": 3,
+      "success": true
+    },
+    "torso": {
+      "attempts": 3,
+      "success": true
+    },
+    "torus": {
+      "attempts": 3,
+      "success": true
+    },
+    "total": {
+      "attempts": 5,
+      "success": true
+    },
+    "totem": {
+      "attempts": 5,
+      "success": true
+    },
+    "touch": {
+      "attempts": 3,
+      "success": true
+    },
+    "tough": {
+      "attempts": 4,
+      "success": true
+    },
+    "towel": {
+      "attempts": 3,
+      "success": true
+    },
+    "tower": {
+      "attempts": 4,
+      "success": true
+    },
+    "toxic": {
+      "attempts": 5,
+      "success": true
+    },
+    "toxin": {
+      "attempts": 4,
+      "success": true
+    },
+    "trace": {
+      "attempts": 4,
+      "success": true
+    },
+    "track": {
+      "attempts": 3,
+      "success": true
+    },
+    "tract": {
+      "attempts": 4,
+      "success": true
+    },
+    "trade": {
+      "attempts": 2,
+      "success": true
+    },
+    "trail": {
+      "attempts": 4,
+      "success": true
+    },
+    "train": {
+      "attempts": 4,
+      "success": true
+    },
+    "trait": {
+      "attempts": 4,
+      "success": true
+    },
+    "tramp": {
+      "attempts": 4,
+      "success": true
+    },
+    "trash": {
+      "attempts": 2,
+      "success": true
+    },
+    "trawl": {
+      "attempts": 4,
+      "success": true
+    },
+    "tread": {
+      "attempts": 3,
+      "success": true
+    },
+    "treat": {
+      "attempts": 4,
+      "success": true
+    },
+    "trend": {
+      "attempts": 3,
+      "success": true
+    },
+    "triad": {
+      "attempts": 4,
+      "success": true
+    },
+    "trial": {
+      "attempts": 4,
+      "success": true
+    },
+    "tribe": {
+      "attempts": 4,
+      "success": true
+    },
+    "trice": {
+      "attempts": 4,
+      "success": true
+    },
+    "trick": {
+      "attempts": 4,
+      "success": true
+    },
+    "tried": {
+      "attempts": 3,
+      "success": true
+    },
+    "tripe": {
+      "attempts": 6,
+      "success": true
+    },
+    "trite": {
+      "attempts": 6,
+      "success": true
+    },
+    "troll": {
+      "attempts": 3,
+      "success": true
+    },
+    "troop": {
+      "attempts": 3,
+      "success": true
+    },
+    "trope": {
+      "attempts": 5,
+      "success": true
+    },
+    "trout": {
+      "attempts": 6,
+      "success": true
+    },
+    "trove": {
+      "attempts": 5,
+      "success": true
+    },
+    "truce": {
+      "attempts": 4,
+      "success": true
+    },
+    "truck": {
+      "attempts": 3,
+      "success": true
+    },
+    "truer": {
+      "attempts": 5,
+      "success": true
+    },
+    "truly": {
+      "attempts": 3,
+      "success": true
+    },
+    "trump": {
+      "attempts": 4,
+      "success": true
+    },
+    "trunk": {
+      "attempts": 4,
+      "success": true
+    },
+    "truss": {
+      "attempts": 4,
+      "success": true
+    },
+    "trust": {
+      "attempts": 3,
+      "success": true
+    },
+    "truth": {
+      "attempts": 5,
+      "success": true
+    },
+    "tryst": {
+      "attempts": 3,
+      "success": true
+    },
+    "tubal": {
+      "attempts": 5,
+      "success": true
+    },
+    "tuber": {
+      "attempts": 4,
+      "success": true
+    },
+    "tulip": {
+      "attempts": 3,
+      "success": true
+    },
+    "tulle": {
+      "attempts": 5,
+      "success": true
+    },
+    "tumor": {
+      "attempts": 3,
+      "success": true
+    },
+    "tunic": {
+      "attempts": 3,
+      "success": true
+    },
+    "turbo": {
+      "attempts": 3,
+      "success": true
+    },
+    "tutor": {
+      "attempts": 4,
+      "success": true
+    },
+    "twang": {
+      "attempts": 3,
+      "success": true
+    },
+    "tweak": {
+      "attempts": 4,
+      "success": true
+    },
+    "tweed": {
+      "attempts": 3,
+      "success": true
+    },
+    "tweet": {
+      "attempts": 6,
+      "success": true
+    },
+    "twice": {
+      "attempts": 4,
+      "success": true
+    },
+    "twine": {
+      "attempts": 3,
+      "success": true
+    },
+    "twirl": {
+      "attempts": 4,
+      "success": true
+    },
+    "twist": {
+      "attempts": 3,
+      "success": true
+    },
+    "twixt": {
+      "attempts": 4,
+      "success": true
+    },
+    "tying": {
+      "attempts": 3,
+      "success": true
+    },
+    "udder": {
+      "attempts": 5,
+      "success": true
+    },
+    "ulcer": {
+      "attempts": 5,
+      "success": true
+    },
+    "ultra": {
+      "attempts": 4,
+      "success": true
+    },
+    "umbra": {
+      "attempts": 4,
+      "success": true
+    },
+    "uncle": {
+      "attempts": 4,
+      "success": true
+    },
+    "uncut": {
+      "attempts": 5,
+      "success": true
+    },
+    "under": {
+      "attempts": 3,
+      "success": true
+    },
+    "undid": {
+      "attempts": 6,
+      "success": true
+    },
+    "undue": {
+      "attempts": 4,
+      "success": true
+    },
+    "unfed": {
+      "attempts": 4,
+      "success": true
+    },
+    "unfit": {
+      "attempts": 5,
+      "success": true
+    },
+    "unify": {
+      "attempts": 4,
+      "success": true
+    },
+    "union": {
+      "attempts": 3,
+      "success": true
+    },
+    "unite": {
+      "attempts": 3,
+      "success": true
+    },
+    "unity": {
+      "attempts": 3,
+      "success": true
+    },
+    "unlit": {
+      "attempts": 4,
+      "success": true
+    },
+    "unmet": {
+      "attempts": 6,
+      "success": true
+    },
+    "unset": {
+      "attempts": 3,
+      "success": true
+    },
+    "untie": {
+      "attempts": 4,
+      "success": true
+    },
+    "until": {
+      "attempts": 4,
+      "success": true
+    },
+    "unwed": {
+      "attempts": 5,
+      "success": true
+    },
+    "unzip": {
+      "attempts": 4,
+      "success": true
+    },
+    "upper": {
+      "attempts": 5,
+      "success": true
+    },
+    "upset": {
+      "attempts": 4,
+      "success": true
+    },
+    "urban": {
+      "attempts": 4,
+      "success": true
+    },
+    "urine": {
+      "attempts": 5,
+      "success": true
+    },
+    "usage": {
+      "attempts": 4,
+      "success": true
+    },
+    "usher": {
+      "attempts": 4,
+      "success": true
+    },
+    "using": {
+      "attempts": 4,
+      "success": true
+    },
+    "usual": {
+      "attempts": 3,
+      "success": true
+    },
+    "usurp": {
+      "attempts": 3,
+      "success": true
+    },
+    "utile": {
+      "attempts": 4,
+      "success": true
+    },
+    "utter": {
+      "attempts": 4,
+      "success": true
+    },
+    "vague": {
+      "attempts": 5,
+      "success": true
+    },
+    "valet": {
+      "attempts": 4,
+      "success": true
+    },
+    "valid": {
+      "attempts": 5,
+      "success": true
+    },
+    "valor": {
+      "attempts": 4,
+      "success": true
+    },
+    "value": {
+      "attempts": 4,
+      "success": true
+    },
+    "valve": {
+      "attempts": 5,
+      "success": true
+    },
+    "vapid": {
+      "attempts": 5,
+      "success": true
+    },
+    "vapor": {
+      "attempts": 6,
+      "success": true
+    },
+    "vault": {
+      "attempts": 5,
+      "success": true
+    },
+    "vaunt": {
+      "attempts": 6,
+      "success": true
+    },
+    "vegan": {
+      "attempts": 5,
+      "success": true
+    },
+    "venom": {
+      "attempts": 4,
+      "success": true
+    },
+    "venue": {
+      "attempts": 4,
+      "success": true
+    },
+    "verge": {
+      "attempts": 5,
+      "success": true
+    },
+    "verse": {
+      "attempts": 6,
+      "success": true
+    },
+    "verso": {
+      "attempts": 3,
+      "success": true
+    },
+    "verve": {
+      "attempts": 6,
+      "success": true
+    },
+    "vicar": {
+      "attempts": 4,
+      "success": true
+    },
+    "video": {
+      "attempts": 3,
+      "success": true
+    },
+    "vigil": {
+      "attempts": 5,
+      "success": true
+    },
+    "vigor": {
+      "attempts": 4,
+      "success": true
+    },
+    "villa": {
+      "attempts": 4,
+      "success": true
+    },
+    "vinyl": {
+      "attempts": 3,
+      "success": true
+    },
+    "viola": {
+      "attempts": 4,
+      "success": true
+    },
+    "viper": {
+      "attempts": 4,
+      "success": true
+    },
+    "viral": {
+      "attempts": 5,
+      "success": true
+    },
+    "virus": {
+      "attempts": 5,
+      "success": true
+    },
+    "visit": {
+      "attempts": 4,
+      "success": true
+    },
+    "visor": {
+      "attempts": 4,
+      "success": true
+    },
+    "vista": {
+      "attempts": 4,
+      "success": true
+    },
+    "vital": {
+      "attempts": 5,
+      "success": true
+    },
+    "vivid": {
+      "attempts": 4,
+      "success": true
+    },
+    "vixen": {
+      "attempts": 4,
+      "success": true
+    },
+    "vocal": {
+      "attempts": 3,
+      "success": true
+    },
+    "vodka": {
+      "attempts": 5,
+      "success": true
+    },
+    "vogue": {
+      "attempts": 5,
+      "success": true
+    },
+    "voice": {
+      "attempts": 4,
+      "success": true
+    },
+    "voila": {
+      "attempts": 3,
+      "success": true
+    },
+    "vomit": {
+      "attempts": 5,
+      "success": true
+    },
+    "voter": {
+      "attempts": 4,
+      "success": true
+    },
+    "vouch": {
+      "attempts": 6,
+      "success": true
+    },
+    "vowel": {
+      "attempts": 4,
+      "success": true
+    },
+    "vying": {
+      "attempts": 6,
+      "success": true
+    },
+    "wacky": {
+      "attempts": 5,
+      "success": true
+    },
+    "wafer": {
+      "attempts": 6,
+      "success": true
+    },
+    "wager": {
+      "attempts": 5,
+      "success": true
+    },
+    "wagon": {
+      "attempts": 5,
+      "success": true
+    },
+    "waist": {
+      "attempts": 4,
+      "success": true
+    },
+    "waive": {
+      "attempts": 5,
+      "success": true
+    },
+    "waltz": {
+      "attempts": 4,
+      "success": true
+    },
+    "warty": {
+      "attempts": 4,
+      "success": true
+    },
+    "waste": {
+      "attempts": 6,
+      "success": true
+    },
+    "watch": {
+      "attempts": 6,
+      "success": true
+    },
+    "water": {
+      "attempts": 6,
+      "success": true
+    },
+    "waver": {
+      "attempts": 6,
+      "success": true
+    },
+    "waxen": {
+      "attempts": 4,
+      "success": true
+    },
+    "weary": {
+      "attempts": 4,
+      "success": true
+    },
+    "weave": {
+      "attempts": 5,
+      "success": true
+    },
+    "wedge": {
+      "attempts": 6,
+      "success": true
+    },
+    "weedy": {
+      "attempts": 5,
+      "success": true
+    },
+    "weigh": {
+      "attempts": 4,
+      "success": true
+    },
+    "weird": {
+      "attempts": 3,
+      "success": true
+    },
+    "welch": {
+      "attempts": 5,
+      "success": true
+    },
+    "welsh": {
+      "attempts": 4,
+      "success": true
+    },
+    "whack": {
+      "attempts": 5,
+      "success": true
+    },
+    "whale": {
+      "attempts": 4,
+      "success": true
+    },
+    "wharf": {
+      "attempts": 5,
+      "success": true
+    },
+    "wheat": {
+      "attempts": 5,
+      "success": true
+    },
+    "wheel": {
+      "attempts": 6,
+      "success": true
+    },
+    "whelp": {
+      "attempts": 6,
+      "success": true
+    },
+    "where": {
+      "attempts": 4,
+      "success": true
+    },
+    "which": {
+      "attempts": 4,
+      "success": true
+    },
+    "whiff": {
+      "attempts": 5,
+      "success": true
+    },
+    "while": {
+      "attempts": 4,
+      "success": true
+    },
+    "whine": {
+      "attempts": 5,
+      "success": true
+    },
+    "whiny": {
+      "attempts": 4,
+      "success": true
+    },
+    "whirl": {
+      "attempts": 3,
+      "success": true
+    },
+    "whisk": {
+      "attempts": 3,
+      "success": true
+    },
+    "white": {
+      "attempts": 5,
+      "success": true
+    },
+    "whole": {
+      "attempts": 5,
+      "success": true
+    },
+    "whoop": {
+      "attempts": 4,
+      "success": true
+    },
+    "whose": {
+      "attempts": 5,
+      "success": true
+    },
+    "widen": {
+      "attempts": 4,
+      "success": true
+    },
+    "wider": {
+      "attempts": 6,
+      "success": true
+    },
+    "widow": {
+      "attempts": 5,
+      "success": true
+    },
+    "width": {
+      "attempts": 4,
+      "success": true
+    },
+    "wield": {
+      "attempts": 5,
+      "success": true
+    },
+    "wight": {
+      "attempts": 6,
+      "success": true
+    },
+    "willy": {
+      "attempts": 6,
+      "success": true
+    },
+    "wimpy": {
+      "attempts": 5,
+      "success": true
+    },
+    "wince": {
+      "attempts": 4,
+      "success": true
+    },
+    "winch": {
+      "attempts": 6,
+      "success": true
+    },
+    "windy": {
+      "attempts": 5,
+      "success": true
+    },
+    "wiser": {
+      "attempts": 4,
+      "success": true
+    },
+    "wispy": {
+      "attempts": 4,
+      "success": true
+    },
+    "witch": {
+      "attempts": 6,
+      "success": true
+    },
+    "witty": {
+      "attempts": 6,
+      "success": true
+    },
+    "woken": {
+      "attempts": 5,
+      "success": true
+    },
+    "woman": {
+      "attempts": 5,
+      "success": true
+    },
+    "women": {
+      "attempts": 4,
+      "success": true
+    },
+    "woody": {
+      "attempts": 5,
+      "success": true
+    },
+    "wooer": {
+      "attempts": 6,
+      "success": true
+    },
+    "wooly": {
+      "attempts": 6,
+      "success": true
+    },
+    "woozy": {
+      "attempts": 6,
+      "success": true
+    },
+    "wordy": {
+      "attempts": 4,
+      "success": true
+    },
+    "world": {
+      "attempts": 3,
+      "success": true
+    },
+    "worry": {
+      "attempts": 6,
+      "success": true
+    },
+    "worse": {
+      "attempts": 5,
+      "success": true
+    },
+    "worst": {
+      "attempts": 3,
+      "success": true
+    },
+    "worth": {
+      "attempts": 4,
+      "success": true
+    },
+    "would": {
+      "attempts": 4,
+      "success": true
+    },
+    "wound": {
+      "attempts": 6,
+      "success": true
+    },
+    "woven": {
+      "attempts": 6,
+      "success": true
+    },
+    "wrack": {
+      "attempts": 6,
+      "success": true
+    },
+    "wrath": {
+      "attempts": 4,
+      "success": true
+    },
+    "wreak": {
+      "attempts": 6,
+      "success": true
+    },
+    "wreck": {
+      "attempts": 4,
+      "success": true
+    },
+    "wrest": {
+      "attempts": 5,
+      "success": true
+    },
+    "wring": {
+      "attempts": 4,
+      "success": true
+    },
+    "wrist": {
+      "attempts": 5,
+      "success": true
+    },
+    "write": {
+      "attempts": 5,
+      "success": true
+    },
+    "wrong": {
+      "attempts": 4,
+      "success": true
+    },
+    "wrote": {
+      "attempts": 4,
+      "success": true
+    },
+    "wrung": {
+      "attempts": 4,
+      "success": true
+    },
+    "wryly": {
+      "attempts": 5,
+      "success": true
+    },
+    "yacht": {
+      "attempts": 4,
+      "success": true
+    },
+    "yearn": {
+      "attempts": 4,
+      "success": true
+    },
+    "yeast": {
+      "attempts": 6,
+      "success": true
+    },
+    "yield": {
+      "attempts": 4,
+      "success": true
+    },
+    "young": {
+      "attempts": 4,
+      "success": true
+    },
+    "youth": {
+      "attempts": 3,
+      "success": true
+    },
+    "zebra": {
+      "attempts": 3,
+      "success": true
+    },
+    "zesty": {
+      "attempts": 4,
+      "success": true
+    },
+    "zonal": {
+      "attempts": 4,
+      "success": true
+    }
+  },
+  "average_attempts": 4.201818969250758,
+  "median_attempts": 4.0,
+  "attempt_distribution": {
+    "1": 0,
+    "2": 36,
+    "3": 482,
+    "4": 1004,
+    "5": 554,
+    "6": 233
+  }
+}

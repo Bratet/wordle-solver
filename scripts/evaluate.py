@@ -15,8 +15,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 
-from wordle import Wordle
-from strategies import EntropyBasedStrategy, MinimaxBasedStrategy
+from src.wordle import Wordle
+from src.strategies import EntropyBasedStrategy, MinimaxBasedStrategy, FrequencyBasedStrategy, HybridStrategy
 
 
 def load_word_list(filepath: str) -> List[str]:
@@ -78,7 +78,7 @@ def evaluate_strategy(game: Wordle, strategy: Any, target_words: List[str]) -> D
     return results
 
 
-def generate_plots(results: Dict[str, Any], output_dir: str = "results") -> None:
+def generate_plots(results: Dict[str, Any], output_dir: str = "output") -> None:
     """
     Generate and save performance visualization plots.
     
@@ -128,7 +128,7 @@ def generate_plots(results: Dict[str, Any], output_dir: str = "results") -> None
     plt.close('all')
 
 
-def save_report(results: Dict[str, Any], output_dir: str = "results") -> str:
+def save_report(results: Dict[str, Any], output_dir: str = "output") -> str:
     """
     Save performance results as a markdown report and raw JSON data.
     
@@ -191,12 +191,148 @@ def save_report(results: Dict[str, Any], output_dir: str = "results") -> str:
     return report_path
 
 
+def generate_comparative_plots(all_results: Dict[str, Dict[str, Any]], output_dir: str = "output") -> None:
+    """
+    Generate comparative plots for all strategies.
+    
+    Args:
+        all_results: Dictionary containing results for all strategies
+        output_dir: Directory to save the plots
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Plot 1: Comparative attempts distribution
+    plt.figure(figsize=(12, 8))
+    
+    # Define colors for each strategy
+    colors = ['blue', 'green', 'red', 'purple']
+    strategies = list(all_results.keys())
+    
+    # Plot each strategy's distribution
+    for i, (strategy, results) in enumerate(all_results.items()):
+        attempts_dist = results["attempt_distribution"]
+        attempts = list(attempts_dist.keys())
+        counts = list(attempts_dist.values())
+        total = sum(counts)
+        percentages = [count/total * 100 for count in counts]
+        
+        plt.bar([x + i*0.2 for x in attempts], percentages, width=0.2, 
+                label=strategy.replace('_', ' ').title(), color=colors[i])
+    
+    plt.axvline(x=6.5, color='black', linestyle='--', label='Wordle Limit (6)')
+    plt.xlabel('Number of Attempts')
+    plt.ylabel('Percentage of Words (%)')
+    plt.title('Comparative Distribution of Attempts to Solve')
+    plt.legend()
+    plt.grid(axis='y', alpha=0.3)
+    plt.xticks(range(1, 7))
+    plt.savefig(f"{output_dir}/comparative_attempts_distribution.png")
+    
+    # Plot 2: Comparative cumulative success rate
+    plt.figure(figsize=(12, 8))
+    
+    for i, (strategy, results) in enumerate(all_results.items()):
+        attempts_dist = results["attempt_distribution"]
+        total = sum(attempts_dist.values())
+        running_sum = 0
+        cumulative_success = []
+        
+        for attempts in range(1, 7):
+            if attempts in attempts_dist:
+                running_sum += attempts_dist[attempts]
+            cumulative_success.append(running_sum / total * 100)
+        
+        plt.plot(range(1, 7), cumulative_success, marker='o', 
+                label=strategy.replace('_', ' ').title(), color=colors[i])
+    
+    plt.xlabel('Maximum Attempts')
+    plt.ylabel('Cumulative Success Rate (%)')
+    plt.title('Comparative Cumulative Success Rate')
+    plt.legend()
+    plt.grid(alpha=0.3)
+    plt.xticks(range(1, 7))
+    plt.savefig(f"{output_dir}/comparative_cumulative_success.png")
+    
+    plt.close('all')
+
+
+def save_comparative_report(all_results: Dict[str, Dict[str, Any]], output_dir: str = "output") -> str:
+    """
+    Save comparative performance results as a markdown report.
+    
+    Args:
+        all_results: Dictionary containing results for all strategies
+        output_dir: Directory to save the report
+        
+    Returns:
+        Path to the saved report file
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Save raw results as JSON
+    with open(f"{output_dir}/all_strategies_results.json", "w") as f:
+        json.dump(all_results, f, indent=2)
+    
+    # Create markdown report
+    report_path = f"{output_dir}/comparative_performance_report.md"
+    with open(report_path, "w") as f:
+        f.write("# Wordle Solver Comparative Performance Report\n\n")
+        
+        f.write("## Summary\n")
+        f.write("| Strategy | Success Rate | Average Attempts | Median Attempts | Failures |\n")
+        f.write("|----------|--------------|------------------|-----------------|----------|\n")
+        
+        for strategy, results in all_results.items():
+            f.write(f"| {strategy.replace('_', ' ').title()} | {results['success_rate']:.2f}% | {results['average_attempts']:.2f} | {results['median_attempts']} | {results['failures']} |\n")
+        
+        f.write("\n## Attempt Distribution\n")
+        f.write("| Strategy | 1 | 2 | 3 | 4 | 5 | 6 | >6 |\n")
+        f.write("|----------|---|---|---|---|---|---|----|\n")
+        
+        for strategy, results in all_results.items():
+            dist = results["attempt_distribution"]
+            total = sum(dist.values())
+            row = [strategy.replace('_', ' ').title()]
+            for i in range(1, 7):
+                count = dist.get(i, 0)
+                percentage = (count / total) * 100
+                row.append(f"{count} ({percentage:.1f}%)")
+            failures = results["failures"]
+            row.append(str(failures))
+            f.write("|" + "|".join(row) + "|\n")
+        
+        f.write("\n## Visualization\n")
+        f.write("Two comparative plots have been generated and saved:\n")
+        f.write("1. `comparative_attempts_distribution.png`: Shows the distribution of attempts needed to solve puzzles for each strategy\n")
+        f.write("2. `comparative_cumulative_success.png`: Shows the cumulative success rate by maximum attempts allowed for each strategy\n\n")
+        
+        f.write("## Hardest Words by Strategy\n")
+        for strategy, results in all_results.items():
+            f.write(f"\n### {strategy.replace('_', ' ').title()}\n")
+            f.write("These words required the most attempts to solve:\n\n")
+            
+            # Get the 10 words that required the most attempts
+            hardest_words = sorted(
+                results["word_results"].items(), 
+                key=lambda x: x[1]["attempts"], 
+                reverse=True
+            )[:10]
+            
+            f.write("| Word | Attempts |\n")
+            f.write("|------|----------|\n")
+            for word, data in hardest_words:
+                f.write(f"| {word} | {data['attempts']} |\n")
+    
+    print(f"Comparative performance report saved to {report_path}")
+    return report_path
+
+
 def main():
     """Main function to run the evaluation and generate the report."""
     # Define paths
     allowed_words_path = "data/allowed_words.txt"
     possible_words_path = "data/possible_words.txt"
-    base_output_dir = "results"
+    base_output_dir = "output"
     
     # Initialize the game
     game = Wordle(allowed_words=allowed_words_path, possible_words=possible_words_path)
@@ -206,8 +342,27 @@ def main():
     
     # Define strategies to evaluate
     strategies = {
-        "minimax_strategy": MinimaxBasedStrategy(),
+        # "entropy_strategy": EntropyBasedStrategy(),
+        # "minimax_strategy": MinimaxBasedStrategy(),
+        # "frequency_strategy": FrequencyBasedStrategy(),
+        "hybrid_strategy": HybridStrategy()
     }
+    
+    # Store results for all strategies
+    all_results = {}
+    
+    with open("output/entropy_strategy/strategy_results.json", "r") as f:
+        entropy_results = json.load(f)
+    
+    with open("output/minimax_strategy/strategy_results.json", "r") as f:
+        minimax_results = json.load(f)
+    
+    with open("output/frequency_strategy/strategy_results.json", "r") as f:
+        frequency_results = json.load(f)
+    
+    all_results["entropy_strategy"] = entropy_results
+    all_results["minimax_strategy"] = minimax_results
+    all_results["frequency_strategy"] = frequency_results
     
     # Evaluate each strategy
     for strategy_name, strategy in strategies.items():
@@ -218,14 +373,20 @@ def main():
         
         # Evaluate strategy performance
         results = evaluate_strategy(game, strategy, target_words)
+        all_results[strategy_name] = results
         
-        # Generate plots and save report
+        # Generate individual plots and save report
         generate_plots(results, strategy_output_dir)
         report_path = save_report(results, strategy_output_dir)
         
         print(f"Evaluation of {strategy_name} completed successfully.")
         print(f"Performance report saved to {report_path}")
         print(f"Raw data saved to {strategy_output_dir}/strategy_results.json")
+    
+    # Generate comparative plots and report
+    generate_comparative_plots(all_results, base_output_dir)
+    comparative_report_path = save_comparative_report(all_results, base_output_dir)
+    print(f"\nComparative performance report saved to {comparative_report_path}")
 
 
 if __name__ == "__main__":

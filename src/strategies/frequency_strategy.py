@@ -6,7 +6,7 @@ class FrequencyBasedStrategy(AbstractStrategy):
     def choose_best_guess(self, possible_words, attempts):
         
         if attempts == 0:
-            return 'cares'
+            return 'cares' # pre-computed optimal first guess
         
         # If there's only one possibility, return it immediately
         if len(possible_words) == 1:

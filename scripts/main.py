@@ -6,8 +6,8 @@ This script allows users to input a target word and see how the entropy-based so
 attempts to solve it, showing the thought process and guesses along the way.
 """
 
-from wordle import Wordle
-from strategies import EntropyBasedStrategy, MinimaxBasedStrategy, FrequencyBasedStrategy
+from src.wordle import Wordle
+from src.strategies import EntropyBasedStrategy, MinimaxBasedStrategy, FrequencyBasedStrategy, HybridStrategy
 
 
 def get_valid_word(prompt: str, word_list: list) -> str:
@@ -22,7 +22,9 @@ def get_valid_word(prompt: str, word_list: list) -> str:
 def main():
     # Initialize the game and strategy
     game = Wordle(allowed_words="data/allowed_words.txt", possible_words="data/possible_words.txt")
-    strategy = FrequencyBasedStrategy()
+    
+    # choose strategy
+    strategy = HybridStrategy()
     
     # Load word lists
     with open("data/allowed_words.txt", "r") as f:
