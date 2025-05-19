@@ -1,12 +1,14 @@
 # Wordle Solver
 
-A comprehensive Python toolkit for solving and analyzing Wordle puzzles using various solving strategies.
+A project focused on solving Wordle puzzles using various algorithmic strategies.
 
-![Wordle Solver](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wordle_196_example.svg/440px-Wordle_196_example.svg.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wordle_196_example.svg/440px-Wordle_196_example.svg.png" alt="Wordle Solver">
+</p>
 
 ## Overview
 
-This project implements and evaluates different algorithmic strategies for solving Wordle, the popular word-guessing game. The toolkit includes:
+This project implements and evaluates different algorithms for solving Wordle, the popular word-guessing game. It includes:
 
 - A Wordle game simulator
 - Multiple solving strategies (Entropy-based, Minimax, and Frequency-based)
@@ -27,7 +29,7 @@ This project implements and evaluates different algorithmic strategies for solvi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/wordle-solver.git
+   git clone https://github.com/bratet/wordle-solver.git
    cd wordle-solver
    ```
 
