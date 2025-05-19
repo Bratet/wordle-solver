@@ -7,7 +7,7 @@ attempts to solve it, showing the thought process and guesses along the way.
 """
 
 from src.wordle import Wordle
-from src.strategies import EntropyBasedStrategy, MinimaxBasedStrategy, FrequencyBasedStrategy, HybridStrategy
+from src.strategies import EntropyBasedStrategy, MinimaxBasedStrategy, FrequencyBasedStrategy
 
 
 def get_valid_word(prompt: str, word_list: list) -> str:
@@ -24,7 +24,7 @@ def main():
     game = Wordle(allowed_words="data/allowed_words.txt", possible_words="data/possible_words.txt")
     
     # choose strategy
-    strategy = HybridStrategy()
+    strategy = EntropyBasedStrategy()
     
     # Load word lists
     with open("data/allowed_words.txt", "r") as f:

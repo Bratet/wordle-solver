@@ -1,151 +1,187 @@
 from abc import ABC, abstractmethod
+from typing import List, Set, Optional, Tuple
+from pathlib import Path
+
+# Constants
+DEFAULT_WORD_LENGTH = 5
+DEFAULT_MAX_ATTEMPTS = 6
+FEEDBACK_GREEN = "G"
+FEEDBACK_YELLOW = "Y"
+FEEDBACK_GRAY = "_"
 
 class AbstractStrategy(ABC):
-    def __init__(self, vocabulary='data/allowed_words.txt'):
-        with open(vocabulary, 'r') as file:
-            # Convert all words to lowercase for consistent comparison
-            self.vocabulary = [line.strip().lower() for line in file]
-            
-        # Initialize previous guesses tracking
-        self.previous_guesses = set()
+    """
+    Abstract base class for Wordle solving strategies.
     
-    def _generate_feedback(self, guess: str, target_word:str):
+    This class provides common functionality for all Wordle solving strategies,
+    including feedback generation and word space reduction.
+    
+    Attributes:
+        vocabulary (List[str]): List of allowed words
+        previous_guesses (Set[str]): Set of words already guessed
+    """
+    
+    def __init__(self, vocabulary: str = 'data/allowed_words.txt') -> None:
         """
-        Generate feedback for a guess:
-        - "G": correct letter, correct position
-        - "Y": correct letter, wrong position
-        - "_": letter not in word
+        Initialize the strategy with a vocabulary of allowed words.
         
-        Ensures case-insensitive comparison
+        Args:
+            vocabulary: Path to file containing allowed words
         """
-        # Convert both words to lowercase for consistent comparison
+        self.vocabulary = self._load_vocabulary(vocabulary)
+        self.previous_guesses: Set[str] = set()
+    
+    @staticmethod
+    def _load_vocabulary(file_path: str) -> List[str]:
+        """
+        Load vocabulary from a file.
+        
+        Args:
+            file_path: Path to the vocabulary file
+            
+        Returns:
+            List of words from the file
+        """
+        with open(file_path, 'r') as file:
+            return [line.strip().lower() for line in file]
+    
+    def _generate_feedback(self, guess: str, target_word: str) -> str:
+        """
+        Generate feedback for a guess against a target word.
+        
+        Args:
+            guess: The word that was guessed
+            target_word: The target word to guess
+            
+        Returns:
+            String of feedback indicators:
+            - "G": correct letter, correct position
+            - "Y": correct letter, wrong position
+            - "_": letter not in word
+        """
         guess = guess.lower()
         target_word = target_word.lower()
         
-        word_length = 5
-        feedback = ["_"] * word_length
+        feedback = [FEEDBACK_GRAY] * DEFAULT_WORD_LENGTH
         
         # Count occurrences of each letter in the target word
-        letter_count = {}
+        letter_count: dict[str, int] = {}
         for char in target_word:
-            if char in letter_count:
-                letter_count[char] += 1
-            else:
-                letter_count[char] = 1
+            letter_count[char] = letter_count.get(char, 0) + 1
         
         # First pass: Mark correct positions
-        for i in range(word_length):
+        for i in range(DEFAULT_WORD_LENGTH):
             if guess[i] == target_word[i]:
-                feedback[i] = "G"
+                feedback[i] = FEEDBACK_GREEN
                 letter_count[guess[i]] -= 1
         
         # Second pass: Mark correct letters in wrong positions
-        for i in range(word_length):
-            if feedback[i] == "_" and guess[i] in letter_count and letter_count[guess[i]] > 0:
-                feedback[i] = "Y"
+        for i in range(DEFAULT_WORD_LENGTH):
+            if (feedback[i] == FEEDBACK_GRAY and 
+                guess[i] in letter_count and 
+                letter_count[guess[i]] > 0):
+                feedback[i] = FEEDBACK_YELLOW
                 letter_count[guess[i]] -= 1
         
         return ''.join(feedback)
     
-    
-    def _reduce_words_space(self, guess, possible_words, feedback):
+    def _reduce_words_space(
+        self,
+        guess: str,
+        possible_words: List[str],
+        feedback: str
+    ) -> List[str]:
         """
-        Reduce the possible words space after getting feedback from a guess in Wordle.
+        Reduce the possible words space based on feedback from a guess.
         
         Args:
-            guess (str): The word that was guessed (converted to lowercase)
-            possible_words (list): List of possible words before this guess
-            feedback (list): Feedback for each letter, e.g. ['_', 'Y', 'G', '_', '_']
-                            'G' = Green (correct letter, correct position)
-                            'Y' = Yellow (correct letter, wrong position)
-                            '_' = Gray (letter not in word)
-        
+            guess: The word that was guessed
+            possible_words: List of possible words before this guess
+            feedback: Feedback string for the guess (e.g. "G_Y__")
+            
         Returns:
-            list: Reduced list of possible words
+            Reduced list of possible words
         """
-        # Convert guess to lowercase for consistency
         guess = guess.lower()
         new_word_space = possible_words.copy()
         
-        # First pass: Handle 'G' (green) matches
+        # First pass: Handle green matches
         for i, sign in enumerate(feedback):
-            if sign == 'G':
+            if sign == FEEDBACK_GREEN:
                 new_word_space = [word for word in new_word_space if guess[i] == word[i]]
         
-        # Second pass: Handle 'Y' (yellow) matches
+        # Second pass: Handle yellow matches
         for i, sign in enumerate(feedback):
-            if sign == 'Y':
-                # Letter is in the word but not at this position
+            if sign == FEEDBACK_YELLOW:
                 new_word_space = [word for word in new_word_space if 
                                 (guess[i] in word and guess[i] != word[i])]
         
-        # Third pass: Handle '_' (gray/blank) - letter not in word
-        # We need to be careful with this because duplicate letters
-        # might be marked as gray if they appear more times in the guess
-        # than in the actual word
-        gray_letters = {guess[i] for i, sign in enumerate(feedback) if sign == '_'}
+        # Third pass: Handle gray matches
+        gray_letters = {guess[i] for i, sign in enumerate(feedback) if sign == FEEDBACK_GRAY}
         
-        # For each gray letter, we need to check if it appears elsewhere as green or yellow
         for gray_letter in gray_letters:
-            # Count how many times this letter appears as green or yellow
+            # Count occurrences as green or yellow
             green_yellow_count = sum(1 for i, sign in enumerate(feedback) 
-                                if (sign == 'G' or sign == 'Y') and guess[i] == gray_letter)
+                                if (sign == FEEDBACK_GREEN or sign == FEEDBACK_YELLOW) 
+                                and guess[i] == gray_letter)
             
-            # If it never appears as green or yellow, it's not in the word
             if green_yellow_count == 0:
+                # Letter not in word at all
                 new_word_space = [word for word in new_word_space if gray_letter not in word]
             else:
-                # If it appears as green or yellow, then the allowed count is exactly that number
-                for word in new_word_space.copy():
-                    if word.count(gray_letter) > green_yellow_count:
-                        new_word_space.remove(word)
+                # Letter appears exactly green_yellow_count times
+                new_word_space = [word for word in new_word_space 
+                                if word.count(gray_letter) == green_yellow_count]
         
         return new_word_space
            
-    def solve(self, game):
+    def solve(self, game) -> Tuple[Optional[str], int]:
+        """
+        Solve the Wordle game using the strategy.
+        
+        Args:
+            game: Wordle game instance to solve
+            
+        Returns:
+            Tuple containing:
+            - The winning word (or None if not solved)
+            - Number of attempts made
+        """
         possible_words = self.vocabulary.copy()
         attempts = 0
         self.previous_guesses = set()
         
-        # Get the game's max attempts
-        max_attempts = 6  # Standard Wordle limit
-        
-        while attempts < max_attempts:
+        while attempts < DEFAULT_MAX_ATTEMPTS:
             guess = self.choose_best_guess(possible_words, attempts)
             
             # Add to our set of previous guesses BEFORE making the guess
             self.previous_guesses.add(guess)
-            
             attempts += 1 
             
             is_correct, feedback, error_msg = game.make_guess(guess)
             
-            # Check for errors
             if error_msg:
                 print(f"Error: {error_msg}")
                 continue
                 
-            # Check for correct guess
             if is_correct:
                 return guess, attempts
             
             # Reduce the search space based on feedback
             possible_words = self._reduce_words_space(guess, possible_words, feedback)
             
-            # If we've run out of possible words, something went wrong
-            if len(possible_words) == 0:
+            if not possible_words:
                 print("Error: No possible words left in the word space!")
                 return None, attempts
                 
             # If only one word remains and we still have attempts, just guess it
-            if len(possible_words) == 1 and attempts < max_attempts:
+            if len(possible_words) == 1 and attempts < DEFAULT_MAX_ATTEMPTS:
                 final_guess = possible_words[0]
                 
                 # Skip if we already tried this word
                 if final_guess in self.previous_guesses and final_guess != guess:
                     continue
                     
-                # Otherwise make this our final guess
                 self.previous_guesses.add(final_guess)
                 attempts += 1
                 is_correct, _, error_msg = game.make_guess(final_guess)
@@ -158,6 +194,16 @@ class AbstractStrategy(ABC):
         return None, attempts
     
     @abstractmethod
-    def choose_best_guess(self, possible_words, attempts):
+    def choose_best_guess(self, possible_words: List[str], attempts: int) -> str:
+        """
+        Choose the best word to guess from the possible words.
+        
+        Args:
+            possible_words: List of possible words to choose from
+            attempts: Current number of attempts made
+            
+        Returns:
+            The chosen word to guess
+        """
         pass
 
